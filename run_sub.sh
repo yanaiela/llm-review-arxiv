@@ -1,0 +1,10 @@
+CUDA_VISIBLE_DEVICES=1 uv run python -m src.main --llm-model vllm/google/gemma-2-2b-it --llm-api-base http://localhost:8000/v1 --stage all --categories cs.LG
+CUDA_VISIBLE_DEVICES=1 uv run python -m src.main --llm-model vllm/google/gemma-2-2b-it --llm-api-base http://localhost:8000/v1 --stage all --categories cs.CV
+CUDA_VISIBLE_DEVICES=1 uv run python -m src.main --llm-model vllm/google/gemma-2-2b-it --llm-api-base http://localhost:8000/v1 --stage all --categories cs.AI
+CUDA_VISIBLE_DEVICES=1 uv run python -m src.main --llm-model vllm/google/gemma-2-2b-it --llm-api-base http://localhost:8000/v1 --stage all --categories cs.CL
+CUDA_VISIBLE_DEVICES=1 uv run python -m src.main --llm-model vllm/google/gemma-2-2b-it --llm-api-base http://localhost:8000/v1 --stage all --categories cs.RO
+CUDA_VISIBLE_DEVICES=1 uv run python -m src.main --llm-model vllm/google/gemma-2-2b-it --llm-api-base http://localhost:8000/v1 --stage all --categories cs.CR
+CUDA_VISIBLE_DEVICES=1 uv run python -m src.main --llm-model vllm/google/gemma-2-2b-it --llm-api-base http://localhost:8000/v1 --stage all --categories cs.HC
+CUDA_VISIBLE_DEVICES=1 uv run python -m src.main --llm-model vllm/google/gemma-2-2b-it --llm-api-base http://localhost:8000/v1 --stage all --categories cs.CY
+CUDA_VISIBLE_DEVICES=1 uv run python -m src.main --llm-model vllm/google/gemma-2-2b-it --llm-api-base http://localhost:8000/v1 --stage all --categories cs.SE
+CUDA_VISIBLE_DEVICES=1 uv run python -m src.main --llm-model vllm/google/gemma-2-2b-it --llm-api-base http://localhost:8000/v1 --stage all --categories cs.IR

@@ -1,0 +1,45 @@
+uv run python -m src.main --stage detect --categories cs --detection-method pangram
+uv run python -m src.main --stage analyze --categories cs --detection-method pangram
+uv run python -m src.main --stage visualize --categories cs --detection-method pangram
+uv run python -m src.main --stage detect --categories math --detection-method pangram
+uv run python -m src.main --stage analyze --categories math --detection-method pangram
+uv run python -m src.main --stage visualize --categories math --detection-method pangram
+uv run python -m src.main --stage detect --categories stat --detection-method pangram
+uv run python -m src.main --stage analyze --categories stat --detection-method pangram
+uv run python -m src.main --stage visualize --categories stat --detection-method pangram
+uv run python -m src.main --stage detect --categories physics --detection-method pangram
+uv run python -m src.main --stage analyze --categories physics --detection-method pangram
+uv run python -m src.main --stage visualize --categories physics --detection-method pangram
+
+uv run python -m src.main --stage detect --categories cs.LG --detection-method pangram
+uv run python -m src.main --stage detect --categories cs.CV --detection-method pangram
+uv run python -m src.main --stage detect --categories cs.AI --detection-method pangram
+uv run python -m src.main --stage detect --categories cs.CL --detection-method pangram
+uv run python -m src.main --stage detect --categories cs.RO --detection-method pangram
+uv run python -m src.main --stage detect --categories cs.CR --detection-method pangram
+uv run python -m src.main --stage detect --categories cs.HC --detection-method pangram
+uv run python -m src.main --stage detect --categories cs.CY --detection-method pangram
+uv run python -m src.main --stage detect --categories cs.SE --detection-method pangram
+uv run python -m src.main --stage detect --categories cs.IR --detection-method pangram
+
+uv run python -m src.main --stage analyze --categories cs.LG --detection-method pangram
+uv run python -m src.main --stage analyze --categories cs.CV --detection-method pangram
+uv run python -m src.main --stage analyze --categories cs.AI --detection-method pangram
+uv run python -m src.main --stage analyze --categories cs.CL --detection-method pangram
+uv run python -m src.main --stage analyze --categories cs.RO --detection-method pangram
+uv run python -m src.main --stage analyze --categories cs.CR --detection-method pangram
+uv run python -m src.main --stage analyze --categories cs.HC --detection-method pangram
+uv run python -m src.main --stage analyze --categories cs.CY --detection-method pangram
+uv run python -m src.main --stage analyze --categories cs.SE --detection-method pangram
+uv run python -m src.main --stage analyze --categories cs.IR --detection-method pangram
+
+uv run python -m src.main --stage visualize --categories cs.LG --detection-method pangram
+uv run python -m src.main --stage visualize --categories cs.CV --detection-method pangram
+uv run python -m src.main --stage visualize --categories cs.AI --detection-method pangram
+uv run python -m src.main --stage visualize --categories cs.CL --detection-method pangram
+uv run python -m src.main --stage visualize --categories cs.RO --detection-method pangram
+uv run python -m src.main --stage visualize --categories cs.CR --detection-method pangram
+uv run python -m src.main --stage visualize --categories cs.HC --detection-method pangram
+uv run python -m src.main --stage visualize --categories cs.CY --detection-method pangram
+uv run python -m src.main --stage visualize --categories cs.SE --detection-method pangram
+uv run python -m src.main --stage visualize --categories cs.IR --detection-method pangram
