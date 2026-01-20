@@ -1,0 +1,128 @@
+{
+  "descriptive": {
+    "overall": {
+      "total_papers": 3519,
+      "valid_classifications": 3519,
+      "classification_rate": 1.0,
+      "ai_generated_count": 374,
+      "ai_generated_rate": 0.10628019323671498,
+      "mean_confidence": 0.1145600298952023,
+      "std_confidence": 0.29898186390126424
+    },
+    "post_llm_review": {
+      "count": 825,
+      "valid_classifications": 825,
+      "ai_generated_count": 112,
+      "ai_generated_rate": 0.13575757575757577,
+      "mean_confidence": 0.1412871631147083,
+      "std_confidence": 0.3338915878270341
+    },
+    "post_llm_regular": {
+      "count": 2694,
+      "valid_classifications": 2694,
+      "ai_generated_count": 262,
+      "ai_generated_rate": 0.09725315515961395,
+      "mean_confidence": 0.10637521738366092,
+      "std_confidence": 0.2870145964767908
+    }
+  },
+  "proportion_comparison": {
+    "test": "proportion_comparison",
+    "review_ai_count": 112,
+    "review_total": 825,
+    "review_ai_rate": 0.13575757575757577,
+    "regular_ai_count": 262,
+    "regular_total": 2694,
+    "regular_ai_rate": 0.09725315515961395,
+    "difference": 0.038504420597961816,
+    "relative_increase": 39.591950034698144,
+    "chi_square": 9.457040391797115,
+    "p_value": 0.0021034018254063648,
+    "cramers_v": 0.05184035758524258,
+    "significant": true
+  },
+  "confidence_comparison": {
+    "test": "confidence_comparison",
+    "review_mean": 0.1412871631147083,
+    "review_std": 0.3338915878270341,
+    "review_median": 7.0532162984212245e-06,
+    "regular_mean": 0.10637521738366092,
+    "regular_std": 0.2870145964767908,
+    "regular_median": 9.023480945163304e-06,
+    "t_statistic": 2.9377566619165005,
+    "t_p_value": 0.003327443466002061,
+    "mann_whitney_u": 1097704.5,
+    "mann_whitney_p_value": 0.5950672782558286,
+    "cohens_d": 0.11689600880231328,
+    "t_significant": true,
+    "mann_whitney_significant": false
+  },
+  "yearly_trends": {
+    "counts_by_year_type": {
+      "regular": {
+        "2023": 865,
+        "2024": 918,
+        "2025": 911
+      },
+      "review": {
+        "2023": 299,
+        "2024": 279,
+        "2025": 247
+      }
+    },
+    "ai_rates_by_year_type": [
+      {
+        "year": 2023,
+        "paper_type": "review",
+        "ai_rate": 0.030100334448160536,
+        "mean_confidence": 0.034568682584298314
+      },
+      {
+        "year": 2023,
+        "paper_type": "regular",
+        "ai_rate": 0.028901734104046242,
+        "mean_confidence": 0.03128738248662146
+      },
+      {
+        "year": 2024,
+        "paper_type": "review",
+        "ai_rate": 0.12186379928315412,
+        "mean_confidence": 0.1224147371683687
+      },
+      {
+        "year": 2024,
+        "paper_type": "regular",
+        "ai_rate": 0.07952069716775599,
+        "mean_confidence": 0.0861369520461868
+      },
+      {
+        "year": 2025,
+        "paper_type": "review",
+        "ai_rate": 0.2793522267206478,
+        "mean_confidence": 0.29179012877309424
+      },
+      {
+        "year": 2025,
+        "paper_type": "regular",
+        "ai_rate": 0.1800219538968167,
+        "mean_confidence": 0.19806534336142198
+      }
+    ],
+    "review_share_by_year": {
+      "2023": 0.25687285223367695,
+      "2024": 0.23308270676691728,
+      "2025": 0.21329879101899826
+    },
+    "review_share_trend": {
+      "coef_year": -0.12160030238531719,
+      "p_value": 0.01327227433701076,
+      "odds_ratio_per_year": 0.8855022309084267,
+      "significant": true
+    },
+    "years_present": [
+      2023,
+      2024,
+      2025
+    ]
+  }
+}

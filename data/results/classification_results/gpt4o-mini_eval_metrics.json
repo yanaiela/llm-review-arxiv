@@ -1,0 +1,20 @@
+{
+  "model": "gpt-4o-mini",
+  "temperature": 0.0,
+  "total_papers": 60,
+  "accuracy": 0.9666666666666667,
+  "precision": 0.9166666666666666,
+  "recall": 1.0,
+  "f1_score": 0.9565217391304348,
+  "confusion_matrix": [
+    [
+      36,
+      2
+    ],
+    [
+      0,
+      22
+    ]
+  ],
+  "classification_report": "              precision    recall  f1-score   support\n\n       Other       1.00      0.95      0.97        38\n      Review       0.92      1.00      0.96        22\n\n    accuracy                           0.97        60\n   macro avg       0.96      0.97      0.96        60\nweighted avg       0.97      0.97      0.97        60\n"
+}

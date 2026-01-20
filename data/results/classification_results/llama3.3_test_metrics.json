@@ -1,0 +1,20 @@
+{
+  "model": "ollama/llama3.3",
+  "temperature": 0.0,
+  "total_papers": 140,
+  "accuracy": 0.9214285714285714,
+  "precision": 0.9259259259259259,
+  "recall": 0.8771929824561403,
+  "f1_score": 0.9009009009009009,
+  "confusion_matrix": [
+    [
+      79,
+      4
+    ],
+    [
+      7,
+      50
+    ]
+  ],
+  "classification_report": "              precision    recall  f1-score   support\n\n       Other       0.92      0.95      0.93        83\n      Review       0.93      0.88      0.90        57\n\n    accuracy                           0.92       140\n   macro avg       0.92      0.91      0.92       140\nweighted avg       0.92      0.92      0.92       140\n"
+}

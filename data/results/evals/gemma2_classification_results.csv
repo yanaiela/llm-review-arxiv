@@ -1,0 +1,97 @@
+arxiv_id,title,ground_truth,predicted,llm_classification,confidence,reasoning
+2408.01934,A Survey and Evaluation of Adversarial Attacks for Object Detection,1,1,review,0.98,The abstract explicitly states that the paper provides a comprehensive taxonomy of adversarial attacks for object detection and reviews existing evaluation metrics.
+2109.10572,"Realism of Simulation Models in Serious Gaming: Two case studies from
+  Urban Water Management Higher Education",0,0,other,0.9,The paper presents original research by analyzing simulation models in two games and conducting a survey on player perceptions of realism.
+2308.13821,"A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and
+  Future Directions",1,1,review,0.98,The abstract explicitly states that the paper is a comprehensive review of imbalanced learning on graphs.
+2309.07689,"Detecting ChatGPT: A Survey of the State of Detecting ChatGPT-Generated
+  Text",1,1,review,0.98,"The abstract explicitly states that the paper provides an overview of current approaches to detecting ChatGPT-generated text, indicating a review focus."
+2406.10948,"Incorporating uncertainty quantification into travel mode choice
+  modeling: a Bayesian neural network (BNN) approach and an uncertainty-guided
+  active survey framework",0,0,other,0.98,The paper proposes a new Bayesian neural network model for travel mode choice prediction and an active survey framework. It focuses on original research and novel methods.
+2108.12673,"Tracing app technology: An ethical review in the COVID-19 era and
+  directions for post-COVID-19",1,1,review,0.98,The abstract explicitly states that the paper conducted a systematic literature review on ethical considerations of contact tracing app technology.
+2404.18337,Additive Spanner Lower Bounds with Optimal Inner Graph Structure,0,0,other,0.98,The paper presents a new construction for graphs and improves existing lower bounds on spanner error. This indicates original research rather than a review.
+2302.10856,Overview of the TREC 2021 Fair Ranking Track,1,1,review,0.98,"The paper provides an overview of a specific track within a larger research competition, outlining its goals and tasks."
+2112.06522,Anatomizing Bias in Facial Analysis,1,1,review,0.98,The abstract explicitly mentions a systematic review of bias detection/estimation algorithms and an overview of existing mitigation algorithms.
+2405.11817,Systematic Review on Healthcare Systems Engineering utilizing ChatGPT,1,1,review,0.98,The paper explicitly states it conducts a systematic review of Healthcare Systems Engineering literature using ChatGPT.
+2202.08187,"Differential Privacy and Fairness in Decisions and Learning Tasks: A
+  Survey",1,1,review,0.99,The title explicitly states 'A Survey' and the abstract describes a systematic review of research on differential privacy and fairness.
+2307.02332,"Co-creating a Transdisciplinary Map of Technology-mediated Harms, Risks
+  and Vulnerabilities: Challenges, Ambivalences and Opportunities",1,1,review,0.85,The abstract mentions a review of existing literature on online harms and how they have been classified.
+2408.06304,"Control-Flow Attestation: Concepts, Solutions, and Open Challenges",1,1,review,0.98,"The abstract explicitly states that the paper is a survey of control-flow attestation, examining existing solutions and posing future research challenges."
+2204.02921,A survey on recently proposed activation functions for Deep Learning,1,1,review,0.98,The abstract explicitly states that the paper is a survey discussing various activation functions in neural networks.
+2310.19687,Sentiment Analysis in Digital Spaces: An Overview of Reviews,1,1,review,0.98,"The paper explicitly states it is an overview of existing reviews on sentiment analysis, synthesizing 38 systematic reviews."
+2407.18597,Reinforcement Learning for Sustainable Energy: A Survey,1,1,review,0.98,The paper explicitly states its purpose is to survey existing research on reinforcement learning for sustainable energy.
+2104.11906,"A Review on C3I Systems' Security: Vulnerabilities, Attacks, and
+  Countermeasures",1,1,review,0.98,The abstract explicitly states that the paper aims to provide a comprehensive review and synthesis of existing research on C3I systems' security.
+2203.00483,"A Survey on How Test Flakiness Affects Developers and What Support They
+  Need To Address It",0,1,review,0.98,"The paper surveys developer perceptions of flaky tests, synthesizing findings from a developer survey."
+2307.12874,"SoK: Design, Vulnerabilities, and Security Measures of Cryptocurrency
+  Wallets",1,1,review,0.98,"The abstract clearly states the paper aims to comprehensively explore and survey the security aspects of cryptocurrency wallets, covering various types, vulnerabilities, and mitigation strategies."
+2206.0269,A Survey on Sentence Embedding Models Performance for Patent Analysis,1,1,review,0.98,The abstract explicitly states that the paper provides an overview of embedding models' performance for patent analysis and aims to build a clear delineation of their accuracy.
+2211.13546,"Number Theoretic Transform and Its Applications in Lattice-based
+  Cryptosystems: A Survey",1,1,review,0.98,"The abstract explicitly states that the paper reviews basic concepts of NTT, introduces algorithms, discusses recent advances, and explores applications in lattice-based cryptography."
+2405.19265,"AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight
+  Tuning on Multi-source Data",0,0,other,0.98,The paper presents a new model (AlchemistCoder) and describes its training process on multi-source data. It focuses on original research and novel methods.
+2101.11775,Moral and Social Ramifications of Autonomous Vehicles,0,0,other,0.9,The paper presents original qualitative research findings on the perspectives of drivers regarding autonomous vehicles.
+2212.07902,Five Facets of 6G: Research Challenges and Opportunities,1,1,review,0.98,The abstract explicitly states that the paper surveys five main research facets of 6G and provides a critical appraisal of existing literature.
+2401.14656,"Scientific Large Language Models: A Survey on Biological & Chemical
+  Domains",1,1,review,0.98,The abstract explicitly states that the paper aims to provide a thorough review of advancements in scientific LLMs within biological and chemical domains.
+2108.13176,"Maximum Expected Delay: A New Metric to Analyse the Performance of
+  Asynchronous Quorum-based Protocols in Wireless Sensor Networks",0,1,review,0.9,The abstract explicitly states that the paper reviews a subset of asynchronous quorum-based methods and investigates their performance using different metrics.
+2205.06719,dewolf: Improving Decompilation by leveraging User Surveys,0,0,other,0.9,The paper presents a new decompilation approach called dewolf and evaluates it through user surveys and comparisons to existing tools.
+2212.03283,"Status Quo Bias in Users Information Systems (IS) Adoption and
+  Continuance Intentions: A Literature Review and Framework",1,1,review,0.98,The abstract explicitly states that the paper performs a systematic literature review on status quo bias in IS research.
+2209.04376,Challenges of Implementing Agile Processes in Remote-First Companies,1,1,review,0.98,The abstract explicitly states that the paper is a survey aiming to discover challenges of implementing agile processes in remote settings.
+2406.09722,Cross-view geo-localization: a survey,1,1,review,0.98,The abstract explicitly states that the paper provides a thorough survey of methodologies and challenges in cross-view geo-localization.
+2401.08081,"Predicting Next Useful Location With Context-Awareness: The
+  State-Of-The-Art",1,1,review,0.98,The abstract explicitly states that the paper provides a comprehensive overview of next location prediction research and analyzes numerous studies in the field.
+2109.06808,"What are the attackers doing now? Automating cyber threat intelligence
+  extraction from text on pace with the changing threat landscape: A survey",1,1,review,0.98,"The paper surveys existing research on automated cyber threat intelligence extraction from text, categorizing techniques, purposes, and data sources."
+2404.05429,"Re-Ranking News Comments by Constructiveness and Curiosity Significantly
+  Increases Perceived Respect, Trustworthiness, and Interest",0,0,other,0.98,The paper presents original research findings from a survey experiment investigating the impact of comment ranking on user perceptions.
+2211.0478,"On the Robustness of Explanations of Deep Neural Network Models: A
+  Survey",1,1,review,0.98,The abstract explicitly states that the paper presents a comprehensive survey of methods for studying the robustness of DNN model explanations.
+2103.01888,DM algorithms in health industry,1,1,review,0.98,The abstract explicitly states that the paper is a survey reviewing data mining approaches in the health industry.
+2302.08244,"Beyond 5G Domainless Network Operation enabled by Multiband: Toward
+  Optical Continuum Architectures",1,1,review,0.9,"The abstract describes the current state of multiband optical transmission and its potential impact on future network architectures. It focuses on summarizing existing challenges and innovation requirements, indicating a review-style approach."
+2407.11203,The Life Cycle of Large Language Models: A Review of Biases in Education,1,1,review,0.98,"The paper explicitly states it is a review, mapping the LLM life cycle and identifying potential biases within educational applications."
+2103.00097,"A Brief Survey of Current Software Engineering Practices in Continuous
+  Integration and Automated Accessibility Testing",1,1,review,0.98,"The abstract explicitly states the paper aims to 'map the current scene' and 'explore steps' related to accessibility testing within CI, indicating a review-style approach."
+2102.13364,"Building Blocks of Sharding Blockchain Systems: Concepts, Approaches,
+  and Open Problems",1,1,review,0.98,The abstract explicitly states a systematic analysis of existing sharding blockchain systems and a review of approaches for each component.
+2307.15838,Holistic Survey of Privacy and Fairness in Machine Learning,1,1,review,0.98,"The abstract explicitly states that the paper provides a thorough review of privacy and fairness in machine learning, covering existing literature and research gaps."
+2206.1265,"Machine Learning-based Biological Ageing Estimation Technologies: A
+  Survey",1,1,review,0.98,The abstract explicitly states that the paper will review three age prediction methods using machine learning.
+2108.04087,"Reinforcement Learning for Intelligent Healthcare Systems: A
+  Comprehensive Survey",1,1,review,0.98,The abstract explicitly states that the paper is a comprehensive survey of RL in intelligent healthcare systems.
+2407.0379,Assessing Consensus of Developers' Views on Code Readability,0,0,other,0.9,The paper presents original research findings from a survey of developers on code readability in the context of LLMs.
+2303.05453,"Personalisation within bounds: A risk taxonomy and policy framework for
+  the alignment of large language models with personalised feedback",1,1,review,0.98,The paper reviews existing literature on aligning LLMs with human feedback and identifies issues within current paradigms.
+2105.05804,"Bridging the user equilibrium and the system optimum in static traffic
+  assignment: how the cooperation among drivers can solve the congestion
+  problem in city networks",1,1,review,0.98,The abstract explicitly states that the paper is a survey reviewing state-of-the-art approaches to bridging user equilibrium and system optimum in traffic assignment.
+2311.06311,"Game Theory Solutions in Sensor-Based Human Activity Recognition: A
+  Review",1,1,review,0.98,"The title explicitly states it is a review, and the abstract focuses on summarizing existing research and suggesting future directions for applying game theory to HAR."
+2311.02608,"Deep Learning-based 3D Point Cloud Classification: A Systematic Survey
+  and Outlook",1,1,review,0.98,The abstract explicitly states the paper's purpose is to review recent research progress and future trends in deep learning-based point cloud classification.
+2108.13732,Deep Learning on Edge TPUs,1,1,review,0.98,"The abstract explicitly states that the paper reviews the Edge TPU platform, its capabilities, and deployment steps."
+2101.10261,Discrete Choice Analysis with Machine Learning Capabilities,1,1,review,0.9,The paper discusses existing methodologies for discrete choice analysis and highlights how machine learning can be applied to improve upon them.
+2307.0066,Minimum Levels of Interpretability for Artificial Moral Agents,1,1,review,0.98,The abstract describes an overview of a subfield of AI interpretability and proposes recommendations for minimum levels of interpretability.
+2207.06415,"The Free Energy Principle for Perception and Action: A Deep Learning
+  Perspective",1,1,review,0.98,"The abstract explicitly states the paper surveys relevant works in both machine learning and active inference areas, indicating a review focus."
+2109.0184,"A review of Quantum Neural Networks: Methods, Models, Dilemma",1,1,review,0.98,"The abstract explicitly states that the paper will review the development of Quantum Neural Networks across different aspects like methods, models, and challenges."
+2107.02975,"Neural Natural Language Processing for Unstructured Data in Electronic
+  Health Records: a Review",1,1,review,0.99,"The title explicitly states it is a review, and the abstract summarizes existing neural NLP methods for EHR applications."
+2104.04842,"Designing Effective Interview Chatbots: Automatic Chatbot Profiling and
+  Design Suggestion Generation for Chatbot Debugging",0,0,other,0.98,The paper presents a novel tool (iChatProfile) for chatbot design and evaluates its effectiveness through an empirical study.
+2301.12687,Understanding Visual Arts Experiences of Blind People,0,0,other,0.98,The paper presents original research findings from interviews and surveys about blind people's experiences with visual arts.
+2404.0457,"A Map of Exploring Human Interaction patterns with LLM: Insights into
+  Collaboration and Creativity",1,1,review,0.98,The abstract explicitly states that the paper reviews existing literature on human interaction with LLMs and presents a mapping of this research landscape.
+2202.01428,Multi-Criteria Assessment of Shape Quality in CAD Systems of the Future,0,1,review,0.9,The abstract discusses various quality criteria for curves used in CAD systems and reviews existing technical issues related to edge rounding.
+2202.0251,A Survey on Poisoning Attacks Against Supervised Machine Learning,1,1,review,0.98,The abstract explicitly states that the paper is a survey covering existing research on poisoning attacks against supervised machine learning.
+2103.04112,"Applying Machine Learning in Self-Adaptive Systems: A Systematic
+  Literature Review",1,1,review,0.99,The abstract explicitly states that the paper presents a systematic literature review of machine learning in self-adaptive systems.
+2403.0466,"Exploring the Design Space of Optical See-through AR Head-Mounted
+  Displays to Support First Responders in the Field",0,0,other,0.9,The paper presents original research findings from interviews with first responders about their experiences and preferences for AR HMDs in field operations.

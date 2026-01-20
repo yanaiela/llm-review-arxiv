@@ -1,0 +1,81 @@
+================================================================================
+AI-GENERATED CONTENT IN REVIEW PAPERS: STATISTICAL ANALYSIS (PANGRAM)
+================================================================================
+
+DESCRIPTIVE STATISTICS
+--------------------------------------------------------------------------------
+
+Total Papers: 3598
+Valid Classifications: 3598
+Classification Success Rate: 100.0%
+
+Overall AI-Generated Papers: 356 (9.9%)
+Mean Confidence: 0.104 ± 0.288
+
+Post-LLM Review Papers:
+  Count: 204
+  AI-Generated: 33 (16.2%)
+  Mean Confidence: 0.167
+
+Post-LLM Regular Papers:
+  Count: 3394
+  AI-Generated: 323 (9.5%)
+  Mean Confidence: 0.100
+
+
+PROPORTION COMPARISON (Post-LLM Period)
+--------------------------------------------------------------------------------
+
+Review Papers:
+  AI-Generated: 33/204 (16.2%)
+
+Regular Papers:
+  AI-Generated: 323/3394 (9.5%)
+
+Difference: 6.7%
+Relative Increase: 70.0%
+
+Chi-square Test:
+  χ² = 8.8405, p = 0.0029
+  Cramér's V = 0.0496
+  Significant: True
+
+
+CONFIDENCE SCORE COMPARISON (Post-LLM Period)
+--------------------------------------------------------------------------------
+
+Review Papers:
+  Mean: 0.167 ± 0.358
+  Median: 0.000
+
+Regular Papers:
+  Mean: 0.100 ± 0.283
+  Median: 0.000
+
+Statistical Tests:
+  T-test: t = 3.2038, p = 0.0014 (sig: True)
+  Mann-Whitney U: U = 352532, p = 0.6598 (sig: False)
+  Cohen's d: 0.2310
+
+
+YEARLY TRENDS (Post-LLM)
+--------------------------------------------------------------------------------
+  Years covered: 2023, 2024, 2025
+
+  Paper Counts by Year:
+    2023: review: 62 regular: 1137
+    2024: review: 85 regular: 1115
+    2025: review: 57 regular: 1142
+
+  Review Share by Year:
+    2023: 5.2%
+    2024: 7.1%
+    2025: 4.8%
+
+  Review Share Trend (Logistic Regression):
+    coef=-0.0390, OR/yr=0.962, p=0.6589, significant=False
+
+
+CONCLUSION
+--------------------------------------------------------------------------------
+No clear difference in AI-generated content between review and regular papers.

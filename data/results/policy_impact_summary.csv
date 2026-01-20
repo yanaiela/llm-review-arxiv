@@ -1,0 +1,22 @@
+Metric,Value
+Total papers analyzed,24800
+Review papers,3563
+Regular papers,21237
+Total author-paper instances,114016
+Unique authors,85239
+Authors affected by review restriction,13128
+Median h-index (review authors),10.0
+Median h-index (regular authors),10.0
+Junior author review rate,13.36%
+Senior author review rate,13.00%
+Global South review rate,8.89%
+Global North review rate,20.77%
+Highest review rate subfield,Safety Research (61.4%)
+Lowest review rate subfield,Biomedical Engineering (3.2%)
+Single-field paper review rate,14.16%
+Interdisciplinary paper review rate,14.85%
+Single-subfield author review rate,13.4%
+Interdisciplinary author review rate,31.8%
+Pre-LLM review rate,N/A
+Post-LLM review rate,13.31%
+Temporal change (pp),N/A

@@ -1,0 +1,144 @@
+{
+  "descriptive": {
+    "overall": {
+      "total_papers": 7184,
+      "valid_classifications": 7184,
+      "classification_rate": 1.0,
+      "ai_generated_count": 205,
+      "ai_generated_rate": 0.028535634743875278,
+      "mean_confidence": 0.03158958682242345,
+      "std_confidence": 0.16405874493241066
+    },
+    "pre_llm_review": {
+      "count": 405,
+      "valid_classifications": 405,
+      "ai_generated_count": 0,
+      "ai_generated_rate": 0.0,
+      "mean_confidence": 6.1077999643501106e-06,
+      "std_confidence": 2.4562337337803514e-05
+    },
+    "pre_llm_regular": {
+      "count": 3189,
+      "valid_classifications": 3189,
+      "ai_generated_count": 6,
+      "ai_generated_rate": 0.0018814675446848542,
+      "mean_confidence": 0.0018984176428001281,
+      "std_confidence": 0.040145233551968036
+    },
+    "post_llm_review": {
+      "count": 391,
+      "valid_classifications": 391,
+      "ai_generated_count": 20,
+      "ai_generated_rate": 0.05115089514066496,
+      "mean_confidence": 0.058381533666780366,
+      "std_confidence": 0.22037257753907954
+    },
+    "post_llm_regular": {
+      "count": 3199,
+      "valid_classifications": 3199,
+      "ai_generated_count": 179,
+      "ai_generated_rate": 0.05595498593310409,
+      "mean_confidence": 0.06191181136189552,
+      "std_confidence": 0.2256373444427908
+    }
+  },
+  "proportion_comparison": {
+    "test": "proportion_comparison",
+    "review_ai_count": 20,
+    "review_total": 391,
+    "review_ai_rate": 0.05115089514066496,
+    "regular_ai_count": 179,
+    "regular_total": 3199,
+    "regular_ai_rate": 0.05595498593310409,
+    "difference": -0.004804090792439132,
+    "relative_increase": -8.585634885482001,
+    "chi_square": 0.07552863700413873,
+    "p_value": 0.7834508909191096,
+    "cramers_v": 0.004586787279774305,
+    "significant": false
+  },
+  "confidence_comparison": {
+    "test": "confidence_comparison",
+    "review_mean": 0.058381533666780366,
+    "review_std": 0.22037257753907954,
+    "review_median": 3.410710228814019e-06,
+    "regular_mean": 0.06191181136189552,
+    "regular_std": 0.2256373444427908,
+    "regular_median": 3.973642985026042e-06,
+    "t_statistic": -0.2927773670809491,
+    "t_p_value": 0.7697092588655126,
+    "mann_whitney_u": 605549.0,
+    "mann_whitney_p_value": 0.3047587522399505,
+    "cohens_d": -0.015685169869623112,
+    "t_significant": false,
+    "mann_whitney_significant": false
+  },
+  "yearly_trends": {
+    "counts_by_year_type": {
+      "regular": {
+        "2023": 1047,
+        "2024": 1064,
+        "2025": 1088
+      },
+      "review": {
+        "2023": 148,
+        "2024": 134,
+        "2025": 109
+      }
+    },
+    "ai_rates_by_year_type": [
+      {
+        "year": 2023,
+        "paper_type": "review",
+        "ai_rate": 0.006756756756756757,
+        "mean_confidence": 0.011548941781570963
+      },
+      {
+        "year": 2023,
+        "paper_type": "regular",
+        "ai_rate": 0.015281757402101241,
+        "mean_confidence": 0.015139420839880704
+      },
+      {
+        "year": 2024,
+        "paper_type": "review",
+        "ai_rate": 0.05970149253731343,
+        "mean_confidence": 0.06402547121245668
+      },
+      {
+        "year": 2024,
+        "paper_type": "regular",
+        "ai_rate": 0.03289473684210526,
+        "mean_confidence": 0.03982870068491352
+      },
+      {
+        "year": 2025,
+        "paper_type": "review",
+        "ai_rate": 0.10091743119266056,
+        "mean_confidence": 0.11503232236302227
+      },
+      {
+        "year": 2025,
+        "paper_type": "regular",
+        "ai_rate": 0.11764705882352941,
+        "mean_confidence": 0.12851762260900798
+      }
+    ],
+    "review_share_by_year": {
+      "2023": 0.12384937238493723,
+      "2024": 0.11185308848080133,
+      "2025": 0.0910609857978279
+    },
+    "review_share_trend": {
+      "coef_year": -0.1695771261399962,
+      "p_value": 0.010199021386555337,
+      "odds_ratio_per_year": 0.8440216558376032,
+      "significant": true
+    },
+    "years_present": [
+      2023,
+      2024,
+      2025
+    ]
+  }
+}

@@ -1,0 +1,2572 @@
+arxiv_id,title,abstract,classified_type,MARIA_ANNOTATION
+2401.08081,"Predicting Next Useful Location With Context-Awareness: The
+  State-Of-The-Art","  Predicting the future location of mobile objects reinforces location-aware
+services with proactive intelligence and helps businesses and decision-makers
+with better planning and near real-time scheduling in different applications
+such as traffic congestion control, location-aware advertisements, and
+monitoring public health and well-being. The recent developments in the
+smartphone and location sensors technology and the prevalence of using
+location-based social networks alongside the improvements in artificial
+intelligence and machine learning techniques provide an excellent opportunity
+to exploit massive amounts of historical and real-time contextual information
+to recognise mobility patterns and achieve more accurate and intelligent
+predictions. This survey provides a comprehensive overview of the next useful
+location prediction problem with context-awareness. First, we explain the
+concepts of context and context-awareness and define the next location
+prediction problem. Then we analyse nearly thirty studies in this field
+concerning the prediction method, the challenges addressed, the datasets and
+metrics used for training and evaluating the model, and the types of context
+incorporated. Finally, we discuss the advantages and disadvantages of different
+approaches, focusing on the usefulness of the predicted location and
+identifying the open challenges and future work on this subject by introducing
+two potential use cases of next location prediction in the automotive industry.
+",review,1
+2109.06808,"What are the attackers doing now? Automating cyber threat intelligence
+  extraction from text on pace with the changing threat landscape: A survey","  Cybersecurity researchers have contributed to the automated extraction of CTI
+from textual sources, such as threat reports and online articles, where
+cyberattack strategies, procedures, and tools are described. The goal of this
+article is to aid cybersecurity researchers understand the current techniques
+used for cyberthreat intelligence extraction from text through a survey of
+relevant studies in the literature. We systematically collect ""CTI extraction
+from text""-related studies from the literature and categorize the CTI
+extraction purposes. We propose a CTI extraction pipeline abstracted from these
+studies. We identify the data sources, techniques, and CTI sharing formats
+utilized in the context of the proposed pipeline. Our work finds ten types of
+extraction purposes, such as extraction indicators of compromise extraction,
+TTPs (tactics, techniques, procedures of attack), and cybersecurity keywords.
+We also identify seven types of textual sources for CTI extraction, and textual
+data obtained from hacker forums, threat reports, social media posts, and
+online news articles have been used by almost 90% of the studies. Natural
+language processing along with both supervised and unsupervised machine
+learning techniques such as named entity recognition, topic modelling,
+dependency parsing, supervised classification, and clustering are used for CTI
+extraction. We observe the technical challenges associated with these studies
+related to obtaining available clean, labelled data which could assure
+replication, validation, and further extension of the studies. As we find the
+studies focusing on CTI information extraction from text, we advocate for
+building upon the current CTI extraction work to help cybersecurity
+practitioners with proactive decision making such as threat prioritization,
+automated threat modelling to utilize knowledge from past cybersecurity
+incidents.
+",review,1
+2404.05429,"Re-Ranking News Comments by Constructiveness and Curiosity Significantly
+  Increases Perceived Respect, Trustworthiness, and Interest","  Online commenting platforms have commonly developed systems to address online
+harms by removing and down-ranking content. An alternative, under-explored
+approach is to focus on up-ranking content to proactively prioritize prosocial
+commentary and set better conversational norms. We present a study with 460
+English-speaking US-based news readers to understand the effects of re-ranking
+comments by constructiveness, curiosity, and personal stories on a variety of
+outcomes related to willingness to participate and engage, as well as perceived
+credibility and polarization in a comment section. In our rich-media survey
+experiment, participants across these four ranking conditions and a control
+group reviewed prototypes of comment sections of a Politics op-ed and Dining
+article. We found that outcomes varied significantly by article type.
+Up-ranking curiosity and constructiveness improved a number of measures for the
+Politics article, including perceived Respect, Trustworthiness, and
+Interestingness of the comment section. Constructiveness also increased
+perceptions that the comments were favorable to Republicans, with no condition
+worsening perceptions of partisans. Additionally, in the Dining article,
+personal stories and constructiveness rankings significantly improved the
+perceived informativeness of the comments. Overall, these findings indicate
+that incorporating prosocial qualities of speech into ranking could be a
+promising approach to promote healthier, less polarized dialogue in online
+comment sections.
+",review,0
+2211.0478,"On the Robustness of Explanations of Deep Neural Network Models: A
+  Survey","  Explainability has been widely stated as a cornerstone of the responsible and
+trustworthy use of machine learning models. With the ubiquitous use of Deep
+Neural Network (DNN) models expanding to risk-sensitive and safety-critical
+domains, many methods have been proposed to explain the decisions of these
+models. Recent years have also seen concerted efforts that have shown how such
+explanations can be distorted (attacked) by minor input perturbations. While
+there have been many surveys that review explainability methods themselves,
+there has been no effort hitherto to assimilate the different methods and
+metrics proposed to study the robustness of explanations of DNN models. In this
+work, we present a comprehensive survey of methods that study, understand,
+attack, and defend explanations of DNN models. We also present a detailed
+review of different metrics used to evaluate explanation methods, as well as
+describe attributional attack and defense methods. We conclude with lessons and
+take-aways for the community towards ensuring robust explanations of DNN model
+predictions.
+",review,1
+2103.01888,DM algorithms in health industry,"  This survey reviews several approaches of data mining (DM) in healthindustry
+from many research groups world wide. The focus is on modern multi-core
+processors built into today's commodity computers, which are typically found at
+university institutes both as small server and workstation computers. So they
+are deliberately not high-performance computers. Modern multi-core processors
+consist of several (2 to over 100) computer cores, which work independently of
+each other according to the principle of ""multiple instruction multiple data""
+(MIMD). They have a common main memory (shared memory). Each of these computer
+cores has several (2-16) arithmetic-logic units, which can simultaneously carry
+out the same arithmetic operation on several data in a vector-like manner
+(single instruction multiple data, SIMD). DM algorithms must use both types of
+parallelism (SIMD and MIMD), with access to the main memory (centralized
+component) being the main barrier to increased efficiency. This is important
+for DM in healthindustry applications like ECG, EEG, CT, SPECT, fMRI, DTI,
+ultrasound, microscopy, dermascopy, etc.
+",review,1
+2302.0824399999997,"Beyond 5G Domainless Network Operation enabled by Multiband: Toward
+  Optical Continuum Architectures","  Both public and private innovation projects are targeting the design,
+prototyping and demonstration of a novel end-to-end integrated packet-optical
+transport architecture based on Multi-Band (MB) optical transmission and
+switching networks. Essentially, MB is expected to be the next technological
+evolution to deal with the traffic demand and service requirements of 5G mobile
+networks, and beyond, in the most cost-effective manner. Thanks to MB
+transmission, classical telco architectures segmented into hierarchical levels
+and domains can move forward toward an optical network continuum, where edge
+access nodes are all-optically interconnected with top-hierarchical nodes,
+interfacing Content Delivery Networks (CDN) and Internet Exchange Points (IXP).
+This article overviews the technological challenges and innovation requirements
+to enable such an architectural shift of telco networks both from a data and
+control and management planes.
+",review,1
+2407.1120300000002,The Life Cycle of Large Language Models: A Review of Biases in Education,"  Large Language Models (LLMs) are increasingly adopted in educational contexts
+to provide personalized support to students and teachers. The unprecedented
+capacity of LLM-based applications to understand and generate natural language
+can potentially improve instructional effectiveness and learning outcomes, but
+the integration of LLMs in education technology has renewed concerns over
+algorithmic bias which may exacerbate educational inequities. In this review,
+building on prior work on mapping the traditional machine learning life cycle,
+we provide a holistic map of the LLM life cycle from the initial development of
+LLMs to customizing pre-trained models for various applications in educational
+settings. We explain each step in the LLM life cycle and identify potential
+sources of bias that may arise in the context of education. We discuss why
+current measures of bias from traditional machine learning fail to transfer to
+LLM-generated content in education, such as tutoring conversations because the
+text is high-dimensional, there can be multiple correct responses, and
+tailoring responses may be pedagogically desirable rather than unfair. This
+review aims to clarify the complex nature of bias in LLM applications and
+provide practical guidance for their evaluation to promote educational equity.
+",review,1
+2103.00097,"A Brief Survey of Current Software Engineering Practices in Continuous
+  Integration and Automated Accessibility Testing","  It's long been accepted that continuous integration (CI) in software
+engineering increases the code quality of enterprise projects when adhered to
+by it's practitioners. But is any of that effort to increase code quality and
+velocity directed towards improving software accessibility accommodations? What
+are the potential benefits quoted in literature? Does it fit with the modern
+agile way that teams operate in most enterprises? This paper attempts to map
+the current scene of the software engineering effort spent on improving
+accessibility via continuous integration and it's hurdles to adoption as quoted
+by researchers. We also try to explore steps that agile teams may take to train
+members on how to implement accessibility testing and introduce key diagrams to
+visualize processes to implement CI based accessibility testing procedures in
+the software development lifecycle.
+",review,1
+2102.13364,"Building Blocks of Sharding Blockchain Systems: Concepts, Approaches,
+  and Open Problems","  Sharding is the prevalent approach to breaking the trilemma of simultaneously
+achieving decentralization, security, and scalability in traditional blockchain
+systems, which are implemented as replicated state machines relying on atomic
+broadcast for consensus on an immutable chain of valid transactions. Sharding
+is to be understood broadly as techniques for dynamically partitioning nodes in
+a blockchain system into subsets (shards) that perform storage, communication,
+and computation tasks without fine-grained synchronization with each other.
+Despite much recent research on sharding blockchains, much remains to be
+explored in the design space of these systems. Towards that aim, we conduct a
+systematic analysis of existing sharding blockchain systems and derive a
+conceptual decomposition of their architecture into functional components and
+the underlying assumptions about system models and attackers they are built on.
+The functional components identified are node selection, epoch randomness, node
+assignment, intra-shard consensus, cross-shard transaction processing, shard
+reconfiguration, and motivation mechanism. We describe interfaces,
+functionality, and properties of each component and show how they compose into
+a sharding blockchain system. For each component, we systematically review
+existing approaches, identify potential and open problems, and propose future
+research directions. We focus on potential security attacks and performance
+problems, including system throughput and latency concerns such as confirmation
+delays. We believe our modular architectural decomposition and in-depth
+analysis of each component, based on a comprehensive literature study, provides
+a systematic basis for conceptualizing state-of-the-art sharding blockchain
+systems, proving or improving security and performance properties of
+components, and developing new sharding blockchain system designs.
+",review,1
+2307.15838,Holistic Survey of Privacy and Fairness in Machine Learning,"  Privacy and fairness are two crucial pillars of responsible Artificial
+Intelligence (AI) and trustworthy Machine Learning (ML). Each objective has
+been independently studied in the literature with the aim of reducing utility
+loss in achieving them. Despite the significant interest attracted from both
+academia and industry, there remains an immediate demand for more in-depth
+research to unravel how these two objectives can be simultaneously integrated
+into ML models. As opposed to well-accepted trade-offs, i.e., privacy-utility
+and fairness-utility, the interrelation between privacy and fairness is not
+well-understood. While some works suggest a trade-off between the two objective
+functions, there are others that demonstrate the alignment of these functions
+in certain scenarios. To fill this research gap, we provide a thorough review
+of privacy and fairness in ML, including supervised, unsupervised,
+semi-supervised, and reinforcement learning. After examining and consolidating
+the literature on both objectives, we present a holistic survey on the impact
+of privacy on fairness, the impact of fairness on privacy, existing
+architectures, their interaction in application domains, and algorithms that
+aim to achieve both objectives while minimizing the utility sacrificed.
+Finally, we identify research challenges in achieving privacy and fairness
+concurrently in ML, particularly focusing on large language models.
+",review,1
+2206.1265,"Machine Learning-based Biological Ageing Estimation Technologies: A
+  Survey","  In recent years, there are various methods of estimating Biological Age (BA)
+have been developed. Especially with the development of machine learning (ML),
+there are more and more types of BA predictions, and the accuracy has been
+greatly improved. The models for the estimation of BA play an important role in
+monitoring healthy aging, and could provide new tools to detect health status
+in the general population and give warnings to sub-healthy people. We will
+mainly review three age prediction methods by using ML. They are based on blood
+biomarkers, facial images, and structural neuroimaging features. For now, the
+model using blood biomarkers is the simplest, most direct, and most accurate
+method. The face image method is affected by various aspects such as race,
+environment, etc., the prediction accuracy is not very good, which cannot make
+a great contribution to the medical field. In summary, we are here to track the
+way forward in the era of big data for us and other potential general
+populations and show ways to leverage the vast amounts of data available today.
+",review,1
+2108.04087,"Reinforcement Learning for Intelligent Healthcare Systems: A
+  Comprehensive Survey","  The rapid increase in the percentage of chronic disease patients along with
+the recent pandemic pose immediate threats on healthcare expenditure and
+elevate causes of death. This calls for transforming healthcare systems away
+from one-on-one patient treatment into intelligent health systems, to improve
+services, access and scalability, while reducing costs. Reinforcement Learning
+(RL) has witnessed an intrinsic breakthrough in solving a variety of complex
+problems for diverse applications and services. Thus, we conduct in this paper
+a comprehensive survey of the recent models and techniques of RL that have been
+developed/used for supporting Intelligent-healthcare (I-health) systems. This
+paper can guide the readers to deeply understand the state-of-the-art regarding
+the use of RL in the context of I-health. Specifically, we first present an
+overview for the I-health systems challenges, architecture, and how RL can
+benefit these systems. We then review the background and mathematical modeling
+of different RL, Deep RL (DRL), and multi-agent RL models. After that, we
+provide a deep literature review for the applications of RL in I-health
+systems. In particular, three main areas have been tackled, i.e., edge
+intelligence, smart core network, and dynamic treatment regimes. Finally, we
+highlight emerging challenges and outline future research directions in driving
+the future success of RL in I-health systems, which opens the door for
+exploring some interesting and unsolved problems.
+",review,1
+2407.0379,Assessing Consensus of Developers' Views on Code Readability,"  The rapid rise of Large Language Models (LLMs) has changed software
+development, with tools like Copilot, JetBrains AI Assistant, and others
+boosting developers' productivity. However, developers now spend more time
+reviewing code than writing it, highlighting the importance of Code Readability
+for code comprehension. Our previous research found that existing Code
+Readability models were inaccurate in representing developers' notions and
+revealed a low consensus among developers, highlighting a need for further
+investigations in this field.
+  Building on this, we surveyed 10 Java developers with similar coding
+experience to evaluate their consensus on Code Readability assessments and
+related aspects. We found significant agreement among developers on Code
+Readability evaluations and identified specific code aspects strongly
+correlated with Code Readability. Overall, our study sheds light on Code
+Readability within LLM contexts, offering insights into how these models can
+align with developers' perceptions of Code Readability, enhancing software
+development in the AI era.
+",review,0
+2303.05453,"Personalisation within bounds: A risk taxonomy and policy framework for
+  the alignment of large language models with personalised feedback","  Large language models (LLMs) are used to generate content for a wide range of
+tasks, and are set to reach a growing audience in coming years due to
+integration in product interfaces like ChatGPT or search engines like Bing.
+This intensifies the need to ensure that models are aligned with human
+preferences and do not produce unsafe, inaccurate or toxic outputs. While
+alignment techniques like reinforcement learning with human feedback (RLHF) and
+red-teaming can mitigate some safety concerns and improve model capabilities,
+it is unlikely that an aggregate fine-tuning process can adequately represent
+the full range of users' preferences and values. Different people may
+legitimately disagree on their preferences for language and conversational
+norms, as well as on values or ideologies which guide their communication.
+Personalising LLMs through micro-level preference learning processes may result
+in models that are better aligned with each user. However, there are several
+normative challenges in defining the bounds of a societally-acceptable and safe
+degree of personalisation. In this paper, we ask how, and in what ways, LLMs
+should be personalised. First, we review literature on current paradigms for
+aligning LLMs with human feedback, and identify issues including (i) a lack of
+clarity regarding what alignment means; (ii) a tendency of technology providers
+to prescribe definitions of inherently subjective preferences and values; and
+(iii) a 'tyranny of the crowdworker', exacerbated by a lack of documentation in
+who we are really aligning to. Second, we present a taxonomy of benefits and
+risks associated with personalised LLMs, for individuals and society at large.
+Finally, we propose a three-tiered policy framework that allows users to
+experience the benefits of personalised alignment, while restraining unsafe and
+undesirable LLM-behaviours within (supra-)national and organisational bounds.
+",review,1
+2105.05804,"Bridging the user equilibrium and the system optimum in static traffic
+  assignment: how the cooperation among drivers can solve the congestion
+  problem in city networks","  Solving the road congestion problem is one of the most pressing issues in
+moderncities since it causes time wasting, pollution, higher industrial costs
+and huge roadmaintenance costs. Advances in ITS technologies and the advent of
+autonomousvehicles are changing mobility dramatically. They enable the
+implementation of acoordination mechanism, called coordinated traffic
+assignment, among the sat-navdevices aiming at assigning paths to drivers to
+eliminate congestion and to re-duce the total travel time in traffic networks.
+Among possible congestion avoidance methods, coordinated traffic assignment is
+a valuable choice since it does not involvehuge investments to expand the road
+network. Traffic assignments are traditionally devoted to two main perspectives
+on which the well-known Wardropian principlesare inspired: the user equilibrium
+and the system optimum. User equilibrium is a user-driven traffic assignment in
+which each user chooses the most convenientpath selfishly. It guarantees that
+fairness among users is respected since, whenthe equilibrium is reached, all
+users sharing the same origin and destination willexperience the same travel
+time. The main drawback in a user equilibrium is thatthe system total travel
+time is not minimized and, hence, the so-called Price ofAnarchy is paid. On the
+other hand, the system optimum is an efficient system-wide traffic assignment
+in which drivers are routed on the network in such a waythe total travel time
+is minimized but users might experience travel times that arehigher than the
+other users travelling from the same origin to the same destina-tion affecting
+the compliance. Thus, drawbacks in implementing one of the two assignments can
+be overcome by hybridizing the two approaches aiming at bridging users'
+fairness to system-wide efficiency. The survey reviews the state-of-the-art of
+these trade-off approaches
+",review,1
+2311.06311,"Game Theory Solutions in Sensor-Based Human Activity Recognition: A
+  Review","  The Human Activity Recognition (HAR) tasks automatically identify human
+activities using the sensor data, which has numerous applications in
+healthcare, sports, security, and human-computer interaction. Despite
+significant advances in HAR, critical challenges still exist. Game theory has
+emerged as a promising solution to address these challenges in machine learning
+problems including HAR. However, there is a lack of research work on applying
+game theory solutions to the HAR problems. This review paper explores the
+potential of game theory as a solution for HAR tasks, and bridges the gap
+between game theory and HAR research work by suggesting novel game-theoretic
+approaches for HAR problems. The contributions of this work include exploring
+how game theory can improve the accuracy and robustness of HAR models,
+investigating how game-theoretic concepts can optimize recognition algorithms,
+and discussing the game-theoretic approaches against the existing HAR methods.
+The objective is to provide insights into the potential of game theory as a
+solution for sensor-based HAR, and contribute to develop a more accurate and
+efficient recognition system in the future research directions.
+",review,1
+2311.02608,"Deep Learning-based 3D Point Cloud Classification: A Systematic Survey
+  and Outlook","  In recent years, point cloud representation has become one of the research
+hotspots in the field of computer vision, and has been widely used in many
+fields, such as autonomous driving, virtual reality, robotics, etc. Although
+deep learning techniques have achieved great success in processing regular
+structured 2D grid image data, there are still great challenges in processing
+irregular, unstructured point cloud data. Point cloud classification is the
+basis of point cloud analysis, and many deep learning-based methods have been
+widely used in this task. Therefore, the purpose of this paper is to provide
+researchers in this field with the latest research progress and future trends.
+First, we introduce point cloud acquisition, characteristics, and challenges.
+Second, we review 3D data representations, storage formats, and commonly used
+datasets for point cloud classification. We then summarize deep learning-based
+methods for point cloud classification and complement recent research work.
+Next, we compare and analyze the performance of the main methods. Finally, we
+discuss some challenges and future directions for point cloud classification.
+",review,1
+2108.13732,Deep Learning on Edge TPUs,"  Computing at the edge is important in remote settings, however, conventional
+hardware is not optimized for utilizing deep neural networks. The Google Edge
+TPU is an emerging hardware accelerator that is cost, power and speed
+efficient, and is available for prototyping and production purposes. Here, I
+review the Edge TPU platform, the tasks that have been accomplished using the
+Edge TPU, and which steps are necessary to deploy a model to the Edge TPU
+hardware. The Edge TPU is not only capable of tackling common computer vision
+tasks, but also surpasses other hardware accelerators, especially when the
+entire model can be deployed to the Edge TPU. Co-embedding the Edge TPU in
+cameras allows a seamless analysis of primary data. In summary, the Edge TPU is
+a maturing system that has proven its usability across multiple tasks.
+",review,1
+2101.1026100000004,Discrete Choice Analysis with Machine Learning Capabilities,"  This paper discusses capabilities that are essential to models applied in
+policy analysis settings and the limitations of direct applications of
+off-the-shelf machine learning methodologies to such settings. Traditional
+econometric methodologies for building discrete choice models for policy
+analysis involve combining data with modeling assumptions guided by
+subject-matter considerations. Such considerations are typically most useful in
+specifying the systematic component of random utility discrete choice models
+but are typically of limited aid in determining the form of the random
+component. We identify an area where machine learning paradigms can be
+leveraged, namely in specifying and systematically selecting the best
+specification of the random component of the utility equations. We review two
+recent novel applications where mixed-integer optimization and cross-validation
+are used to algorithmically select optimal specifications for the random
+utility components of nested logit and logit mixture models subject to
+interpretability constraints.
+",review,1
+2307.0066,Minimum Levels of Interpretability for Artificial Moral Agents,"  As artificial intelligence (AI) models continue to scale up, they are
+becoming more capable and integrated into various forms of decision-making
+systems. For models involved in moral decision-making, also known as artificial
+moral agents (AMA), interpretability provides a way to trust and understand the
+agent's internal reasoning mechanisms for effective use and error correction.
+In this paper, we provide an overview of this rapidly-evolving sub-field of AI
+interpretability, introduce the concept of the Minimum Level of
+Interpretability (MLI) and recommend an MLI for various types of agents, to aid
+their safe deployment in real-world settings.
+",review,1
+2207.06415,"The Free Energy Principle for Perception and Action: A Deep Learning
+  Perspective","  The free energy principle, and its corollary active inference, constitute a
+bio-inspired theory that assumes biological agents act to remain in a
+restricted set of preferred states of the world, i.e., they minimize their free
+energy. Under this principle, biological agents learn a generative model of the
+world and plan actions in the future that will maintain the agent in an
+homeostatic state that satisfies its preferences. This framework lends itself
+to being realized in silico, as it comprehends important aspects that make it
+computationally affordable, such as variational inference and amortized
+planning. In this work, we investigate the tool of deep learning to design and
+realize artificial agents based on active inference, presenting a deep-learning
+oriented presentation of the free energy principle, surveying works that are
+relevant in both machine learning and active inference areas, and discussing
+the design choices that are involved in the implementation process. This
+manuscript probes newer perspectives for the active inference framework,
+grounding its theoretical aspects into more pragmatic affairs, offering a
+practical guide to active inference newcomers and a starting point for deep
+learning practitioners that would like to investigate implementations of the
+free energy principle.
+",review,1
+2109.0184,"A review of Quantum Neural Networks: Methods, Models, Dilemma","  The rapid development of quantum computer hardware has laid the hardware
+foundation for the realization of QNN. Due to quantum properties, QNN shows
+higher storage capacity and computational efficiency compared to its classical
+counterparts. This article will review the development of QNN in the past six
+years from three parts: implementation methods, quantum circuit models, and
+difficulties faced. Among them, the first part, the implementation method,
+mainly refers to some underlying algorithms and theoretical frameworks for
+constructing QNN models, such as VQA. The second part introduces several
+quantum circuit models of QNN, including QBM, QCVNN and so on. The third part
+describes some of the main difficult problems currently encountered. In short,
+this field is still in the exploratory stage, full of magic and practical
+significance.
+",review,1
+2107.02975,"Neural Natural Language Processing for Unstructured Data in Electronic
+  Health Records: a Review","  Electronic health records (EHRs), digital collections of patient healthcare
+events and observations, are ubiquitous in medicine and critical to healthcare
+delivery, operations, and research. Despite this central role, EHRs are
+notoriously difficult to process automatically. Well over half of the
+information stored within EHRs is in the form of unstructured text (e.g.
+provider notes, operation reports) and remains largely untapped for secondary
+use. Recently, however, newer neural network and deep learning approaches to
+Natural Language Processing (NLP) have made considerable advances,
+outperforming traditional statistical and rule-based systems on a variety of
+tasks. In this survey paper, we summarize current neural NLP methods for EHR
+applications. We focus on a broad scope of tasks, namely, classification and
+prediction, word embeddings, extraction, generation, and other topics such as
+question answering, phenotyping, knowledge graphs, medical dialogue,
+multilinguality, interpretability, etc.
+",review,1
+2104.04842,"Designing Effective Interview Chatbots: Automatic Chatbot Profiling and
+  Design Suggestion Generation for Chatbot Debugging","  Recent studies show the effectiveness of interview chatbots for information
+elicitation. However, designing an effective interview chatbot is non-trivial.
+Few tools exist to help designers design, evaluate, and improve an interview
+chatbot iteratively. Based on a formative study and literature reviews, we
+propose a computational framework for quantifying the performance of interview
+chatbots. Incorporating the framework, we have developed iChatProfile, an
+assistive chatbot design tool that can automatically generate a profile of an
+interview chatbot with quantified performance metrics and offer design
+suggestions for improving the chatbot based on such metrics. To validate the
+effectiveness of iChatProfile, we designed and conducted a between-subject
+study that compared the performance of 10 interview chatbots designed with or
+without using iChatProfile. Based on the live chats between the 10 chatbots and
+1349 users, our results show that iChatProfile helped the designers build
+significantly more effective interview chatbots, improving both interview
+quality and user experience.
+",review,0
+2301.12687,Understanding Visual Arts Experiences of Blind People,"  Visual arts play an important role in cultural life and provide access to
+social heritage and self-enrichment, but most visual arts are inaccessible to
+blind people. Researchers have explored different ways to enhance blind
+people's access to visual arts (e.g., audio descriptions, tactile graphics).
+However, how blind people adopt these methods remains unknown. We conducted
+semi-structured interviews with 15 blind visual arts patrons to understand how
+they engage with visual artwork and the factors that influence their adoption
+of visual arts access methods. We further examined interview insights in a
+follow-up survey (N=220). We present: 1) current practices and challenges of
+accessing visual artwork in-person and online (e.g., Zoom tour), 2) motivation
+and cognition of perceiving visual arts (e.g., imagination), and 3)
+implications for designing visual arts access methods. Overall, our findings
+provide a roadmap for technology-based support for blind people's visual arts
+experiences.
+",review,0
+2404.0457,"A Map of Exploring Human Interaction patterns with LLM: Insights into
+  Collaboration and Creativity","  The outstanding performance capabilities of large language model have driven
+the evolution of current AI system interaction patterns. This has led to
+considerable discussion within the Human-AI Interaction (HAII) community.
+Numerous studies explore this interaction from technical, design, and empirical
+perspectives. However, the majority of current literature reviews concentrate
+on interactions across the wider spectrum of AI, with limited attention given
+to the specific realm of interaction with LLM. We searched for articles on
+human interaction with LLM, selecting 110 relevant publications meeting
+consensus definition of Human-AI interaction. Subsequently, we developed a
+comprehensive Mapping Procedure, structured in five distinct stages, to
+systematically analyze and categorize the collected publications. Applying this
+methodical approach, we meticulously mapped the chosen studies, culminating in
+a detailed and insightful representation of the research landscape. Overall,
+our review presents an novel approach, introducing a distinctive mapping
+method, specifically tailored to evaluate human-LLM interaction patterns. We
+conducted a comprehensive analysis of the current research in related fields,
+employing clustering techniques for categorization, which enabled us to clearly
+delineate the status and challenges prevalent in each identified area.
+",review,1
+2202.01428,Multi-Criteria Assessment of Shape Quality in CAD Systems of the Future,"  Unlike many other works, where authors are usually focused on one or two
+quality criteria, the current manuscript, which is a generalization of the
+article [35] published in Russian, offers a multi-criteria approach to the
+assessment of the shape quality of curves that constitute component parts of
+the surfaces used for the computer modelling of object shapes in various types
+of design. Based on the analysis of point particle motion along a curved path,
+requirements for the quality of functional curves are proposed: a high order of
+smoothness, a minimum number of curvature extrema, minimization of the maximum
+value of curvature and its variation rate, minimization of the potential energy
+of the curve, and aesthetic analysis from the standpoint of the laws of
+technical aesthetics. The authors do not set themselves the task of giving a
+simple and precise mathematical definition of such curves. On the contrary,
+this category can include various curves that meet certain quality criteria,
+the refinement and addition of which is possible in the near future.
+Engineering practice shows that quality criteria can change over time, which
+does not diminish the need to develop multi-criteria methods for assessing the
+quality of geometric shapes. Technical issues faced during edge rounding in 3D
+models that affect the quality of industrial design product shape have been
+reviewed as an example of the imperfection of existing CAD systems.
+",review,0
+2202.0251,A Survey on Poisoning Attacks Against Supervised Machine Learning,"  With the rise of artificial intelligence and machine learning in modern
+computing, one of the major concerns regarding such techniques is to provide
+privacy and security against adversaries. We present this survey paper to cover
+the most representative papers in poisoning attacks against supervised machine
+learning models. We first provide a taxonomy to categorize existing studies and
+then present detailed summaries for selected papers. We summarize and compare
+the methodology and limitations of existing literature. We conclude this paper
+with potential improvements and future directions to further exploit and
+prevent poisoning attacks on supervised models. We propose several unanswered
+research questions to encourage and inspire researchers for future work.
+",review,1
+2103.04112,"Applying Machine Learning in Self-Adaptive Systems: A Systematic
+  Literature Review","  Recently, we witness a rapid increase in the use of machine learning in
+self-adaptive systems. Machine learning has been used for a variety of reasons,
+ranging from learning a model of the environment of a system during operation
+to filtering large sets of possible configurations before analysing them. While
+a body of work on the use of machine learning in self-adaptive systems exists,
+there is currently no systematic overview of this area. Such overview is
+important for researchers to understand the state of the art and direct future
+research efforts. This paper reports the results of a systematic literature
+review that aims at providing such an overview. We focus on self-adaptive
+systems that are based on a traditional Monitor-Analyze-Plan-Execute feedback
+loop (MAPE). The research questions are centred on the problems that motivate
+the use of machine learning in self-adaptive systems, the key engineering
+aspects of learning in self-adaptation, and open challenges. The search
+resulted in 6709 papers, of which 109 were retained for data collection.
+Analysis of the collected data shows that machine learning is mostly used for
+updating adaptation rules and policies to improve system qualities, and
+managing resources to better balance qualities and resources. These problems
+are primarily solved using supervised and interactive learning with
+classification, regression and reinforcement learning as the dominant methods.
+Surprisingly, unsupervised learning that naturally fits automation is only
+applied in a small number of studies. Key open challenges in this area include
+the performance of learning, managing the effects of learning, and dealing with
+more complex types of goals. From the insights derived from this systematic
+literature review we outline an initial design process for applying machine
+learning in self-adaptive systems that are based on MAPE feedback loops.
+",review,1
+2403.0466,"Exploring the Design Space of Optical See-through AR Head-Mounted
+  Displays to Support First Responders in the Field","  First responders (FRs) navigate hazardous, unfamiliar environments in the
+field (e.g., mass-casualty incidents), making life-changing decisions in a
+split second. AR head-mounted displays (HMDs) have shown promise in supporting
+them due to its capability of recognizing and augmenting the challenging
+environments in a hands-free manner. However, the design space have not been
+thoroughly explored by involving various FRs who serve different roles (e.g.,
+firefighters, law enforcement) but collaborate closely in the field. We
+interviewed 26 first responders in the field who experienced a state-of-the-art
+optical-see-through AR HMD, as well as its interaction techniques and four
+types of AR cues (i.e., overview cues, directional cues, highlighting cues, and
+labeling cues), soliciting their first-hand experiences, design ideas, and
+concerns. Our study revealed both generic and role-specific preferences and
+needs for AR hardware, interactions, and feedback, as well as identifying
+desired AR designs tailored to urgent, risky scenarios (e.g., affordance
+augmentation to facilitate fast and safe action). While acknowledging the value
+of AR HMDs, concerns were also raised around trust, privacy, and proper
+integration with other equipment. Finally, we derived comprehensive and
+actionable design guidelines to inform future AR systems for in-field FRs.
+",review,0
+2208.08876,Survey on Teleoperation Concepts for Automated Vehicles,"  In parallel with the advancement of Automated Driving (AD) functions,
+teleoperation has grown in popularity over recent years. By enabling remote
+operation of automated vehicles, teleoperation can be established as a reliable
+fallback solution for operational design domain limits and edge cases of AD
+functions. Over the years, a variety of different teleoperation concepts as to
+how a human operator can remotely support or substitute an AD function have
+been proposed in the literature. This paper presents the results of a
+literature survey on teleoperation concepts for road vehicles. Furthermore, due
+to the increasing interest within the industry, insights on patents and overall
+company activities in the field of teleoperation are presented.
+",review,1
+2304.10891,"Transformer-based models and hardware acceleration analysis in
+  autonomous driving: A survey","  Transformer architectures have exhibited promising performance in various
+autonomous driving applications in recent years. On the other hand, its
+dedicated hardware acceleration on portable computational platforms has become
+the next critical step for practical deployment in real autonomous vehicles.
+This survey paper provides a comprehensive overview, benchmark, and analysis of
+Transformer-based models specifically tailored for autonomous driving tasks
+such as lane detection, segmentation, tracking, planning, and decision-making.
+We review different architectures for organizing Transformer inputs and
+outputs, such as encoder-decoder and encoder-only structures, and explore their
+respective advantages and disadvantages. Furthermore, we discuss
+Transformer-related operators and their hardware acceleration schemes in depth,
+taking into account key factors such as quantization and runtime. We
+specifically illustrate the operator level comparison between layers from
+convolutional neural network, Swin-Transformer, and Transformer with 4D
+encoder. The paper also highlights the challenges, trends, and current insights
+in Transformer-based models, addressing their hardware deployment and
+acceleration issues within the context of long-term autonomous driving
+applications.
+",review,1
+2207.0491399999996,"Team CERBERUS Wins the DARPA Subterranean Challenge: Technical Overview
+  and Lessons Learned","  This article presents the CERBERUS robotic system-of-systems, which won the
+DARPA Subterranean Challenge Final Event in 2021. The Subterranean Challenge
+was organized by DARPA with the vision to facilitate the novel technologies
+necessary to reliably explore diverse underground environments despite the
+grueling challenges they present for robotic autonomy. Due to their geometric
+complexity, degraded perceptual conditions combined with lack of GPS support,
+austere navigation conditions, and denied communications, subterranean settings
+render autonomous operations particularly demanding. In response to this
+challenge, we developed the CERBERUS system which exploits the synergy of
+legged and flying robots, coupled with robust control especially for overcoming
+perilous terrain, multi-modal and multi-robot perception for localization and
+mapping in conditions of sensor degradation, and resilient autonomy through
+unified exploration path planning and local motion planning that reflects
+robot-specific limitations. Based on its ability to explore diverse underground
+environments and its high-level command and control by a single human
+supervisor, CERBERUS demonstrated efficient exploration, reliable detection of
+objects of interest, and accurate mapping. In this article, we report results
+from both the preliminary runs and the final Prize Round of the DARPA
+Subterranean Challenge, and discuss highlights and challenges faced, alongside
+lessons learned for the benefit of the community.
+",review,0
+2301.10398,"A Survey of Process-Oriented Data Science and Analytics for supporting
+  Business Process Management","  Process analytics approaches allow organizations to support the practice of
+Business Process Management and continuous improvement by leveraging all
+process-related data to extract knowledge, improve process performance and
+support decision-making across the organization. Process execution data once
+collected will contain hidden insights and actionable knowledge that are of
+considerable business value enabling firms to take a data-driven approach for
+identifying performance bottlenecks, reducing costs, extracting insights and
+optimizing the utilization of available resources. Understanding the properties
+of 'current deployed process' (whose execution trace is often available in
+these logs), is critical to understanding the variation across the process
+instances, root-causes of inefficiencies and determining the areas for
+investing improvement efforts. In this survey, we discuss various methods that
+allow organizations to understand the behaviour of their processes, monitor
+currently running process instances, predict the future behavior of those
+instances and provide better support for operational decision-making across the
+organization.
+",review,1
+2404.16244,The Ethics of Advanced AI Assistants,"  This paper focuses on the opportunities and the ethical and societal risks
+posed by advanced AI assistants. We define advanced AI assistants as artificial
+agents with natural language interfaces, whose function is to plan and execute
+sequences of actions on behalf of a user, across one or more domains, in line
+with the user's expectations. The paper starts by considering the technology
+itself, providing an overview of AI assistants, their technical foundations and
+potential range of applications. It then explores questions around AI value
+alignment, well-being, safety and malicious uses. Extending the circle of
+inquiry further, we next consider the relationship between advanced AI
+assistants and individual users in more detail, exploring topics such as
+manipulation and persuasion, anthropomorphism, appropriate relationships, trust
+and privacy. With this analysis in place, we consider the deployment of
+advanced assistants at a societal scale, focusing on cooperation, equity and
+access, misinformation, economic impact, the environment and how best to
+evaluate advanced AI assistants. Finally, we conclude by providing a range of
+recommendations for researchers, developers, policymakers and public
+stakeholders.
+",review,1
+2102.09368,How do students test software units?,"  We gained insight into ideas and beliefs on testing of students who finished
+an introductory course on programming without any formal education on testing.
+We asked students to fill in a small survey, to do four exercises and to fill
+in a second survey. We interviewed eleven of these students in semi-structured
+interviews, to obtain more in-depth insight. The main outcome is that students
+do not test systematically, while most of them think they do test
+systematically. One of the misconceptions we found is that most students can
+only think of test cases based on programming code. Even if no code was
+provided (black-box testing), students try to come up with code to base their
+test cases on.
+",review,0
+2408.17222,"How Could Generative AI Support Compliance with the EU AI Act? A Review
+  for Safe Automated Driving Perception","  Deep Neural Networks (DNNs) have become central for the perception functions
+of autonomous vehicles, substantially enhancing their ability to understand and
+interpret the environment. However, these systems exhibit inherent limitations
+such as brittleness, opacity, and unpredictable behavior in out-of-distribution
+scenarios. The European Union (EU) Artificial Intelligence (AI) Act, as a
+pioneering legislative framework, aims to address these challenges by
+establishing stringent norms and standards for AI systems, including those used
+in autonomous driving (AD), which are categorized as high-risk AI. In this
+work, we explore how the newly available generative AI models can potentially
+support addressing upcoming regulatory requirements in AD perception,
+particularly with respect to safety. This short review paper summarizes the
+requirements arising from the EU AI Act regarding DNN-based perception systems
+and systematically categorizes existing generative AI applications in AD. While
+generative AI models show promise in addressing some of the EU AI Acts
+requirements, such as transparency and robustness, this review examines their
+potential benefits and discusses how developers could leverage these methods to
+enhance compliance with the Act. The paper also highlights areas where further
+research is needed to ensure reliable and safe integration of these
+technologies.
+",review,1
+2301.05339,A Comprehensive Review of Data-Driven Co-Speech Gesture Generation,"  Gestures that accompany speech are an essential part of natural and efficient
+embodied human communication. The automatic generation of such co-speech
+gestures is a long-standing problem in computer animation and is considered an
+enabling technology in film, games, virtual social spaces, and for interaction
+with social robots. The problem is made challenging by the idiosyncratic and
+non-periodic nature of human co-speech gesture motion, and by the great
+diversity of communicative functions that gestures encompass. Gesture
+generation has seen surging interest recently, owing to the emergence of more
+and larger datasets of human gesture motion, combined with strides in
+deep-learning-based generative models, that benefit from the growing
+availability of data. This review article summarizes co-speech gesture
+generation research, with a particular focus on deep generative models. First,
+we articulate the theory describing human gesticulation and how it complements
+speech. Next, we briefly discuss rule-based and classical statistical gesture
+synthesis, before delving into deep learning approaches. We employ the choice
+of input modalities as an organizing principle, examining systems that generate
+gestures from audio, text, and non-linguistic input. We also chronicle the
+evolution of the related training data sets in terms of size, diversity, motion
+quality, and collection method. Finally, we identify key research challenges in
+gesture generation, including data availability and quality; producing
+human-like motion; grounding the gesture in the co-occurring speech in
+interaction with other speakers, and in the environment; performing gesture
+evaluation; and integration of gesture synthesis into applications. We
+highlight recent approaches to tackling the various key challenges, as well as
+the limitations of these approaches, and point toward areas of future
+development.
+",review,1
+2110.09313,"Impact of review valence and perceived uncertainty on purchase of
+  time-constrained and discounted search goods","  Increasing online shoppers have generated enormous amount of data in form of
+reviews (text) and sales data. Aggregate reviews in form of rating (stars) have
+become noticeable indicators of product quality and vendor performance to
+prospective consumers at first sight. Consumers subjected to product discount
+deadlines search for ways in which they could evaluate product and vendor
+service using a comprehensible benchmark. Considering the effect of time
+pressure on consumers, aggregate reviews, known as review valence, become a
+viable indicator of product quality. This study investigates how purchase
+decisions for new products are affected by past customer aggregate ratings when
+a soon-to-expire discount is being offered. We examine the role that a
+consumer's attitude towards review valence (RV) plays as an antecedent to that
+consumer's reliance on RV in a purchase decision for time-discounted search
+goods. Considering review credibility, diagnosticity, and effectiveness as
+determinants of consumer attitude in a time-constrained search and purchase
+environment, we follow the approach-avoidance conflict theory to examine the
+role of review valence and perceived uncertainty in a time-constrained
+environment. The data was collected through an online survey and analyzed using
+structural equation modelling. This study provides significant implications for
+practitioners as they can better understand how review valence can influence a
+purchase decision. Empirical analysis includes two contributions: 1. It helps
+to understand how consumer attitude toward review valence, when positively
+influenced by the determinants, can lead to reliance on review valence, further
+influencing purchase decision; 2. Time constrained purchase-related perceived
+uncertainty negatively moderates the relationship between consumer attitude and
+reliance on review valence.
+",review,0
+2303.14779,"The Application of Driver Models in the Safety Assessment of Autonomous
+  Vehicles: A Survey","  Driver models play a vital role in developing and verifying autonomous
+vehicles (AVs). Previously, they are mainly applied in traffic flow simulation
+to model driver behavior. With the development of AVs, driver models attract
+much attention again due to their potential contributions to AV safety
+assessment. The simulation-based testing method is an effective measure to
+accelerate AV testing due to its safe and efficient characteristics.
+Nonetheless, realistic driver models are prerequisites for valid simulation
+results. Additionally, an AV is assumed to be at least as safe as a careful and
+competent driver, which is modeled by driver models as well. Therefore, driver
+models are essential for AV safety assessment from the current perspective.
+However, no comparison or discussion of driver models is available regarding
+their utility to AVs in the last five years despite their necessities in the
+release of AVs. This motivates us to present a comprehensive survey of driver
+models in the paper and compare their applicability. Requirements for driver
+models as applied to AV safety assessment are discussed. A summary of driver
+models for simulation-based testing and AV benchmarks is provided. Evaluation
+metrics are defined to compare their strength and weakness. Finally, potential
+gaps in existing driver models are identified, which provide direction for
+future work. This study gives related researchers especially regulators an
+overview and helps them to define appropriate driver models for AVs.
+",review,1
+2101.05869,"Technical Report: Rapid Reviews on Engineering of Internet of Things
+  Software Systems","  We conducted a set of Rapid Reviews to characterize Internet of Things
+facets. We formatted a generic meta-protocol that was instantiated for each of
+the six facets presented (Connectivity, Things, Behavior, Smartness,
+Interactivity, and Environment)and considering the issue of Security, one of
+the most important and frequent challenges in the context of IoT. The
+meta-protocol is detailed and the results of each review are presented.
+",review,1
+2307.05035,Number Systems for Deep Neural Network Architectures: A Survey,"  Deep neural networks (DNNs) have become an enabling component for a myriad of
+artificial intelligence applications. DNNs have shown sometimes superior
+performance, even compared to humans, in cases such as self-driving, health
+applications, etc. Because of their computational complexity, deploying DNNs in
+resource-constrained devices still faces many challenges related to computing
+complexity, energy efficiency, latency, and cost. To this end, several research
+directions are being pursued by both academia and industry to accelerate and
+efficiently implement DNNs. One important direction is determining the
+appropriate data representation for the massive amount of data involved in DNN
+processing. Using conventional number systems has been found to be sub-optimal
+for DNNs. Alternatively, a great body of research focuses on exploring suitable
+number systems. This article aims to provide a comprehensive survey and
+discussion about alternative number systems for more efficient representations
+of DNN data. Various number systems (conventional/unconventional) exploited for
+DNNs are discussed. The impact of these number systems on the performance and
+hardware design of DNNs is considered. In addition, this paper highlights the
+challenges associated with each number system and various solutions that are
+proposed for addressing them. The reader will be able to understand the
+importance of an efficient number system for DNN, learn about the widely used
+number systems for DNN, understand the trade-offs between various number
+systems, and consider various design aspects that affect the impact of number
+systems on DNN performance. In addition, the recent trends and related research
+opportunities will be highlighted
+",review,1
+2111.13756,"Demystifying Ten Big Ideas and Rules Every Fire Scientist & Engineer
+  Should Know About Blackbox, Whitebox & Causal Artificial Intelligence","  Artificial intelligence (AI) is paving the way towards the fourth industrial
+revolution with the fire domain (Fire 4.0). As a matter of fact, the next few
+years will be elemental to how this technology will shape our academia,
+practice, and entrepreneurship. Despite the growing interest between fire
+research groups, AI remains absent of our curriculum, and we continue to lack a
+methodical framework to adopt, apply and create AI solutions suitable for our
+problems. The above is also true for parallel engineering domains (i.e.,
+civil/mechanical engineering), and in order to negate the notion of history
+repeats itself (e.g., look at the continued debate with regard to modernizing
+standardized fire testing, etc.), it is the motivation behind this letter to
+the Editor to demystify some of the big ideas behind AI to jump-start prolific
+and strategic discussions on the front of AI & Fire. In addition, this letter
+intends to explain some of the most fundamental concepts and clear common
+misconceptions specific to the adoption of AI in fire engineering. This short
+letter is a companion to the Smart Systems in Fire Engineering special issue
+sponsored by Fire Technology. An in-depth review of AI algorithms [1] and
+success stories to the proper implementations of such algorithms can be found
+in the aforenoted special issue and collection of papers. This letter comprises
+two sections. The first section outlines big ideas pertaining to AI, and
+answers some of the burning questions with regard to the merit of adopting AI
+in our domain. The second section presents a set of rules or technical
+recommendations an AI user may deem helpful to practice whenever AI is used as
+an investigation methodology. The presented set of rules are complementary to
+the big ideas.
+",review,1
+2408.00716,"A Natural Language Processing Framework for Hotel Recommendation Based
+  on Users' Text Reviews","  Recently, the application of Artificial Intelligence algorithms in hotel
+recommendation systems has become an increasingly popular topic. One such
+method that has proven to be effective in this field is Deep Learning,
+especially Natural Language processing models, which are able to extract
+semantic knowledge from user's text reviews to create more efficient
+recommendation systems. This can lead to the development of intelligent models
+that can classify a user's preferences and emotions based on their feedback in
+the form of text reviews about their hotel stay experience. In this study, we
+propose a Natural Language Processing framework that utilizes customer text
+reviews to provide personalized recommendations for the most appropriate hotel
+based on their preferences. The framework is based on Bidirectional Encoder
+Representations from Transformers (BERT) and a fine-tuning/validation pipeline
+that categorizes customer hotel review texts into ""Bad,"" ""Good,"" or ""Excellent""
+recommended hotels. Our findings indicate that the hotel recommendation system
+we propose can significantly enhance the user experience of booking
+accommodations by providing personalized recommendations based on user
+preferences and previous booking history.
+",review,0
+2404.01335,Generative AI for Architectural Design: A Literature Review,"  Generative Artificial Intelligence (AI) has pioneered new methodological
+paradigms in architectural design, significantly expanding the innovative
+potential and efficiency of the design process. This paper explores the
+extensive applications of generative AI technologies in architectural design, a
+trend that has benefited from the rapid development of deep generative models.
+This article provides a comprehensive review of the basic principles of
+generative AI and large-scale models and highlights the applications in the
+generation of 2D images, videos, and 3D models. In addition, by reviewing the
+latest literature from 2020, this paper scrutinizes the impact of generative AI
+technologies at different stages of architectural design, from generating
+initial architectural 3D forms to producing final architectural imagery. The
+marked trend of research growth indicates an increasing inclination within the
+architectural design community towards embracing generative AI, thereby
+catalyzing a shared enthusiasm for research. These research cases and
+methodologies have not only proven to enhance efficiency and innovation
+significantly but have also posed challenges to the conventional boundaries of
+architectural creativity. Finally, we point out new directions for design
+innovation and articulate fresh trajectories for applying generative AI in the
+architectural domain. This article provides the first comprehensive literature
+review about generative AI for architectural design, and we believe this work
+can facilitate more research work on this significant topic in architecture.
+",review,1
+2409.05033,A Survey on Diffusion Models for Recommender Systems,"  While traditional recommendation techniques have made significant strides in
+the past decades, they still suffer from limited generalization performance
+caused by factors like inadequate collaborative signals, weak latent
+representations, and noisy data. In response, diffusion models (DMs) have
+emerged as promising solutions for recommender systems due to their robust
+generative capabilities, solid theoretical foundations, and improved training
+stability. To this end, in this paper, we present the first comprehensive
+survey on diffusion models for recommendation, and draw a bird's-eye view from
+the perspective of the whole pipeline in real-world recommender systems. We
+systematically categorize existing research works into three primary domains:
+(1) diffusion for data engineering & encoding, focusing on data augmentation
+and representation enhancement; (2) diffusion as recommender models, employing
+diffusion models to directly estimate user preferences and rank items; and (3)
+diffusion for content presentation, utilizing diffusion models to generate
+personalized content such as fashion and advertisement creatives. Our taxonomy
+highlights the unique strengths of diffusion models in capturing complex data
+distributions and generating high-quality, diverse samples that closely align
+with user preferences. We also summarize the core characteristics of the
+adapting diffusion models for recommendation, and further identify key areas
+for future exploration, which helps establish a roadmap for researchers and
+practitioners seeking to advance recommender systems through the innovative
+application of diffusion models. To further facilitate the research community
+of recommender systems based on diffusion models, we actively maintain a GitHub
+repository for papers and other related resources in this rising direction
+https://github.com/CHIANGEL/Awesome-Diffusion-for-RecSys.
+",review,1
+2210.0556,"Comparison of encrypted control approaches and tutorial on dynamic
+  systems using LWE-based homomorphic encryption","  Encrypted control has been introduced to protect controller data by
+encryption at the stage of computation and communication, by performing the
+computation directly on encrypted data. In this article, we first review and
+categorize recent relevant studies on encrypted control. Approaches based on
+homomorphic encryption, multi-party computation, and secret sharing are
+introduced, compared, and then discussed with respect to computational
+complexity, communication load, enabled operations, security, and research
+directions. We proceed to discuss a current challenge in the application of
+homomorphic encryption to dynamic systems, where arithmetic operations other
+than integer addition and multiplication are limited. We also introduce a
+homomorphic cryptosystem called ``GSW-LWE'' and discuss its benefits that allow
+for recursive multiplication of encrypted dynamic systems, without use of
+computationally expensive bootstrapping techniques.
+",review,0
+2208.14685,Accessible Interactive Maps for Visually Impaired Users,"  Tactile maps are commonly used to give visually impaired users access to
+geographical representations. Although those relief maps are efficient tools
+for acquisition of spatial knowledge, they present several limitations and
+issues such as the need to read braille. Several research projects have been
+led during the past three decades in order to improve access to maps using
+interactive technologies. In this chapter, we present an exhaustive review of
+interactive map prototypes. We classified existing interactive maps into two
+categories: Digital Interactive Maps (DIMs) that are displayed on a flat
+surface such as a screen; and Hybrid Interactive Maps (HIMs) that include both
+a digital and a physical representation. In each family, we identified several
+subcategories depending on the technology being used. We compared the
+categories and subcategories according to cost, availability and technological
+limitations, but also in terms of content, comprehension and interactivity.
+Then we reviewed a number of studies showing that those maps can support
+spatial learning for visually impaired users. Finally, we identified new
+technologies and methods that could improve the accessibility of graphics for
+visually impaired users in the future.
+",review,1
+2408.03817,Interactive Visual Analysis of Spatial Sensitivities,"  Sensitivity analyses of simulation ensembles determine how simulation
+parameters influence the simulation's outcome. Commonly, one global numerical
+sensitivity value is computed per simulation parameter. However, when
+considering 3D spatial simulations, the analysis of localized sensitivities in
+different spatial regions is of importance in many applications. For analyzing
+the spatial variation of parameter sensitivity, one needs to compute a spatial
+sensitivity scalar field per simulation parameter. Given $n$ simulation
+parameters, we obtain multi-field data consisting of $n$ scalar fields when
+considering all simulation parameters. We propose an interactive visual
+analytics solution to analyze the multi-field sensitivity data. It supports the
+investigation of how strongly and in what way individual parameters influence
+the simulation outcome, in which spatial regions this is happening, and what
+the interplay of the simulation parameters is. Its central component is an
+overview visualization of all sensitivity fields that avoids 3D occlusions by
+linearizing the data using an adapted scheme of data-driven space-filling
+curves. The spatial sensitivity values are visualized in a combination of a
+Horizon Graph and a line chart. We validate our approach by applying it to
+synthetic and real-world ensemble data.
+",review,1
+2401.1631,Security Code Review by LLMs: A Deep Dive into Responses,"  Security code review aims to combine automated tools and manual efforts to
+detect security defects during development. The rapid development of Large
+Language Models (LLMs) has shown promising potential in software development,
+as well as opening up new possibilities in automated security code review. To
+explore the challenges of applying LLMs in practical code review for security
+defect detection, this study compared the detection performance of three
+state-of-the-art LLMs (Gemini Pro, GPT-4, and GPT-3.5) under five prompts on
+549 code files that contain security defects from real-world code reviews.
+Through analyzing 82 responses generated by the best-performing LLM-prompt
+combination based on 100 randomly selected code files, we extracted and
+categorized quality problems present in these responses into 5 themes and 16
+categories. Our results indicate that the responses produced by LLMs often
+suffer from verbosity, vagueness, and incompleteness, highlighting the
+necessity to enhance their conciseness, understandability, and compliance to
+security defect detection. This work reveals the deficiencies of LLM-generated
+responses in security code review and paves the way for future optimization of
+LLMs towards this task.
+",review,0
+2203.03847,Trust in AI and Implications for the AEC Research: A Literature Analysis,"  Engendering trust in technically acceptable and psychologically embraceable
+systems requires domain-specific research to capture unique characteristics of
+the field of application. The architecture, engineering, and construction (AEC)
+research community has been recently harnessing advanced solutions offered by
+artificial intelligence (AI) to improve project workflows. Despite the unique
+characteristics of work, workers, and workplaces in the AEC industry, the
+concept of trust in AI has received very little attention in the literature.
+This paper presents a comprehensive analysis of the academic literature in two
+main areas of trust in AI and AI in the AEC, to explore the interplay between
+AEC projects unique aspects and the sociotechnical concepts that lead to trust
+in AI. A total of 490 peer-reviewed scholarly articles are analyzed in this
+study. The main constituents of human trust in AI are identified from the
+literature and are characterized within the AEC project types, processes, and
+technologies.
+",review,1
+2109.0425600000003,Cataloging Dependency Injection Anti-Patterns in Software Systems,"  Context: Dependency Injection (DI) is a commonly applied mechanism to
+decouple classes from their dependencies in order to provide higher
+modularization. However, bad DI practices often lead to negative consequences,
+such as increasing coupling. Although white literature conjectures about the
+existence of DI anti-patterns, there is no evidence on their practical
+relevance, usefulness, and generality. Objective: The objective of this study
+is to propose and evaluate a catalog of Java DI anti-patterns and associated
+refactorings. Methodology: We reviewed existing reported DI anti-patterns in
+order to analyze their completeness. The limitations found in literature
+motivated proposing a novel catalog of 12 DI anti-patterns. We developed a tool
+to statically analyze the occurrence level of the candidate DI anti-patterns in
+both open-source and industry projects. Next, we survey practitioners to assess
+their perception on the relevance, usefulness, and their willingness on
+refactoring anti-pattern instances of the catalog. Results: Our static code
+analyzer tool showed a relative recall of 92.19% and high average precision. It
+revealed that at least 9 different DI anti-patterns appeared frequently in the
+analyzed projects. Besides, our survey confirmed the perceived relevance of the
+catalog and developers expressed their willingness to refactor instances of
+anti-patterns from source code. Conclusion: The catalog contains Java DI
+anti-patterns that occur in practice and that are perceived as useful. Sharing
+it with practitioners may help them to avoid such anti-patterns, thus improving
+source-code quality.
+",review,0
+2106.04897,Unsupervised Automatic Speech Recognition: A Review,"  Automatic Speech Recognition (ASR) systems can be trained to achieve
+remarkable performance given large amounts of manually transcribed speech, but
+large labeled data sets can be difficult or expensive to acquire for all
+languages of interest. In this paper, we review the research literature to
+identify models and ideas that could lead to fully unsupervised ASR, including
+unsupervised segmentation of the speech signal, unsupervised mapping from
+speech segments to text, and semi-supervised models with nominal amounts of
+labeled examples. The objective of the study is to identify the limitations of
+what can be learned from speech data alone and to understand the minimum
+requirements for speech recognition. Identifying these limitations would help
+optimize the resources and efforts in ASR development for low-resource
+languages.
+",review,1
+2303.14725,"Natural Language Reasoning, A Survey","  This survey paper proposes a clearer view of natural language reasoning in
+the field of Natural Language Processing (NLP), both conceptually and
+practically. Conceptually, we provide a distinct definition for natural
+language reasoning in NLP, based on both philosophy and NLP scenarios, discuss
+what types of tasks require reasoning, and introduce a taxonomy of reasoning.
+Practically, we conduct a comprehensive literature review on natural language
+reasoning in NLP, mainly covering classical logical reasoning, natural language
+inference, multi-hop question answering, and commonsense reasoning. The paper
+also identifies and views backward reasoning, a powerful paradigm for
+multi-step reasoning, and introduces defeasible reasoning as one of the most
+important future directions in natural language reasoning research. We focus on
+single-modality unstructured natural language text, excluding neuro-symbolic
+techniques and mathematical reasoning.
+",review,1
+2202.03188,Knowledge-Integrated Informed AI for National Security,"  The state of artificial intelligence technology has a rich history that dates
+back decades and includes two fall-outs before the explosive resurgence of
+today, which is credited largely to data-driven techniques. While AI technology
+has and continues to become increasingly mainstream with impact across domains
+and industries, it's not without several drawbacks, weaknesses, and potential
+to cause undesired effects. AI techniques are numerous with many approaches and
+variants, but they can be classified simply based on the degree of knowledge
+they capture and how much data they require; two broad categories emerge as
+prominent across AI to date: (1) techniques that are primarily, and often
+solely, data-driven while leveraging little to no knowledge and (2) techniques
+that primarily leverage knowledge and depend less on data. Now, a third
+category is starting to emerge that leverages both data and knowledge, that
+some refer to as ""informed AI."" This third category can be a game changer
+within the national security domain where there is ample scientific and
+domain-specific knowledge that stands ready to be leveraged, and where purely
+data-driven AI can lead to serious unwanted consequences.
+  This report shares findings from a thorough exploration of AI approaches that
+exploit data as well as principled and/or practical knowledge, which we refer
+to as ""knowledge-integrated informed AI."" Specifically, we review illuminating
+examples of knowledge integrated in deep learning and reinforcement learning
+pipelines, taking note of the performance gains they provide. We also discuss
+an apparent trade space across variants of knowledge-integrated informed AI,
+along with observed and prominent issues that suggest worthwhile future
+research directions. Most importantly, this report suggests how the advantages
+of knowledge-integrated informed AI stand to benefit the national security
+domain.
+",review,0
+2212.06495,Inherent Limitations of AI Fairness,"  As the real-world impact of Artificial Intelligence (AI) systems has been
+steadily growing, so too have these systems come under increasing scrutiny. In
+response, the study of AI fairness has rapidly developed into a rich field of
+research with links to computer science, social science, law, and philosophy.
+Many technical solutions for measuring and achieving AI fairness have been
+proposed, yet their approach has been criticized in recent years for being
+misleading, unrealistic and harmful.
+  In our paper, we survey these criticisms of AI fairness and identify key
+limitations that are inherent to the prototypical paradigm of AI fairness. By
+carefully outlining the extent to which technical solutions can realistically
+help in achieving AI fairness, we aim to provide the background necessary to
+form a nuanced opinion on developments in fair AI. This delineation also
+provides research opportunities for non-AI solutions peripheral to AI systems
+in supporting fair decision processes.
+",review,1
+2309.16459,Augmenting LLMs with Knowledge: A survey on hallucination prevention,"  Large pre-trained language models have demonstrated their proficiency in
+storing factual knowledge within their parameters and achieving remarkable
+results when fine-tuned for downstream natural language processing tasks.
+Nonetheless, their capacity to access and manipulate knowledge with precision
+remains constrained, resulting in performance disparities on
+knowledge-intensive tasks when compared to task-specific architectures.
+Additionally, the challenges of providing provenance for model decisions and
+maintaining up-to-date world knowledge persist as open research frontiers. To
+address these limitations, the integration of pre-trained models with
+differentiable access mechanisms to explicit non-parametric memory emerges as a
+promising solution. This survey delves into the realm of language models (LMs)
+augmented with the ability to tap into external knowledge sources, including
+external knowledge bases and search engines. While adhering to the standard
+objective of predicting missing tokens, these augmented LMs leverage diverse,
+possibly non-parametric external modules to augment their contextual processing
+capabilities, departing from the conventional language modeling paradigm.
+Through an exploration of current advancements in augmenting large language
+models with knowledge, this work concludes that this emerging research
+direction holds the potential to address prevalent issues in traditional LMs,
+such as hallucinations, un-grounded responses, and scalability challenges.
+",review,1
+2310.09485,"Applying Bayesian Ridge Regression AI Modeling in Virus Severity
+  Prediction","  Artificial intelligence (AI) is a powerful tool for reshaping healthcare
+systems. In healthcare, AI is invaluable for its capacity to manage vast
+amounts of data, which can lead to more accurate and speedy diagnoses,
+ultimately easing the workload on healthcare professionals. As a result, AI has
+proven itself to be a power tool across various industries, simplifying complex
+tasks and pattern recognition that would otherwise be overwhelming for humans
+or traditional computer algorithms. In this paper, we review the strengths and
+weaknesses of Bayesian Ridge Regression, an AI model that can be used to bring
+cutting edge virus analysis to healthcare professionals around the world. The
+model's accuracy assessment revealed promising results, with room for
+improvement primarily related to data organization. In addition, the severity
+index serves as a valuable tool to gain a broad overview of patient care needs,
+aligning with healthcare professionals' preference for broader categorizations.
+",review,0
+2404.01363,"AIOps Solutions for Incident Management: Technical Guidelines and A
+  Comprehensive Literature Review","  The management of modern IT systems poses unique challenges, necessitating
+scalability, reliability, and efficiency in handling extensive data streams.
+Traditional methods, reliant on manual tasks and rule-based approaches, prove
+inefficient for the substantial data volumes and alerts generated by IT
+systems. Artificial Intelligence for Operating Systems (AIOps) has emerged as a
+solution, leveraging advanced analytics like machine learning and big data to
+enhance incident management. AIOps detects and predicts incidents, identifies
+root causes, and automates healing actions, improving quality and reducing
+operational costs. However, despite its potential, the AIOps domain is still in
+its early stages, decentralized across multiple sectors, and lacking
+standardized conventions. Research and industrial contributions are distributed
+without consistent frameworks for data management, target problems,
+implementation details, requirements, and capabilities. This study proposes an
+AIOps terminology and taxonomy, establishing a structured incident management
+procedure and providing guidelines for constructing an AIOps framework. The
+research also categorizes contributions based on criteria such as incident
+management tasks, application areas, data sources, and technical approaches.
+The goal is to provide a comprehensive review of technical and research aspects
+in AIOps for incident management, aiming to structure knowledge, identify gaps,
+and establish a foundation for future developments in the field.
+",review,1
+2402.09781,A Comprehensive Review on Computer Vision Analysis of Aerial Data,"  With the emergence of new technologies in the field of airborne platforms and
+imaging sensors, aerial data analysis is becoming very popular, capitalizing on
+its advantages over land data. This paper presents a comprehensive review of
+the computer vision tasks within the domain of aerial data analysis. While
+addressing fundamental aspects such as object detection and tracking, the
+primary focus is on pivotal tasks like change detection, object segmentation,
+and scene-level analysis. The paper provides the comparison of various hyper
+parameters employed across diverse architectures and tasks. A substantial
+section is dedicated to an in-depth discussion on libraries, their
+categorization, and their relevance to different domain expertise. The paper
+encompasses aerial datasets, the architectural nuances adopted, and the
+evaluation metrics associated with all the tasks in aerial data analysis.
+Applications of computer vision tasks in aerial data across different domains
+are explored, with case studies providing further insights. The paper
+thoroughly examines the challenges inherent in aerial data analysis, offering
+practical solutions. Additionally, unresolved issues of significance are
+identified, paving the way for future research directions in the field of
+aerial data analysis.
+",review,1
+2404.12901,"Large Language Models for Networking: Workflow, Advances and Challenges","  The networking field is characterized by its high complexity and rapid
+iteration, requiring extensive expertise to accomplish network tasks, ranging
+from network design, configuration, diagnosis and security. The inherent
+complexity of these tasks, coupled with the ever-changing landscape of
+networking technologies and protocols, poses significant hurdles for
+traditional machine learning-based methods. These methods often struggle to
+generalize and automate complex tasks in networking, as they require extensive
+labeled data, domain-specific feature engineering, and frequent retraining to
+adapt to new scenarios. However, the recent emergence of large language models
+(LLMs) has sparked a new wave of possibilities in addressing these challenges.
+LLMs have demonstrated remarkable capabilities in natural language
+understanding, generation, and reasoning. These models, trained on extensive
+data, can benefit the networking domain. Some efforts have already explored the
+application of LLMs in the networking domain and revealed promising results. By
+reviewing recent advances, we present an abstract workflow to describe the
+fundamental process involved in applying LLM for Networking. We introduce the
+highlights of existing works by category and explain in detail how they operate
+at different stages of the workflow. Furthermore, we delve into the challenges
+encountered, discuss potential solutions, and outline future research
+prospects. We hope that this survey will provide insight for researchers and
+practitioners, promoting the development of this interdisciplinary research
+field.
+",review,1
+2306.12276,Wildfire Detection Via Transfer Learning: A Survey,"  This paper surveys different publicly available neural network models used
+for detecting wildfires using regular visible-range cameras which are placed on
+hilltops or forest lookout towers. The neural network models are pre-trained on
+ImageNet-1K and fine-tuned on a custom wildfire dataset. The performance of
+these models is evaluated on a diverse set of wildfire images, and the survey
+provides useful information for those interested in using transfer learning for
+wildfire detection. Swin Transformer-tiny has the highest AUC value but
+ConvNext-tiny detects all the wildfire events and has the lowest false alarm
+rate in our dataset.
+",review,0
+2404.0848,Decoding AI: The inside story of data analysis in ChatGPT,"  As a result of recent advancements in generative AI, the field of Data
+Science is prone to various changes. This review critically examines the Data
+Analysis (DA) capabilities of ChatGPT assessing its performance across a wide
+range of tasks. While DA provides researchers and practitioners with
+unprecedented analytical capabilities, it is far from being perfect, and it is
+important to recognize and address its limitations.
+",review,1
+2107.0138100000004,Recent Advancements In Distributed System Communications,"  Overheads in Operating System kernel network stacks and sockets have been
+hindering OSes from managing networking operations efficiently for years.
+Moreover, when building Remote Procedure Calls over TCP, certain TCP features
+do not match the needs of RPCs, imposing additional overheads. These issues
+degrade the performance of distributed systems, which rely on fast
+communications between machines to be able to serve a large number of client
+requests with low latency and high throughput. The purpose of this literature
+survey is to look into recent proposals in research literature that aim to
+overcome these issues. The survey investigates research literature published
+between 2010-2020, in order to include important advancements during the most
+recent decade at the time of writing. The proposals found in papers have been
+categorized into hardware-based and software-based approaches. The former
+require specialized hardware to offer high communications performance. The
+latter are implemented in software and don't rely on specialized hardware or
+require only certain hardware features. Furthermore, the proposals where also
+classified according to whether they implement kernel bypass, to avoid using
+the Operating System kernel network stack, or not. The hardware-based
+approaches examined here are RDMA, programmable Network Interface Controllers
+(NIC) and System-on-a-Chip (SoC), while the software-based approaches include
+optimized socket implementations and RPC frameworks, as well as user space
+networking.
+",review,1
+2103.15698,A Systematic Survey on Multi-relational Community Detection,"  Complex networks contain various interactions among similar or different
+entities. These kinds of networks are called multi-relational networks, in
+which each layer corresponds to a special type of interaction. Multi-relational
+networks are a particular type of multilayer networks in which nodes are
+similar entities; however, edges or communications demonstrate different types
+of interactions among similar entities. In this survey, we study community
+detection methods for multi-relational networks. The considered models are
+divided into two main groups, namely, direct methods and indirect methods. We
+put indirect methods in two classes: flattening and ensembling, and the direct
+methods are further divided into four groups which are: probabilistic methods,
+algebraic methods, modular-based methods, and graph feature-based methods. For
+each approach and each method, we explain their pros and cons. Additionally,
+all the used datasets in the multilayer community detection studies are
+categorized into synthetic and real data. We elaborate on the most important
+datasets. Afterward, the utilized evaluation metrics by the papers are
+described. Finally, the current models' challenges and shortcomings are
+discussed. Finally, some suggestions for future research are developed. Putting
+all this together, this study, to the best of our knowledge, is the most
+comprehensive survey dedicated to multi-relational networks community
+detection.
+",review,1
+2303.02715,Deep Learning in the Field of Biometric Template Protection: An Overview,"  Today, deep learning represents the most popular and successful form of
+machine learning. Deep learning has revolutionised the field of pattern
+recognition, including biometric recognition. Biometric systems utilising deep
+learning have been shown to achieve auspicious recognition accuracy, surpassing
+human performance. Apart from said breakthrough advances in terms of biometric
+performance, the use of deep learning was reported to impact different
+covariates of biometrics such as algorithmic fairness, vulnerability to
+attacks, or template protection. Technologies of biometric template protection
+are designed to enable a secure and privacy-preserving deployment of
+biometrics. In the recent past, deep learning techniques have been frequently
+applied in biometric template protection systems for various purposes. This
+work provides an overview of how advances in deep learning take influence on
+the field of biometric template protection. The interrelation between improved
+biometric performance rates and security in biometric template protection is
+elaborated. Further, the use of deep learning for obtaining feature
+representations that are suitable for biometric template protection is
+discussed. Novel methods that apply deep learning to achieve various goals of
+biometric template protection are surveyed along with deep learning-based
+attacks.
+",review,1
+2301.0689,"AI-Based Affective Music Generation Systems: A Review of Methods, and
+  Challenges","  Music is a powerful medium for altering the emotional state of the listener.
+In recent years, with significant advancement in computing capabilities,
+artificial intelligence-based (AI-based) approaches have become popular for
+creating affective music generation (AMG) systems that are empowered with the
+ability to generate affective music. Entertainment, healthcare, and
+sensor-integrated interactive system design are a few of the areas in which
+AI-based affective music generation (AI-AMG) systems may have a significant
+impact. Given the surge of interest in this topic, this article aims to provide
+a comprehensive review of AI-AMG systems. The main building blocks of an AI-AMG
+system are discussed, and existing systems are formally categorized based on
+the core algorithm used for music generation. In addition, this article
+discusses the main musical features employed to compose affective music, along
+with the respective AI-based approaches used for tailoring them. Lastly, the
+main challenges and open questions in this field, as well as their potential
+solutions, are presented to guide future research. We hope that this review
+will be useful for readers seeking to understand the state-of-the-art in AI-AMG
+systems, and gain an overview of the methods used for developing them, thereby
+helping them explore this field in the future.
+",review,1
+2407.17503,"Challenges and Considerations in Annotating Legal Data: A Comprehensive
+  Overview","  The process of annotating data within the legal sector is filled with
+distinct challenges that differ from other fields, primarily due to the
+inherent complexities of legal language and documentation. The initial task
+usually involves selecting an appropriate raw dataset that captures the
+intricate aspects of legal texts. Following this, extracting text becomes a
+complicated task, as legal documents often have complex structures, footnotes,
+references, and unique terminology. The importance of data cleaning is
+magnified in this context, ensuring that redundant information is eliminated
+while maintaining crucial legal details and context. Creating comprehensive yet
+straightforward annotation guidelines is imperative, as these guidelines serve
+as the road map for maintaining uniformity and addressing the subtle nuances of
+legal terminology. Another critical aspect is the involvement of legal
+professionals in the annotation process. Their expertise is valuable in
+ensuring that the data not only remains contextually accurate but also adheres
+to prevailing legal standards and interpretations. This paper provides an
+expanded view of these challenges and aims to offer a foundational
+understanding and guidance for researchers and professionals engaged in legal
+data annotation projects. In addition, we provide links to our created and
+fine-tuned datasets and language models. These resources are outcomes of our
+discussed projects and solutions to challenges faced while working on them.
+",review,1
+2107.0090600000003,"Using Machine Learning to Generate Test Oracles: A Systematic Literature
+  Review","  Machine learning may enable the automated generation of test oracles. We have
+characterized emerging research in this area through a systematic literature
+review examining oracle types, researcher goals, the ML techniques applied, how
+the generation process was assessed, and the open research challenges in this
+emerging field.
+  Based on a sample of 22 relevant studies, we observed that ML algorithms
+generated test verdict, metamorphic relation, and - most commonly - expected
+output oracles. Almost all studies employ a supervised or semi-supervised
+approach, trained on labeled system executions or code metadata - including
+neural networks, support vector machines, adaptive boosting, and decision
+trees. Oracles are evaluated using the mutation score, correct classifications,
+accuracy, and ROC. Work-to-date show great promise, but there are significant
+open challenges regarding the requirements imposed on training data, the
+complexity of modeled functions, the ML algorithms employed - and how they are
+applied - the benchmarks used by researchers, and replicability of the studies.
+We hope that our findings will serve as a roadmap and inspiration for
+researchers in this field.
+",review,1
+2305.14525,"The State of the Art in Creating Visualization Corpora for Automated
+  Chart Analysis","  We present a state-of-the-art report on visualization corpora in automated
+chart analysis research. We survey 56 papers that created or used a
+visualization corpus as the input of their research techniques or systems.
+Based on a multi-level task taxonomy that identifies the goal, method, and
+outputs of automated chart analysis, we examine the property space of existing
+chart corpora along five dimensions: format, scope, collection method,
+annotations, and diversity. Through the survey, we summarize common patterns
+and practices of creating chart corpora, identify research gaps and
+opportunities, and discuss the desired properties of future benchmark corpora
+and the required tools to create them.
+",review,1
+2105.05714,Representation in Dynamical Systems,"  The brain is often called a computer and likened to a Turing machine, in part
+because the mind can manipulate discrete symbols such as numbers. But the brain
+is a dynamical system, more like a Watt governor than a Turing machine. Can a
+dynamical system be said to operate using ""representations""? This paper argues
+that it can, although not in the way a digital computer does. Instead, it uses
+phenomena best described using mathematic concepts such as chaotic attractors
+to stand in for aspects of the world.
+",regular,0
+2107.07404,Two-Sided Matching Meets Fair Division,"  We introduce a new model for two-sided matching which allows us to borrow
+popular fairness notions from the fair division literature such as
+envy-freeness up to one good and maximin share guarantee. In our model, each
+agent is matched to multiple agents on the other side over whom she has
+additive preferences. We demand fairness for each side separately, giving rise
+to notions such as double envy-freeness up to one match (DEF1) and double
+maximin share guarantee (DMMS). We show that (a slight strengthening of) DEF1
+cannot always be achieved, but in the special case where both sides have
+identical preferences, the round-robin algorithm with a carefully designed
+agent ordering achieves it. In contrast, DMMS cannot be achieved even when both
+sides have identical preferences.
+",regular,0
+2105.0817899999997,Learning Disentangled Representations for Time Series,"  Time-series representation learning is a fundamental task for time-series
+analysis. While significant progress has been made to achieve accurate
+representations for downstream applications, the learned representations often
+lack interpretability and do not expose semantic meanings. Different from
+previous efforts on the entangled feature space, we aim to extract the
+semantic-rich temporal correlations in the latent interpretable factorized
+representation of the data. Motivated by the success of disentangled
+representation learning in computer vision, we study the possibility of
+learning semantic-rich time-series representations, which remains unexplored
+due to three main challenges: 1) sequential data structure introduces complex
+temporal correlations and makes the latent representations hard to interpret,
+2) sequential models suffer from KL vanishing problem, and 3) interpretable
+semantic concepts for time-series often rely on multiple factors instead of
+individuals. To bridge the gap, we propose Disentangle Time Series (DTS), a
+novel disentanglement enhancement framework for sequential data. Specifically,
+to generate hierarchical semantic concepts as the interpretable and
+disentangled representation of time-series, DTS introduces multi-level
+disentanglement strategies by covering both individual latent factors and group
+semantic segments. We further theoretically show how to alleviate the KL
+vanishing problem: DTS introduces a mutual information maximization term, while
+preserving a heavier penalty on the total correlation and the dimension-wise KL
+to keep the disentanglement property. Experimental results on various
+real-world benchmark datasets demonstrate that the representations learned by
+DTS achieve superior performance in downstream applications, with high
+interpretability of semantic concepts.
+",regular,0
+2109.14208,"A Communication Security Game on Switched Systems for Autonomous Vehicle
+  Platoons","  Vehicle-to-vehicle communication enables autonomous platoons to boost traffic
+efficiency and safety, while ensuring string stability with a constant spacing
+policy. However, communication-based controllers are susceptible to a range of
+cyber-attacks. In this paper, we propose a distributed attack mitigation
+defense framework with a dual-mode control system reconfiguration scheme to
+prevent a compromised platoon member from causing collisions via message
+falsification attacks. In particular, we model it as a switched system
+consisting of a communication-based cooperative controller and a sensor-based
+local controller and derive conditions to achieve global uniform exponential
+stability (GUES) as well as string stability in the sense of platoon operation.
+The switching decision comes from game-theoretic analysis of the attacker and
+the defender's interactions. In this framework, the attacker acts as a leader
+that chooses whether to engage in malicious activities and the defender decides
+which control system to deploy with the help of an anomaly detector. Imperfect
+detection reports associate the game with imperfect information. A dedicated
+state constraint further enhances safety against bounded but aggressive message
+modifications in which a bounded solution may still violate practical
+constraint e.g. vehicles nearly crashing. Our formulation uniquely combines
+switched systems with security games to strategically improve the safety of
+such autonomous vehicle systems.
+",regular,0
+2103.08634,"Competitive Equilibria with Unequal Budgets: Supporting Arbitrary Pareto
+  Optimal Allocations","  We consider a market setting of agents with additive valuations over
+heterogeneous divisible resources. Agents are assigned a budget of tokens
+(possibly unequal budgets) they can use to obtain resources; leftover tokens
+are worthless. We show how to support any Pareto efficient allocation in
+equilibrium, using anonymous resource prices and agent specific budgets. We
+also give computationally efficient algorithms for those tasks. In particular,
+this allows us to support the Rawlsian max-min allocation.
+",regular,0
+2101.01842,Confluence up to Garbage in Graph Transformation,"  The transformation of graphs and graph-like structures is ubiquitous in
+computer science. When a system is described by graph-transformation rules, it
+is often desirable that the rules are both terminating and confluent so that
+rule applications in an arbitrary order produce unique resulting graphs.
+However, there are application scenarios where the rules are not globally
+confluent but confluent on a subclass of graphs that are of interest. In other
+words, non-resolvable conflicts can only occur on graphs that are considered as
+""garbage"". In this paper, we introduce the notion of confluence up to garbage
+and generalise Plump's critical pair lemma for double-pushout graph
+transformation, providing a sufficient condition for confluence up to garbage
+by non-garbage critical pair analysis. We apply our results in two case studies
+about efficient language recognition: we present backtracking-free graph
+reduction systems which recognise a class of flow diagrams and a class of
+labelled series-parallel graphs, respectively. Both systems are non-confluent
+but confluent up to garbage. We also give a critical pair condition for
+subcommutativity up to garbage which, together with closedness, implies
+confluence up to garbage even in non-terminating systems.
+",regular,0
+2106.07353,Posthoc Verification and the Fallibility of the Ground Truth,"  Classifiers commonly make use of pre-annotated datasets, wherein a model is
+evaluated by pre-defined metrics on a held-out test set typically made of
+human-annotated labels. Metrics used in these evaluations are tied to the
+availability of well-defined ground truth labels, and these metrics typically
+do not allow for inexact matches. These noisy ground truth labels and strict
+evaluation metrics may compromise the validity and realism of evaluation
+results. In the present work, we discuss these concerns and conduct a
+systematic posthoc verification experiment on the entity linking (EL) task.
+Unlike traditional methodologies, which asks annotators to provide free-form
+annotations, we ask annotators to verify the correctness of annotations after
+the fact (i.e., posthoc). Compared to pre-annotation evaluation,
+state-of-the-art EL models performed extremely well according to the posthoc
+evaluation methodology. Posthoc validation also permits the validation of the
+ground truth dataset. Surprisingly, we find predictions from EL models had a
+similar or higher verification rate than the ground truth. We conclude with a
+discussion on these findings and recommendations for future evaluations.
+",regular,0
+2306.13055,Deep Metric Learning with Soft Orthogonal Proxies,"  Deep Metric Learning (DML) models rely on strong representations and
+similarity-based measures with specific loss functions. Proxy-based losses have
+shown great performance compared to pair-based losses in terms of convergence
+speed. However, proxies that are assigned to different classes may end up being
+closely located in the embedding space and hence having a hard time to
+distinguish between positive and negative items. Alternatively, they may become
+highly correlated and hence provide redundant information with the model. To
+address these issues, we propose a novel approach that introduces Soft
+Orthogonality (SO) constraint on proxies. The constraint ensures the proxies to
+be as orthogonal as possible and hence control their positions in the embedding
+space. Our approach leverages Data-Efficient Image Transformer (DeiT) as an
+encoder to extract contextual features from images along with a DML objective.
+The objective is made of the Proxy Anchor loss along with the SO
+regularization. We evaluate our method on four public benchmarks for
+category-level image retrieval and demonstrate its effectiveness with
+comprehensive experimental results and ablation studies. Our evaluations
+demonstrate the superiority of our proposed approach over state-of-the-art
+methods by a significant margin.
+",regular,0
+2312.10961,Aspect-Based Sentiment Analysis with Explicit Sentiment Augmentations,"  Aspect-based sentiment analysis (ABSA), a fine-grained sentiment
+classification task, has received much attention recently. Many works
+investigate sentiment information through opinion words, such as ''good'' and
+''bad''. However, implicit sentiment widely exists in the ABSA dataset, which
+refers to the sentence containing no distinct opinion words but still expresses
+sentiment to the aspect term. To deal with implicit sentiment, this paper
+proposes an ABSA method that integrates explicit sentiment augmentations. And
+we propose an ABSA-specific augmentation method to create such augmentations.
+Specifically, we post-trains T5 by rule-based data. We employ Syntax Distance
+Weighting and Unlikelihood Contrastive Regularization in the training procedure
+to guide the model to generate an explicit sentiment. Meanwhile, we utilize the
+Constrained Beam Search to ensure the augmentation sentence contains the aspect
+terms. We test ABSA-ESA on two of the most popular benchmarks of ABSA. The
+results show that ABSA-ESA outperforms the SOTA baselines on implicit and
+explicit sentiment accuracy.
+",regular,0
+2203.0451,ReVar: Strengthening Policy Evaluation via Reduced Variance Sampling,"  This paper studies the problem of data collection for policy evaluation in
+Markov decision processes (MDPs). In policy evaluation, we are given a target
+policy and asked to estimate the expected cumulative reward it will obtain in
+an environment formalized as an MDP. We develop theory for optimal data
+collection within the class of tree-structured MDPs by first deriving an oracle
+data collection strategy that uses knowledge of the variance of the reward
+distributions. We then introduce the Reduced Variance Sampling (ReVar)
+algorithm that approximates the oracle strategy when the reward variances are
+unknown a priori and bound its sub-optimality compared to the oracle strategy.
+Finally, we empirically validate that ReVar leads to policy evaluation with
+mean squared error comparable to the oracle strategy and significantly lower
+than simply running the target policy.
+",regular,0
+2307.0828300000003,Complexity Matters: Rethinking the Latent Space for Generative Modeling,"  In generative modeling, numerous successful approaches leverage a
+low-dimensional latent space, e.g., Stable Diffusion models the latent space
+induced by an encoder and generates images through a paired decoder. Although
+the selection of the latent space is empirically pivotal, determining the
+optimal choice and the process of identifying it remain unclear. In this study,
+we aim to shed light on this under-explored topic by rethinking the latent
+space from the perspective of model complexity. Our investigation starts with
+the classic generative adversarial networks (GANs). Inspired by the GAN
+training objective, we propose a novel ""distance"" between the latent and data
+distributions, whose minimization coincides with that of the generator
+complexity. The minimizer of this distance is characterized as the optimal
+data-dependent latent that most effectively capitalizes on the generator's
+capacity. Then, we consider parameterizing such a latent distribution by an
+encoder network and propose a two-stage training strategy called Decoupled
+Autoencoder (DAE), where the encoder is only updated in the first stage with an
+auxiliary decoder and then frozen in the second stage while the actual decoder
+is being trained. DAE can improve the latent distribution and as a result,
+improve the generative performance. Our theoretical analyses are corroborated
+by comprehensive experiments on various models such as VQGAN and Diffusion
+Transformer, where our modifications yield significant improvements in sample
+quality with decreased model complexity.
+",regular,0
+2304.0962600000003,StyleDEM: a Versatile Model for Authoring Terrains,"  Many terrain modelling methods have been proposed for the past decades,
+providing efficient and often interactive authoring tools. However, they
+generally do not include any notion of style, which is a critical aspect for
+designers in the entertainment industry. We introduce StyleDEM, a new
+generative adversarial network method for terrain synthesis and authoring, with
+a versatile toolbox of authoring methods with style. This method starts from an
+input sketch or an existing terrain. It outputs a terrain with features that
+can be authored using interactive brushes and enhanced with additional tools
+such as style manipulation or super-resolution. The strength of our approach
+resides in the versatility and interoperability of the toolbox.
+",regular,0
+2202.07499,"Texture Aware Autoencoder Pre-training And Pairwise Learning Refinement
+  For Improved Iris Recognition","  This paper presents a texture aware end-to-end trainable iris recognition
+system, specifically designed for datasets like iris having limited training
+data. We build upon our previous stagewise learning framework with certain key
+optimization and architectural innovations. First, we pretrain a Stage-1
+encoder network with an unsupervised autoencoder learning optimized with an
+additional data relation loss on top of usual reconstruction loss. The data
+relation loss enables learning better texture representation which is pivotal
+for a texture rich dataset such as iris. Robustness of Stage-1 feature
+representation is further enhanced with an auxiliary denoising task. Such
+pre-training proves beneficial for effectively training deep networks on data
+constrained iris datasets. Next, in Stage-2 supervised refinement, we design a
+pairwise learning architecture for an end-to-end trainable iris recognition
+system. The pairwise learning includes the task of iris matching inside the
+training pipeline itself and results in significant improvement in recognition
+performance compared to usual offline matching. We validate our model across
+three publicly available iris datasets and the proposed model consistently
+outperforms both traditional and deep learning baselines for both
+Within-Dataset and Cross-Dataset configurations
+",regular,0
+2307.02132,"Going Retro: Astonishingly Simple Yet Effective Rule-based Prosody
+  Modelling for Speech Synthesis Simulating Emotion Dimensions","  We introduce two rule-based models to modify the prosody of speech synthesis
+in order to modulate the emotion to be expressed. The prosody modulation is
+based on speech synthesis markup language (SSML) and can be used with any
+commercial speech synthesizer. The models as well as the optimization result
+are evaluated against human emotion annotations. Results indicate that with a
+very simple method both dimensions arousal (.76 UAR) and valence (.43 UAR) can
+be simulated.
+",regular,0
+2406.11867,"Not as Simple as It Looked: Are We Concluding for Biased Arrest
+  Practices?","  This study examines racial disparities in violent arrest outcomes,
+challenging conventional methods through a nuanced analysis of Cincinnati
+Police Department data. Acknowledging the intricate nature of racial disparity,
+the study categorizes explanations into types of place, types of person, and a
+combination of both, emphasizing the impact of neighborhood characteristics on
+crime distribution and police deployment. By introducing alternative scenarios,
+such as spuriousness, directed policing, and the geo-concentration of racial
+groups, the study underscores the complexity of racial disparity calculations.
+Employing a case study approach, the analysis of violent arrest outcomes
+reveals approximately 40 percent of the observed variation attributed to
+neighborhood-level characteristics, with concentrated disadvantage neutralizing
+the influence of race on arrest rates. Contrary to expectations, the study
+challenges the notion of unintentional racism, suggesting that neighborhood
+factors play a more significant role than the racial composition in explaining
+arrests. Policymakers are urged to focus on comprehensive community development
+initiatives addressing socioeconomic inequalities and support the development
+of robust racial disparity indices. The study calls for nuanced explorations of
+unintentional racism and future research addressing potential limitations,
+aiming to enhance understanding of the complexities surrounding racial
+disparities in arrests.
+",regular,0
+2203.15988,"Does Configuration Encoding Matter in Learning Software Performance? An
+  Empirical Study on Encoding Schemes","  Learning and predicting the performance of a configurable software system
+helps to provide better quality assurance. One important engineering decision
+therein is how to encode the configuration into the model built. Despite the
+presence of different encoding schemes, there is still little understanding of
+which is better and under what circumstances, as the community often relies on
+some general beliefs that inform the decision in an ad-hoc manner. To bridge
+this gap, in this paper, we empirically compared the widely used encoding
+schemes for software performance learning, namely label, scaled label, and
+one-hot encoding. The study covers five systems, seven models, and three
+encoding schemes, leading to 105 cases of investigation.
+  Our key findings reveal that: (1) conducting trial-and-error to find the best
+encoding scheme in a case by case manner can be rather expensive, requiring up
+to 400+ hours on some models and systems; (2) the one-hot encoding often leads
+to the most accurate results while the scaled label encoding is generally weak
+on accuracy over different models; (3) conversely, the scaled label encoding
+tends to result in the fastest training time across the models/systems while
+the one-hot encoding is the slowest; (4) for all models studied, label and
+scaled label encoding often lead to relatively less biased outcomes between
+accuracy and training time, but the paired model varies according to the
+system.
+  We discuss the actionable suggestions derived from our findings, hoping to
+provide a better understanding of this topic for the community. To promote open
+science, the data and code of this work can be publicly accessed at
+https://github.com/ideas-labo/MSR2022-encoding-study.
+",regular,0
+2107.13298,Generalized Nash Equilibrium Problems with Mixed-Integer Variables,"  We consider generalized Nash equilibrium problems (GNEPs) with non-convex
+strategy spaces and non-convex cost functions. This general class of games
+includes the important case of games with mixed-integer variables for which
+only a few results are known in the literature. We present a new approach to
+characterize equilibria via a convexification technique using the Nikaido-Isoda
+function. To any given instance of the GNEP, we construct a set of convexified
+instances and show that a feasible strategy profile is an equilibrium for the
+original instance if and only if it is an equilibrium for any convexified
+instance and the convexified cost functions coincide with the initial ones. We
+further develop this approach along three dimensions. We first show that for
+quasi-linear models, where a convexified instance exists in which for fixed
+strategies of the opponent players, the cost function of every player is linear
+and the respective strategy space is polyhedral, the convexification reduces
+the GNEP to a standard (non-linear) optimization problem. Secondly, we derive
+two complete characterizations of those GNEPs for which the convexification
+leads to a jointly constrained or a jointly convex GNEP, respectively. These
+characterizations require new concepts related to the interplay of the convex
+hull operator applied to restricted subsets of feasible strategies and may be
+interesting on their own. Finally, we demonstrate the applicability of our
+results by presenting a numerical study regarding the computation of equilibria
+for a class of integral network flow GNEPs.
+",regular,0
+2105.1014800000003,On Instrumental Variable Regression for Deep Offline Policy Evaluation,"  We show that the popular reinforcement learning (RL) strategy of estimating
+the state-action value (Q-function) by minimizing the mean squared Bellman
+error leads to a regression problem with confounding, the inputs and output
+noise being correlated. Hence, direct minimization of the Bellman error can
+result in significantly biased Q-function estimates. We explain why fixing the
+target Q-network in Deep Q-Networks and Fitted Q Evaluation provides a way of
+overcoming this confounding, thus shedding new light on this popular but not
+well understood trick in the deep RL literature. An alternative approach to
+address confounding is to leverage techniques developed in the causality
+literature, notably instrumental variables (IV). We bring together here the
+literature on IV and RL by investigating whether IV approaches can lead to
+improved Q-function estimates. This paper analyzes and compares a wide range of
+recent IV methods in the context of offline policy evaluation (OPE), where the
+goal is to estimate the value of a policy using logged data only. By applying
+different IV techniques to OPE, we are not only able to recover previously
+proposed OPE methods such as model-based techniques but also to obtain
+competitive new techniques. We find empirically that state-of-the-art OPE
+methods are closely matched in performance by some IV methods such as AGMM,
+which were not developed for OPE. We open-source all our code and datasets at
+https://github.com/liyuan9988/IVOPEwithACME.
+",regular,0
+2103.12498,Stereo Object Matching Network,"  This paper presents a stereo object matching method that exploits both 2D
+contextual information from images as well as 3D object-level information.
+Unlike existing stereo matching methods that exclusively focus on the
+pixel-level correspondence between stereo images within a volumetric space
+(i.e., cost volume), we exploit this volumetric structure in a different
+manner. The cost volume explicitly encompasses 3D information along its
+disparity axis, therefore it is a privileged structure that can encapsulate the
+3D contextual information from objects. However, it is not straightforward
+since the disparity values map the 3D metric space in a non-linear fashion.
+Thus, we present two novel strategies to handle 3D objectness in the cost
+volume space: selective sampling (RoISelect) and 2D-3D fusion
+(fusion-by-occupancy), which allow us to seamlessly incorporate 3D object-level
+information and achieve accurate depth performance near the object boundary
+regions. Our depth estimation achieves competitive performance in the KITTI
+dataset and the Virtual-KITTI 2.0 dataset.
+",regular,0
+2303.10452,"Confidence Attention and Generalization Enhanced Distillation for
+  Continuous Video Domain Adaptation","  Continuous Video Domain Adaptation (CVDA) is a scenario where a source model
+is required to adapt to a series of individually available changing target
+domains continuously without source data or target supervision. It has wide
+applications, such as robotic vision and autonomous driving. The main
+underlying challenge of CVDA is to learn helpful information only from the
+unsupervised target data while avoiding forgetting previously learned knowledge
+catastrophically, which is out of the capability of previous Video-based
+Unsupervised Domain Adaptation methods. Therefore, we propose a
+Confidence-Attentive network with geneRalization enhanced self-knowledge
+disTillation (CART) to address the challenge in CVDA. Firstly, to learn from
+unsupervised domains, we propose to learn from pseudo labels. However, in
+continuous adaptation, prediction errors can accumulate rapidly in pseudo
+labels, and CART effectively tackles this problem with two key modules.
+Specifically, The first module generates refined pseudo labels using model
+predictions and deploys a novel attentive learning strategy. The second module
+compares the outputs of augmented data from the current model to the outputs of
+weakly augmented data from the source model, forming a novel consistency
+regularization on the model to alleviate the accumulation of prediction errors.
+Extensive experiments suggest that the CVDA performance of CART outperforms
+existing methods by a considerable margin.
+",regular,0
+2204.09222,K-LITE: Learning Transferable Visual Models with External Knowledge,"  The new generation of state-of-the-art computer vision systems are trained
+from natural language supervision, ranging from simple object category names to
+descriptive captions. This form of supervision ensures high generality and
+usability of the learned visual models, due to the broad concept coverage
+achieved via large-scale data collection process. Alternatively, we argue that
+learning with external knowledge is a promising way which leverages a much more
+structured source of supervision and offers sample efficiency. We propose
+K-LITE, a simple strategy to leverage external knowledge for building
+transferable visual systems: In training, it enriches entities in text with
+WordNet and Wiktionary knowledge, leading to an efficient and scalable approach
+to learning image representations that uses knowledge about the visual
+concepts. In evaluation, the text is also augmented with external knowledge and
+then used to reference learned visual concepts (or describe new ones) to enable
+zero-shot and few-shot transfer of the pre-trained models. We study the
+performance of K-LITE on two important computer vision problems, image
+classification and object detection, benchmarking on 20 and 13 different
+existing datasets, respectively. The proposed knowledge-augmented models show
+significant improvement in transfer learning performance over existing methods.
+Our code is available at https://github.com/microsoft/klite.
+",regular,0
+2401.0637899999997,"Vehicle: Bridging the Embedding Gap in the Verification of
+  Neuro-Symbolic Programs","  Neuro-symbolic programs -- programs containing both machine learning
+components and traditional symbolic code -- are becoming increasingly
+widespread. However, we believe that there is still a lack of a general
+methodology for verifying these programs whose correctness depends on the
+behaviour of the machine learning components. In this paper, we identify the
+``embedding gap'' -- the lack of techniques for linking semantically-meaningful
+``problem-space'' properties to equivalent ``embedding-space'' properties -- as
+one of the key issues, and describe Vehicle, a tool designed to facilitate the
+end-to-end verification of neural-symbolic programs in a modular fashion.
+Vehicle provides a convenient language for specifying ``problem-space''
+properties of neural networks and declaring their relationship to the
+``embedding-space"", and a powerful compiler that automates interpretation of
+these properties in the language of a chosen machine-learning training
+environment, neural network verifier, and interactive theorem prover. We
+demonstrate Vehicle's utility by using it to formally verify the safety of a
+simple autonomous car equipped with a neural network controller.
+",regular,0
+2108.09372,InBiodiv-O: An Ontology for Indian Biodiversity Knowledge Management,"  To present the biodiversity information, a semantic model is required that
+connects all kinds of data about living creatures and their habitats. The model
+must be able to encode human knowledge for machines to be understood. Ontology
+offers the richest machine-interpretable (rather than just machine-processable)
+and explicit semantics that are being extensively used in the biodiversity
+domain. Various ontologies are developed for the biodiversity domain however a
+review of the current landscape shows that these ontologies are not capable to
+define the Indian biodiversity information though India is one of the
+megadiverse countries. To semantically analyze the Indian biodiversity
+information, it is crucial to build an ontology that describes all the
+essential terms of this domain from the unstructured format of the data
+available on the web. Since, the curation of the ontologies heavily depends on
+the domain where these are implemented hence there is no ideal methodology is
+defined yet to be ready for universal use. The aim of this article is to
+develop an ontology that semantically encodes all the terms of Indian
+biodiversity information in all its dimensions based on the proposed
+methodology. The comprehensive evaluation of the proposed ontology depicts that
+ontology is well built in the specified domain.
+",regular,1
+2104.04205,"Alignment of Stakeholder Expectations about User Involvement in Agile
+  Software Development","  Context: User involvement is generally considered to contributing to user
+satisfaction and project success and is central to Agile software development.
+In theory, the expectations about user involvement, such as the PO's, are quite
+demanding in this Agile way of working. But what are the expectations seen in
+practice, and are the expectations of user involvement aligned among the
+development team and users? Any misalignment could contribute to conflict and
+miscommunication among stakeholders that may result in ineffective user
+involvement. Objective: Our aim is to compare and contrast the expectations of
+two stakeholder groups (software development team, and software users) about
+user involvement in order to understand the expectations and assess their
+alignment. Method: We have conducted an exploratory case study of expectations
+about user involvement in an Agile software development. Qualitative data was
+collected through interviews to design a novel method for the assessing the
+alignment of expectations about user involvement by applying Repertory Grids
+(RG). Results: By aggregating the results from the interviews and RGs, varying
+degrees of expectation alignments were observed between the development team
+and user representatives. Conclusion: Alignment of expectations can be assessed
+in practice using the proposed RG instrument and can reveal misalignment
+between user roles and activities they participate in Agile software
+development projects. Although we used RG instrument retrospectively in this
+study, we posit that it could also be applied from the start of a project, or
+proactively as a diagnostic tool throughout a project to assess and ensure that
+expectations are aligned.
+",regular,0
+2308.106,Fixed-Parameter Algorithms for Computing RAC Drawings of Graphs,"  In a right-angle crossing (RAC) drawing of a graph, each edge is represented
+as a polyline and edge crossings must occur at an angle of exactly $90^\circ$,
+where the number of bends on such polylines is typically restricted in some
+way. While structural and topological properties of RAC drawings have been the
+focus of extensive research, little was known about the boundaries of
+tractability for computing such drawings. In this paper, we initiate the study
+of RAC drawings from the viewpoint of parameterized complexity. In particular,
+we establish that computing a RAC drawing of an input graph $G$ with at most
+$b$ bends (or determining that none exists) is fixed-parameter tractable
+parameterized by either the feedback edge number of $G$, or $b$ plus the vertex
+cover number of $G$.
+",regular,0
+2407.1241,Proximity-based Self-Federated Learning,"  In recent advancements in machine learning, federated learning allows a
+network of distributed clients to collaboratively develop a global model
+without needing to share their local data. This technique aims to safeguard
+privacy, countering the vulnerabilities of conventional centralized learning
+methods. Traditional federated learning approaches often rely on a central
+server to coordinate model training across clients, aiming to replicate the
+same model uniformly across all nodes. However, these methods overlook the
+significance of geographical and local data variances in vast networks,
+potentially affecting model effectiveness and applicability. Moreover, relying
+on a central server might become a bottleneck in large networks, such as the
+ones promoted by edge computing. Our paper introduces a novel,
+fully-distributed federated learning strategy called proximity-based
+self-federated learning that enables the self-organised creation of multiple
+federations of clients based on their geographic proximity and data
+distribution without exchanging raw data. Indeed, unlike traditional
+algorithms, our approach encourages clients to share and adjust their models
+with neighbouring nodes based on geographic proximity and model accuracy. This
+method not only addresses the limitations posed by diverse data distributions
+but also enhances the model's adaptability to different regional
+characteristics creating specialized models for each federation. We demonstrate
+the efficacy of our approach through simulations on well-known datasets,
+showcasing its effectiveness over the conventional centralized federated
+learning framework.
+",regular,0
+2407.11882,"Enhancing Covert Communication in Relay Systems Using Multi-Antenna
+  Technique","  This paper exploits the multi-antenna technique to enhance the covert
+communication performance in a relay system, where a source S conducts covert
+communication with a destination D via a relay R, subjecting to the detections
+of transmissions in the two hops from a single-antenna warden W. To demonstrate
+the performance gain from adopting the multi-antenna technique, we first
+consider the scenario when S, R and D all adopt single antenna, and apply
+hypothesis testing and statistics theories to develop a theoretical framework
+for the covert performance modeling in terms of detection error probability
+(DEP) and covert throughput. We then consider the scenario when S, R and D all
+adopt multiple antennas, and apply the hypothesis testing, statistics and
+matrix theories to develop corresponding theoretical framework for performance
+modeling. We further explore the optimal designs of the target rate and
+transmit power for covert throughput maximization under above both scenarios,
+subjecting to the constraints of covertness, reliability and transmit power. To
+solve the optimization problems, we employ Karushi-Kuhn-Tucker (KKT) conditions
+method in the single antenna scenario and a search algorithm in the
+multi-antenna scenario. Finally, we provide extensive numerical results to
+illustrate how the multi-antenna technique can enhance the covert performance
+in two-hop relay systems.
+",regular,0
+2112.05416,Optimizing Edge Detection for Image Segmentation with Multicut Penalties,"  The Minimum Cost Multicut Problem (MP) is a popular way for obtaining a graph
+decomposition by optimizing binary edge labels over edge costs. While the
+formulation of a MP from independently estimated costs per edge is highly
+flexible and intuitive, solving the MP is NP-hard and time-expensive. As a
+remedy, recent work proposed to predict edge probabilities with awareness to
+potential conflicts by incorporating cycle constraints in the prediction
+process. We argue that such formulation, while providing a first step towards
+end-to-end learnable edge weights, is suboptimal, since it is built upon a
+loose relaxation of the MP. We therefore propose an adaptive CRF that allows to
+progressively consider more violated constraints and, in consequence, to issue
+solutions with higher validity. Experiments on the BSDS500 benchmark for
+natural image segmentation as well as on electron microscopic recordings show
+that our approach yields more precise edge detection and image segmentation.
+",regular,0
+2212.0228,GARF:Geometry-Aware Generalized Neural Radiance Field,"  Neural Radiance Field (NeRF) has revolutionized free viewpoint rendering
+tasks and achieved impressive results. However, the efficiency and accuracy
+problems hinder its wide applications. To address these issues, we propose
+Geometry-Aware Generalized Neural Radiance Field (GARF) with a geometry-aware
+dynamic sampling (GADS) strategy to perform real-time novel view rendering and
+unsupervised depth estimation on unseen scenes without per-scene optimization.
+Distinct from most existing generalized NeRFs, our framework infers the unseen
+scenes on both pixel-scale and geometry-scale with only a few input images.
+More specifically, our method learns common attributes of novel-view synthesis
+by an encoder-decoder structure and a point-level learnable multi-view feature
+fusion module which helps avoid occlusion. To preserve scene characteristics in
+the generalized model, we introduce an unsupervised depth estimation module to
+derive the coarse geometry, narrow down the ray sampling interval to proximity
+space of the estimated surface and sample in expectation maximum position,
+constituting Geometry-Aware Dynamic Sampling strategy (GADS). Moreover, we
+introduce a Multi-level Semantic Consistency loss (MSC) to assist more
+informative representation learning. Extensive experiments on indoor and
+outdoor datasets show that comparing with state-of-the-art generalized NeRF
+methods, GARF reduces samples by more than 25\%, while improving rendering
+quality and 3D geometry estimation.
+",regular,0
+2111.01726,"Instructive artificial intelligence (AI) for human training, assistance,
+  and explainability","  We propose a novel approach to explainable AI (XAI) based on the concept of
+""instruction"" from neural networks. In this case study, we demonstrate how a
+superhuman neural network might instruct human trainees as an alternative to
+traditional approaches to XAI. Specifically, an AI examines human actions and
+calculates variations on the human strategy that lead to better performance.
+Experiments with a JHU/APL-developed AI player for the cooperative card game
+Hanabi suggest this technique makes unique contributions to explainability
+while improving human performance. One area of focus for Instructive AI is in
+the significant discrepancies that can arise between a human's actual strategy
+and the strategy they profess to use. This inaccurate self-assessment presents
+a barrier for XAI, since explanations of an AI's strategy may not be properly
+understood or implemented by human recipients. We have developed and are
+testing a novel, Instructive AI approach that estimates human strategy by
+observing human actions. With neural networks, this allows a direct calculation
+of the changes in weights needed to improve the human strategy to better
+emulate a more successful AI. Subjected to constraints (e.g. sparsity) these
+weight changes can be interpreted as recommended changes to human strategy
+(e.g. ""value A more, and value B less""). Instruction from AI such as this
+functions both to help humans perform better at tasks, but also to better
+understand, anticipate, and correct the actions of an AI. Results will be
+presented on AI instruction's ability to improve human decision-making and
+human-AI teaming in Hanabi.
+",regular,0
+2407.0394899999997,Establishing Provenance Before Coding: Traditional and Next-Gen Signing,"  Software engineers integrate third-party components into their applications.
+The resulting software supply chain is vulnerable. To reduce the attack
+surface, we can verify the origin of components (provenance) before adding
+them. Cryptographic signatures enable this. This article describes traditional
+signing, its challenges, and changes introduced by next generation signing
+platforms
+",regular,1
+2306.0912399999997,DIFFender: Diffusion-Based Adversarial Defense against Patch Attacks,"  Adversarial attacks, particularly patch attacks, pose significant threats to
+the robustness and reliability of deep learning models. Developing reliable
+defenses against patch attacks is crucial for real-world applications, yet
+current research in this area is unsatisfactory. In this paper, we propose
+DIFFender, a novel defense method that leverages a text-guided diffusion model
+to defend against adversarial patches. DIFFender includes two main stages:
+patch localization and patch restoration. In the localization stage, we find
+and exploit an intriguing property of the diffusion model to precisely identify
+the locations of adversarial patches. In the restoration stage, we employ the
+diffusion model to reconstruct the adversarial regions in the images while
+preserving the integrity of the visual content. Thanks to the former finding,
+these two stages can be simultaneously guided by a unified diffusion model.
+Thus, we can utilize the close interaction between them to improve the whole
+defense performance. Moreover, we propose a few-shot prompt-tuning algorithm to
+fine-tune the diffusion model, enabling the pre-trained diffusion model to
+adapt to the defense task easily. We conduct extensive experiments on image
+classification, face recognition, and further in the physical world,
+demonstrating that our proposed method exhibits superior robustness under
+strong adaptive attacks and generalizes well across various scenarios, diverse
+classifiers, and multiple patch attack methods.
+",regular,0
+2102.05301,Parallel Minimum Cuts in $O(m \log^2(n))$ Work and Low Depth,"  We present a randomized $O(m \log^2 n)$ work, $O(\text{polylog } n)$ depth
+parallel algorithm for minimum cut. This algorithm matches the work bounds of a
+recent sequential algorithm by Gawrychowski, Mozes, and Weimann [ICALP'20], and
+improves on the previously best parallel algorithm by Geissmann and Gianinazzi
+[SPAA'18], which performs $O(m \log^4 n)$ work in $O(\text{polylog } n)$ depth.
+  Our algorithm makes use of three components that might be of independent
+interest. Firstly, we design a parallel data structure that efficiently
+supports batched mixed queries and updates on trees. It generalizes and
+improves the work bounds of a previous data structure of Geissmann and
+Gianinazzi and is work efficient with respect to the best sequential algorithm.
+Secondly, we design a parallel algorithm for approximate minimum cut that
+improves on previous results by Karger and Motwani. We use this algorithm to
+give a work-efficient procedure to produce a tree packing, as in Karger's
+sequential algorithm for minimum cuts. Lastly, we design an efficient parallel
+algorithm for solving the minimum $2$-respecting cut problem.
+",regular,0
+2311.16104,Data Analytics with Differential Privacy,"  Differential privacy is the state-of-the-art definition for privacy,
+guaranteeing that any analysis performed on a sensitive dataset leaks no
+information about the individuals whose data are contained therein. In this
+thesis, we develop differentially private algorithms to analyze distributed and
+streaming data. In the distributed model, we consider the particular problem of
+learning -- in a distributed fashion -- a global model of the data, that can
+subsequently be used for arbitrary analyses. We build upon PrivBayes, a
+differentially private method that approximates the high-dimensional
+distribution of a centralized dataset as a product of low-order distributions,
+utilizing a Bayesian Network model. We examine three novel approaches to
+learning a global Bayesian Network from distributed data, while offering the
+differential privacy guarantee to all local datasets. Our work includes a
+detailed theoretical analysis of the distributed, differentially private
+entropy estimator which we use in one of our algorithms, as well as a detailed
+experimental evaluation, using both synthetic and real-world data. In the
+streaming model, we focus on the problem of estimating the density of a stream
+of users, which expresses the fraction of all users that actually appear in the
+stream. We offer one of the strongest privacy guarantees for the streaming
+model, user-level pan-privacy, which ensures that the privacy of any user is
+protected, even against an adversary that observes the internal state of the
+algorithm. We provide a detailed analysis of an existing, sampling-based
+algorithm for the problem and propose two novel modifications that
+significantly improve it, both theoretically and experimentally, by optimally
+using all the allocated ""privacy budget.""
+",regular,0
+2204.03418,"Continual Inference: A Library for Efficient Online Inference with Deep
+  Neural Networks in PyTorch","  We present Continual Inference, a Python library for implementing Continual
+Inference Networks (CINs) in PyTorch, a class of Neural Networks designed
+specifically for efficient inference in both online and batch processing
+scenarios. We offer a comprehensive introduction and guide to CINs and their
+implementation in practice, and provide best-practices and code examples for
+composing complex modules for modern Deep Learning. Continual Inference is
+readily downloadable via the Python Package Index and at
+\url{www.github.com/lukashedegaard/continual-inference}.
+",regular,0
+2312.10423,"Stochastic Bayesian Optimization with Unknown Continuous Context
+  Distribution via Kernel Density Estimation","  Bayesian optimization (BO) is a sample-efficient method and has been widely
+used for optimizing expensive black-box functions. Recently, there has been a
+considerable interest in BO literature in optimizing functions that are
+affected by context variable in the environment, which is uncontrollable by
+decision makers. In this paper, we focus on the optimization of functions'
+expectations over continuous context variable, subject to an unknown
+distribution. To address this problem, we propose two algorithms that employ
+kernel density estimation to learn the probability density function (PDF) of
+continuous context variable online. The first algorithm is simpler, which
+directly optimizes the expectation under the estimated PDF. Considering that
+the estimated PDF may have high estimation error when the true distribution is
+complicated, we further propose the second algorithm that optimizes the
+distributionally robust objective. Theoretical results demonstrate that both
+algorithms have sub-linear Bayesian cumulative regret on the expectation
+objective. Furthermore, we conduct numerical experiments to empirically
+demonstrate the effectiveness of our algorithms.
+",regular,0
+2404.01413,"Is Model Collapse Inevitable? Breaking the Curse of Recursion by
+  Accumulating Real and Synthetic Data","  The proliferation of generative models, combined with pretraining on
+web-scale data, raises a timely question: what happens when these models are
+trained on their own generated outputs? Recent investigations into model-data
+feedback loops proposed that such loops would lead to a phenomenon termed model
+collapse, under which performance progressively degrades with each model-data
+feedback iteration until fitted models become useless. However, those studies
+largely assumed that new data replace old data over time, where an arguably
+more realistic assumption is that data accumulate over time. In this paper, we
+ask: what effect does accumulating data have on model collapse? We empirically
+study this question by pretraining sequences of language models on text
+corpora. We confirm that replacing the original real data by each generation's
+synthetic data does indeed tend towards model collapse, then demonstrate that
+accumulating the successive generations of synthetic data alongside the
+original real data avoids model collapse; these results hold across a range of
+model sizes, architectures, and hyperparameters. We obtain similar results for
+deep generative models on other types of real data: diffusion models for
+molecule conformation generation and variational autoencoders for image
+generation. To understand why accumulating data can avoid model collapse, we
+use an analytically tractable framework introduced by prior work in which a
+sequence of linear models are fit to the previous models' outputs. Previous
+work used this framework to show that if data are replaced, the test error
+increases with the number of model-fitting iterations; we extend this argument
+to prove that if data instead accumulate, the test error has a finite upper
+bound independent of the number of iterations, meaning model collapse no longer
+occurs.
+",regular,0
+2102.1002399999998,A Tb/s Indoor MIMO Optical Wireless Backhaul System Using VCSEL Arrays,"  In this paper, the design of a multiple-input multiple-output (MIMO) optical
+wireless communication (OWC) link based on vertical cavity surface emitting
+laser (VCSEL) arrays is systematically carried out with the aim to support data
+rates in excess of 1 Tb/s for the backhaul of sixth generation (6G) indoor
+wireless networks. The proposed design combines direct current optical
+orthogonal frequency division multiplexing (DCO-OFDM) and a spatial
+multiplexing MIMO architecture. For such an ultra-high-speed line-of-sight
+(LOS) OWC link with low divergence laser beams, maintaining alignment is of
+high importance. In this paper, two types of misalignment error between the
+transmitter and receiver are distinguished, namely, radial displacement error
+and orientation angle error, and they are thoroughly modeled in a unified
+analytical framework assuming Gaussian laser beams, resulting in a generalized
+misalignment model (GMM). The derived GMM is then extended to MIMO arrays and
+the performance of the MIMO-OFDM OWC system is analyzed in terms of the
+aggregate data rate. Novel insights are provided into the system performance
+based on computer simulations by studying various influential factors such as
+beam waist, array configuration and different misalignment errors, which can be
+used as guidelines for designing short range Tb/s MIMO OWC systems.
+",regular,0
+2112.0435199999997,"Efficient Data Race Detection of Async-Finish Programs Using Vector
+  Clocks","  Existing data race detectors for task-based programs incur significant run
+time and space overheads. The overheads arise because of frequent lookups in
+fine-grained tree data structures to check whether two accesses can happen in
+parallel.
+  This work shows how to efficiently apply vector clocks for dynamic data race
+detection of async-finish programs with locks. Our proposed technique,
+FastRacer, builds on the FastTrack algorithm with per-task and per-variable
+optimizations to reduce the size of vector clocks. FastRacer exploits the
+structured parallelism of async-finish programs to use a coarse-grained
+encoding of the dynamic task inheritance relations to limit the metadata in the
+presence of many concurrent readers. Our evaluation shows that FastRacer
+substantially improves time and space overheads over FastTrack, and is
+competitive with the state-of-the-art data race detectors for async-finish
+programs with locks.
+",regular,0
+2204.08609,"""Flux+Mutability"": A Conditional Generative Approach to One-Class
+  Classification and Anomaly Detection","  Anomaly Detection is becoming increasingly popular within the experimental
+physics community. At experiments such as the Large Hadron Collider, anomaly
+detection is at the forefront of finding new physics beyond the Standard Model.
+This paper details the implementation of a novel Machine Learning architecture,
+called Flux+Mutability, which combines cutting-edge conditional generative
+models with clustering algorithms. In the `flux' stage we learn the
+distribution of a reference class. The `mutability' stage at inference
+addresses if data significantly deviates from the reference class. We
+demonstrate the validity of our approach and its connection to multiple
+problems spanning from one-class classification to anomaly detection. In
+particular, we apply our method to the isolation of neutral showers in an
+electromagnetic calorimeter and show its performance in detecting anomalous
+dijets events from standard QCD background. This approach limits assumptions on
+the reference sample and remains agnostic to the complementary class of objects
+of a given problem. We describe the possibility of dynamically generating a
+reference population and defining selection criteria via quantile cuts.
+Remarkably this flexible architecture can be deployed for a wide range of
+problems, and applications like multi-class classification or data quality
+control are left for further exploration.
+",regular,0
+2309.1557199999997,"HPL-ViT: A Unified Perception Framework for Heterogeneous Parallel
+  LiDARs in V2V","  To develop the next generation of intelligent LiDARs, we propose a novel
+framework of parallel LiDARs and construct a hardware prototype in our
+experimental platform, DAWN (Digital Artificial World for Natural). It
+emphasizes the tight integration of physical and digital space in LiDAR
+systems, with networking being one of its supported core features. In the
+context of autonomous driving, V2V (Vehicle-to-Vehicle) technology enables
+efficient information sharing between different agents which significantly
+promotes the development of LiDAR networks. However, current research operates
+under an ideal situation where all vehicles are equipped with identical LiDAR,
+ignoring the diversity of LiDAR categories and operating frequencies. In this
+paper, we first utilize OpenCDA and RLS (Realistic LiDAR Simulation) to
+construct a novel heterogeneous LiDAR dataset named OPV2V-HPL. Additionally, we
+present HPL-ViT, a pioneering architecture designed for robust feature fusion
+in heterogeneous and dynamic scenarios. It uses a graph-attention Transformer
+to extract domain-specific features for each agent, coupled with a
+cross-attention mechanism for the final fusion. Extensive experiments on
+OPV2V-HPL demonstrate that HPL-ViT achieves SOTA (state-of-the-art) performance
+in all settings and exhibits outstanding generalization capabilities.
+",regular,0
+2203.16123,"An I/O-Efficient Disk-based Graph System for Scalable Second-Order
+  Random Walk of Large Graphs","  Random walk is widely used in many graph analysis tasks, especially the
+first-order random walk. However, as a simplification of real-world problems,
+the first-order random walk is poor at modeling higher-order structures in the
+data. Recently, second-order random walk-based applications (e.g., Node2vec,
+Second-order PageRank) have become attractive. Due to the complexity of the
+second-order random walk models and memory limitations, it is not scalable to
+run second-order random walk-based applications on a single machine. Existing
+disk-based graph systems are only friendly to the first-order random walk
+models and suffer from expensive disk I/Os when executing the second-order
+random walks. This paper introduces an I/O-efficient disk-based graph system
+for the scalable second-order random walk of large graphs, called GraSorw.
+First, to eliminate massive light vertex I/Os, we develop a bi-block execution
+engine that converts random I/Os into sequential I/Os by applying a new
+triangular bi-block scheduling strategy, the bucket-based walk management, and
+the skewed walk storage. Second, to improve the I/O utilization, we design a
+learning-based block loading model to leverage the advantages of the full-load
+and on-demand load methods. Finally, we conducted extensive experiments on six
+large real datasets as well as several synthetic datasets. The empirical
+results demonstrate that the end-to-end time cost of popular tasks in GraSorw
+is reduced by more than one order of magnitude compared to the existing
+disk-based graph systems.
+",regular,0
+2112.14478,Semantic Feature Extraction for Generalized Zero-shot Learning,"  Generalized zero-shot learning (GZSL) is a technique to train a deep learning
+model to identify unseen classes using the attribute. In this paper, we put
+forth a new GZSL technique that improves the GZSL classification performance
+greatly. Key idea of the proposed approach, henceforth referred to as semantic
+feature extraction-based GZSL (SE-GZSL), is to use the semantic feature
+containing only attribute-related information in learning the relationship
+between the image and the attribute. In doing so, we can remove the
+interference, if any, caused by the attribute-irrelevant information contained
+in the image feature. To train a network extracting the semantic feature, we
+present two novel loss functions, 1) mutual information-based loss to capture
+all the attribute-related information in the image feature and 2)
+similarity-based loss to remove unwanted attribute-irrelevant information. From
+extensive experiments using various datasets, we show that the proposed SE-GZSL
+technique outperforms conventional GZSL approaches by a large margin.
+",regular,0
+2110.13535,"An in-depth Analysis of Occasional and Recurring Collaborations in
+  Online Music Co-creation","  The success of online creative communities depends on the will of
+participants to create and derive content in a collaborative environment.
+Despite their growing popularity, the factors that lead to remixing existing
+content in online creative communities are not entirely understood. In this
+paper, we focus on overdubbing, that is, a dyadic collaboration where one
+author mixes one new track with an audio recording previously uploaded by
+another. We study musicians who collaborate regularly, that is, frequently
+overdub each other's songs. Building on frequent pattern mining techniques, we
+develop an approach to seek instances of such recurring collaborations in the
+Songtree community. We identify 43 instances involving two or three members
+with a similar reputation in the community. Our findings highlight common and
+different remix factors in occasional and recurring collaborations.
+Specifically, fresh and less mature songs are generally overdubbed more;
+instead, exchanging messages and invitations to collaborate are significant
+factors only for songs generated through recurring collaborations whereas
+author reputation (ranking) and applying metadata tags to songs have a positive
+effect only in occasional collaborations.
+",regular,0
+2104.12124,On Measure Quantifiers in First-Order Arithmetic (Long Version),"  We study the logic obtained by endowing the language of first-order
+arithmetic with second-order measure quantifiers. This new kind of
+quantification allows us to express that the argument formula is true in a
+certain portion of all possible interpretations of the quantified variable. We
+show that first-order arithmetic with measure quantifiers is capable of
+formalizing simple results from probability theory and, most importantly, of
+representing every recursive random function. Moreover, we introduce a
+realizability interpretation of this logic in which programs have access to an
+oracle from the Cantor space.
+",regular,0
+2105.08114,Weakly Private Information Retrieval Under R\'enyi Divergence,"  Private information retrieval (PIR) is a protocol that guarantees the privacy
+of a user who is in communication with databases. The user wants to download
+one of the messages stored in the databases while hiding the identity of the
+desired message. Recently, the benefits that can be obtained by weakening the
+privacy requirement have been studied, but the definition of weak privacy needs
+to be elaborated upon. In this paper, we attempt to quantify the weak privacy
+(i.e., information leakage) in PIR problems by using the R\'enyi divergence
+that generalizes the Kullback-Leibler divergence. By introducing R\'enyi
+divergence into the existing PIR problem, the tradeoff relationship between
+privacy (information leakage) and PIR performance (download cost) is
+characterized via convex optimization. Furthermore, we propose an alternative
+PIR scheme with smaller message sizes than the Tian-Sun-Chen (TSC) scheme. The
+proposed scheme cannot achieve the PIR capacity of perfect privacy since the
+message size of the TSC scheme is the minimum to achieve the PIR capacity.
+However, we show that the proposed scheme can be better than the TSC scheme in
+the weakly PIR setting, especially under a low download cost regime.
+",regular,0
+2205.10386,A Dynamic Weighted Tabular Method for Convolutional Neural Networks,"  Traditional Machine Learning (ML) models like Support Vector Machine, Random
+Forest, and Logistic Regression are generally preferred for classification
+tasks on tabular datasets. Tabular data consists of rows and columns
+corresponding to instances and features, respectively. Past studies indicate
+that traditional classifiers often produce unsatisfactory results in complex
+tabular datasets. Hence, researchers attempt to use the powerful Convolutional
+Neural Networks (CNN) for tabular datasets. Recent studies propose several
+techniques like SuperTML, Conditional GAN (CTGAN), and Tabular Convolution
+(TAC) for applying Convolutional Neural Networks (CNN) on tabular data. These
+models outperform the traditional classifiers and substantially improve the
+performance on tabular data. This study introduces a novel technique, namely,
+Dynamic Weighted Tabular Method (DWTM), that uses feature weights dynamically
+based on statistical techniques to apply CNNs on tabular datasets. The method
+assigns weights dynamically to each feature based on their strength of
+associativity to the class labels. Each data point is converted into images and
+fed to a CNN model. The features are allocated image canvas space based on
+their weights. The DWTM is an improvement on the previously mentioned methods
+as it dynamically implements the entire experimental setting rather than using
+the static configuration provided in the previous methods. Furthermore, it uses
+the novel idea of using feature weights to create image canvas space. In this
+paper, the DWTM is applied to six benchmarked tabular datasets and it achieves
+outstanding performance (i.e., average accuracy = 95%) on all of them.
+",regular,0
+2103.14021,Orthogonal Projection Loss,"  Deep neural networks have achieved remarkable performance on a range of
+classification tasks, with softmax cross-entropy (CE) loss emerging as the
+de-facto objective function. The CE loss encourages features of a class to have
+a higher projection score on the true class-vector compared to the negative
+classes. However, this is a relative constraint and does not explicitly force
+different class features to be well-separated. Motivated by the observation
+that ground-truth class representations in CE loss are orthogonal (one-hot
+encoded vectors), we develop a novel loss function termed `Orthogonal
+Projection Loss' (OPL) which imposes orthogonality in the feature space. OPL
+augments the properties of CE loss and directly enforces inter-class separation
+alongside intra-class clustering in the feature space through orthogonality
+constraints on the mini-batch level. As compared to other alternatives of CE,
+OPL offers unique advantages e.g., no additional learnable parameters, does not
+require careful negative mining and is not sensitive to the batch size. Given
+the plug-and-play nature of OPL, we evaluate it on a diverse range of tasks
+including image recognition (CIFAR-100), large-scale classification (ImageNet),
+domain generalization (PACS) and few-shot learning (miniImageNet, CIFAR-FS,
+tiered-ImageNet and Meta-dataset) and demonstrate its effectiveness across the
+board. Furthermore, OPL offers better robustness against practical nuisances
+such as adversarial attacks and label noise. Code is available at:
+https://github.com/kahnchana/opl.
+",regular,0
+2207.0157,Goal-Conditioned Generators of Deep Policies,"  Goal-conditioned Reinforcement Learning (RL) aims at learning optimal
+policies, given goals encoded in special command inputs. Here we study
+goal-conditioned neural nets (NNs) that learn to generate deep NN policies in
+form of context-specific weight matrices, similar to Fast Weight Programmers
+and other methods from the 1990s. Using context commands of the form ""generate
+a policy that achieves a desired expected return,"" our NN generators combine
+powerful exploration of parameter space with generalization across commands to
+iteratively find better and better policies. A form of weight-sharing
+HyperNetworks and policy embeddings scales our method to generate deep NNs.
+Experiments show how a single learned policy generator can produce policies
+that achieve any return seen during training. Finally, we evaluate our
+algorithm on a set of continuous control tasks where it exhibits competitive
+performance. Our code is public.
+",regular,0
+2304.1350199999997,"How Semantic Information G Measure Relates to Distortion, Freshness,
+  Purposiveness, and Efficiency","  To improve communication efficiency and provide more useful information, we
+need to measure semantic information by combining inaccuracy or distortion,
+freshness, purposiveness, and efficiency. The author proposed the semantic
+information G measure before. This measure is more compatible with Shannon
+information theory than other semantic or generalized information measures and
+has been applied to machine learning. This paper focuses on semantic predictive
+information (including observation information) and purposive (or goal-related)
+information (involving semantic communication and constraint control). The GPS
+pointer is used as an example to discuss the change of semantic predictive
+information with inaccuracy and time (age of the information). An example of
+constraint control (controlling probability distributions) is provided for
+measuring purposive information and maximizing this information and the
+information efficiency. The information rate fidelity function (a
+generalization of the information rate distortion function) is introduced for
+the optimization. Two computing examples demonstrate how to measure predictive
+and goal-related information and optimizing information efficiency. The results
+accord with theoretical conclusions well. The G measure is related to deep
+learning; its application to machine learning is worth exploring. Communication
+efficiency also involves utilities or information values; semantic
+communication optimization combining utilities needs further research.
+",regular,1
+2208.02578,"N-best Response-based Analysis of Contradiction-awareness in Neural
+  Response Generation Models","  Avoiding the generation of responses that contradict the preceding context is
+a significant challenge in dialogue response generation. One feasible method is
+post-processing, such as filtering out contradicting responses from a resulting
+n-best response list. In this scenario, the quality of the n-best list
+considerably affects the occurrence of contradictions because the final
+response is chosen from this n-best list. This study quantitatively analyzes
+the contextual contradiction-awareness of neural response generation models
+using the consistency of the n-best lists. Particularly, we used polar
+questions as stimulus inputs for concise and quantitative analyses. Our tests
+illustrate the contradiction-awareness of recent neural response generation
+models and methodologies, followed by a discussion of their properties and
+limitations.
+",regular,0
+2101.06545,VideoClick: Video Object Segmentation with a Single Click,"  Annotating videos with object segmentation masks typically involves a two
+stage procedure of drawing polygons per object instance for all the frames and
+then linking them through time. While simple, this is a very tedious, time
+consuming and expensive process, making the creation of accurate annotations at
+scale only possible for well-funded labs. What if we were able to segment an
+object in the full video with only a single click? This will enable video
+segmentation at scale with a very low budget opening the door to many
+applications. Towards this goal, in this paper we propose a bottom up approach
+where given a single click for each object in a video, we obtain the
+segmentation masks of these objects in the full video. In particular, we
+construct a correlation volume that assigns each pixel in a target frame to
+either one of the objects in the reference frame or the background. We then
+refine this correlation volume via a recurrent attention module and decode the
+final segmentation. To evaluate the performance, we label the popular and
+challenging Cityscapes dataset with video object segmentations. Results on this
+new CityscapesVideo dataset show that our approach outperforms all the
+baselines in this challenging setting.
+",regular,0
+2201.02065,"ASL-Skeleton3D and ASL-Phono: Two Novel Datasets for the American Sign
+  Language","  Sign language is an essential resource enabling access to communication and
+proper socioemotional development for individuals suffering from disabling
+hearing loss. As this population is expected to reach 700 million by 2050, the
+importance of the language becomes even more essential as it plays a critical
+role to ensure the inclusion of such individuals in society. The Sign Language
+Recognition field aims to bridge the gap between users and non-users of sign
+languages. However, the scarcity in quantity and quality of datasets is one of
+the main challenges limiting the exploration of novel approaches that could
+lead to significant advancements in this research area. Thus, this paper
+contributes by introducing two new datasets for the American Sign Language: the
+first is composed of the three-dimensional representation of the signers and,
+the second, by an unprecedented linguistics-based representation containing a
+set of phonological attributes of the signs.
+",regular,0
+2109.03891,"SORNet: Spatial Object-Centric Representations for Sequential
+  Manipulation","  Sequential manipulation tasks require a robot to perceive the state of an
+environment and plan a sequence of actions leading to a desired goal state. In
+such tasks, the ability to reason about spatial relations among object entities
+from raw sensor inputs is crucial in order to determine when a task has been
+completed and which actions can be executed. In this work, we propose SORNet
+(Spatial Object-Centric Representation Network), a framework for learning
+object-centric representations from RGB images conditioned on a set of object
+queries, represented as image patches called canonical object views. With only
+a single canonical view per object and no annotation, SORNet generalizes
+zero-shot to object entities whose shape and texture are both unseen during
+training. We evaluate SORNet on various spatial reasoning tasks such as spatial
+relation classification and relative direction regression in complex tabletop
+manipulation scenarios and show that SORNet significantly outperforms baselines
+including state-of-the-art representation learning techniques. We also
+demonstrate the application of the representation learned by SORNet on
+visual-servoing and task planning for sequential manipulation on a real robot.
+",regular,0
+2101.09528,"Hard satisfiable formulas for DPLL algorithms using heuristics with
+  small memory","  DPLL algorithm for solving the Boolean satisfiability problem (SAT) can be
+represented in the form of a procedure that, using heuristics $A$ and $B$,
+select the variable $x$ from the input formula $\varphi$ and the value $b$ and
+runs recursively on the formulas $\varphi[x := b]$ and $\varphi[x := 1 - b]$.
+Exponential lower bounds on the running time of DPLL algorithms on
+unsatisfiable formulas follow from the lower bounds for tree-like resolution
+proofs. Lower bounds on satisfiable formulas are also known for some classes of
+DPLL algorithms such as ""myopic"" and ""drunken"" algorithms.
+  All lower bounds are made for the classes of DPLL algorithms that limit
+heuristics access to the formula. In this paper we consider DPLL algorithms
+with heuristics that have unlimited access to the formula but use small memory.
+We show that for any pair of heuristics with small memory there exists a family
+of satisfiable formulas $\Phi_n$ such that a DPLL algorithm that uses these
+heuristics runs in exponential time on the formulas $\Phi_n$.
+",regular,0
+2110.03276,"Inferring Substitutable and Complementary Products with Knowledge-Aware
+  Path Reasoning based on Dynamic Policy Network","  Inferring the substitutable and complementary products for a given product is
+an essential and fundamental concern for the recommender system. To achieve
+this, existing approaches take advantage of the knowledge graphs to learn more
+evidences for inference, whereas they often suffer from invalid reasoning for
+lack of elegant decision making strategies. Therefore, we propose a novel
+Knowledge-Aware Path Reasoning (KAPR) model which leverages the dynamic policy
+network to make explicit reasoning over knowledge graphs, for inferring the
+substitutable and complementary relationships. Our contributions can be
+highlighted as three aspects. Firstly, we model this inference scenario as a
+Markov Decision Process in order to accomplish a knowledge-aware path reasoning
+over knowledge graphs. Secondly,we integrate both structured and unstructured
+knowledge to provide adequate evidences for making accurate decision-making.
+Thirdly, we evaluate our model on a series of real-world datasets, achieving
+competitive performance compared with state-of-the-art approaches. Our code is
+released on https://gitee.com/yangzijing flower/kapr/tree/master.
+",regular,0
+2409.1151,Unidirectional Human-Robot-Human Physical Interaction for Gait Training,"  This work presents a novel rehabilitation framework designed for a therapist,
+wearing an inertial measurement unit (IMU) suit, to virtually interact with a
+lower-limb exoskeleton worn by a patient with motor impairments. This framework
+aims to harmonize the skills and knowledge of the therapist with the
+capabilities of the exoskeleton. The therapist can guide the patient's
+movements by moving their own joints and making real-time adjustments to meet
+the patient's needs, while reducing the physical effort of the therapist. This
+eliminates the need for a predefined trajectory for the patient to follow, as
+in conventional robotic gait training. For the virtual interaction medium
+between the therapist and patient, we propose an impedance profile that is
+stiff at low frequencies and less stiff at high frequencies, that can be
+tailored to individual patient needs and different stages of rehabilitation.
+The desired interaction torque from this medium is commanded to a
+whole-exoskeleton closed-loop compensation controller. The proposed virtual
+interaction framework was evaluated with a pair of unimpaired individuals in
+different teacher-student gait training exercises. Results show the proposed
+interaction control effectively transmits haptic cues, informing future
+applications in rehabilitation scenarios.
+",regular,0
+2206.0279600000003,Mixed Graph Contrastive Network for Semi-Supervised Node Classification,"  Graph Neural Networks (GNNs) have achieved promising performance in
+semi-supervised node classification in recent years. However, the problem of
+insufficient supervision, together with representation collapse, largely limits
+the performance of the GNNs in this field. To alleviate the collapse of node
+representations in semi-supervised scenario, we propose a novel graph
+contrastive learning method, termed Mixed Graph Contrastive Network (MGCN). In
+our method, we improve the discriminative capability of the latent feature by
+enlarging the margin of decision boundaries and improving the cross-view
+consistency of the latent representation. Specifically, we first adopt an
+interpolation-based strategy to conduct data augmentation in the latent space
+and then force the prediction model to change linearly between samples. Second,
+we enable the learned network to tell apart samples across two
+interpolation-perturbed views through forcing the correlation matrix across
+views to approximate an identity matrix. By combining the two settings, we
+extract rich supervision information from both the abundant unlabeled nodes and
+the rare yet valuable labeled nodes for discriminative representation learning.
+Extensive experimental results on six datasets demonstrate the effectiveness
+and the generality of MGCN compared to the existing state-of-the-art methods.
+",regular,0
+2207.07212,"Attention, Filling in The Gaps for Generalization in Routing Problems","  Machine Learning (ML) methods have become a useful tool for tackling vehicle
+routing problems, either in combination with popular heuristics or as
+standalone models. However, current methods suffer from poor generalization
+when tackling problems of different sizes or different distributions. As a
+result, ML in vehicle routing has witnessed an expansion phase with new
+methodologies being created for particular problem instances that become
+infeasible at larger problem sizes.
+  This paper aims at encouraging the consolidation of the field through
+understanding and improving current existing models, namely the attention model
+by Kool et al. We identify two discrepancy categories for VRP generalization.
+The first is based on the differences that are inherent to the problems
+themselves, and the second relates to architectural weaknesses that limit the
+model's ability to generalize. Our contribution becomes threefold: We first
+target model discrepancies by adapting the Kool et al. method and its loss
+function for Sparse Dynamic Attention based on the alpha-entmax activation. We
+then target inherent differences through the use of a mixed instance training
+method that has been shown to outperform single instance training in certain
+scenarios. Finally, we introduce a framework for inference level data
+augmentation that improves performance by leveraging the model's lack of
+invariance to rotation and dilation changes.
+",regular,0
+2109.08569,"Mitigating Data Scarceness through Data Synthesis, Augmentation and
+  Curriculum for Abstractive Summarization","  This paper explores three simple data manipulation techniques (synthesis,
+augmentation, curriculum) for improving abstractive summarization models
+without the need for any additional data. We introduce a method of data
+synthesis with paraphrasing, a data augmentation technique with sample mixing,
+and curriculum learning with two new difficulty metrics based on specificity
+and abstractiveness. We conduct experiments to show that these three techniques
+can help improve abstractive summarization across two summarization models and
+two different small datasets. Furthermore, we show that these techniques can
+improve performance when applied in isolation and when combined.
+",regular,0
+2305.08116,"The Structure and Dynamics of Knowledge Graphs, with Superficiality","  Large knowledge graphs combine human knowledge garnered from projects ranging
+from academia and institutions to enterprises and crowdsourcing. Within such
+graphs, each relationship between two nodes represents a basic fact involving
+these two entities. The diversity of the semantics of relationships constitutes
+the richness of knowledge graphs, leading to the emergence of singular
+topologies, sometimes chaotic in appearance. However, this complex
+characteristic can be modeled in a simple way by introducing the concept of
+superficiality, which controls the overlap between relationships whose facts
+are generated independently. Superficiality also regulates the balance of the
+global distribution of knowledge by determining the proportion of misdescribed
+entities. This is the first model for the structure and dynamics of knowledge
+graphs. It leads to a better understanding of formal knowledge acquisition and
+organization.
+",regular,0
+2305.0385899999997,"Open problems in causal structure learning: A case study of COVID-19 in
+  the UK","  Causal machine learning (ML) algorithms recover graphical structures that
+tell us something about cause-and-effect relationships. The causal
+representation praovided by these algorithms enables transparency and
+explainability, which is necessary for decision making in critical real-world
+problems. Yet, causal ML has had limited impact in practice compared to
+associational ML. This paper investigates the challenges of causal ML with
+application to COVID-19 UK pandemic data. We collate data from various public
+sources and investigate what the various structure learning algorithms learn
+from these data. We explore the impact of different data formats on algorithms
+spanning different classes of learning, and assess the results produced by each
+algorithm, and groups of algorithms, in terms of graphical structure, model
+dimensionality, sensitivity analysis, confounding variables, predictive and
+interventional inference. We use these results to highlight open problems in
+causal structure learning and directions for future research. To facilitate
+future work, we make all graphs, models, data sets, and source code publicly
+available online.
+",regular,0
+2402.10639,"Generalizability of Mixture of Domain-Specific Adapters from the Lens of
+  Signed Weight Directions and its Application to Effective Model Pruning","  Several parameter-efficient fine-tuning methods based on adapters have been
+proposed as a streamlined approach to incorporate not only a single specialized
+knowledge into existing Pre-Trained Language Models (PLMs) but also multiple of
+them at once. Recent works such as AdapterSoup propose to mix not all but only
+a selective sub-set of domain-specific adapters during inference via model
+weight averaging to optimize performance on novel, unseen domains with
+excellent computational efficiency. However, the essential generalizability of
+this emerging weight-space adapter mixing mechanism on unseen, in-domain
+examples remains unexplored. Thus, in this study, we conduct a comprehensive
+analysis to elucidate the generalizability of domain-specific adapter mixtures
+in in-domain evaluation. We also provide investigations into the inner workings
+of the mixture of domain-specific adapters by analyzing their weight signs,
+yielding critical analysis on the negative correlation between their fraction
+of weight sign difference and their mixtures' generalizability. All source code
+will be published.
+",regular,0
+2204.0858399999997,A Region-Based Deep Learning Approach to Automated Retail Checkout,"  Automating the product checkout process at conventional retail stores is a
+task poised to have large impacts on society generally speaking. Towards this
+end, reliable deep learning models that enable automated product counting for
+fast customer checkout can make this goal a reality. In this work, we propose a
+novel, region-based deep learning approach to automate product counting using a
+customized YOLOv5 object detection pipeline and the DeepSORT algorithm. Our
+results on challenging, real-world test videos demonstrate that our method can
+generalize its predictions to a sufficient level of accuracy and with a fast
+enough runtime to warrant deployment to real-world commercial settings. Our
+proposed method won 4th place in the 2022 AI City Challenge, Track 4, with an
+F1 score of 0.4400 on experimental validation data.
+",regular,0
+2404.0556300000003,"Predefined Software Environment Runtimes As A Measure For
+  Reproducibility","  As part of Mathematical Research Data Initiative (MaRDI), we have developed a
+way to preserve a software package into an easy to deploy and use sandbox
+environment we call a ""runtime"", via a program we developed called MaPS : MaRDI
+Packaging System. The program relies on Linux user namespaces to isolate a
+library environment from the host system, making the sandboxed software
+reproducible on other systems, with minimal effort. Moreover an overlay
+filesystem makes local edits persistent. This project will aid reproducibility
+efforts of research papers: both mathematical and from other disciplines. As a
+proof of concept, we provide runtimes for the OSCAR Computer Algebra System,
+polymake software for research in polyhedral geometry, and VIBRANT Virus
+Identification By iteRative ANnoTation. The software is in a prerelease state:
+the interface for creating, deploying, and executing runtimes is final, and an
+interface for easily publishing runtimes is under active development. We thus
+propose publishing predefined, distributable software environment runtimes
+along with research papers in an effort to make research with software based
+results reproducible.
+",regular,0
+2206.03879,Reconfiguration of Non-crossing Spanning Trees,"  For a set $P$ of $n$ points in the plane in general position, a non-crossing
+spanning tree is a spanning tree of the points where every edge is a
+straight-line segment between a pair of points and no two edges intersect
+except at a common endpoint. We study the problem of reconfiguring one
+non-crossing spanning tree of $P$ to another using a sequence of flips where
+each flip removes one edge and adds one new edge so that the result is again a
+non-crossing spanning tree of $P$. There is a known upper bound of $2n-4$ flips
+[Avis and Fukuda, 1996] and a lower bound of $1.5n - 5$ flips. We give a
+reconfiguration algorithm that uses at most $2n-3$ flips but reduces that to
+$1.5n-2$ flips when one tree is a path and either: the points are in convex
+position; or the path is monotone in some direction. For points in convex
+position, we prove an upper bound of $2d - \Omega(\log d)$ where $d$ is half
+the size of the symmetric difference between the trees. We also examine whether
+the happy edges (those common to the initial and final trees) need to flip, and
+we find exact minimum flip distances for small point sets using exhaustive
+search.
+",regular,0
+2201.0030100000004,"Investigating Cargo Loss in Logistics Systems using Low-Cost Impact
+  Sensors","  Cargo loss/damage is a very common problem faced by almost any business with
+a supply chain arm, leading to major problems like revenue loss and reputation
+tarnishing. This problem can be solved by employing an asset and impact
+tracking solution. This would be more practical and effective for high-cost
+cargo in comparison to low-cost cargo due to the high costs associated with the
+sensors and overall solution. In this study, we propose a low-cost solution
+architecture that is scalable, user-friendly, easy to adopt and is viable for a
+large range of cargo and logistics systems. Taking inspiration from a real-life
+use case we solved for a client, we also provide insights into the architecture
+as well as the design decisions that make this a reality.
+",regular,0
+2303.02449,"Exploit CAM by itself: Complementary Learning System for Weakly
+  Supervised Semantic Segmentation","  Weakly Supervised Semantic Segmentation (WSSS) with image-level labels has
+long been suffering from fragmentary object regions led by Class Activation Map
+(CAM), which is incapable of generating fine-grained masks for semantic
+segmentation. To guide CAM to find more non-discriminating object patterns,
+this paper turns to an interesting working mechanism in agent learning named
+Complementary Learning System (CLS). CLS holds that the neocortex builds a
+sensation of general knowledge, while the hippocampus specially learns specific
+details, completing the learned patterns. Motivated by this simple but
+effective learning pattern, we propose a General-Specific Learning Mechanism
+(GSLM) to explicitly drive a coarse-grained CAM to a fine-grained pseudo mask.
+Specifically, GSLM develops a General Learning Module (GLM) and a Specific
+Learning Module (SLM). The GLM is trained with image-level supervision to
+extract coarse and general localization representations from CAM. Based on the
+general knowledge in the GLM, the SLM progressively exploits the specific
+spatial knowledge from the localization representations, expanding the CAM in
+an explicit way. To this end, we propose the Seed Reactivation to help SLM
+reactivate non-discriminating regions by setting a boundary for activation
+values, which successively identifies more regions of CAM. Without extra
+refinement processes, our method is able to achieve breakthrough improvements
+for CAM of over 20.0% mIoU on PASCAL VOC 2012 and 10.0% mIoU on MS COCO 2014
+datasets, representing a new state-of-the-art among existing WSSS methods.
+",regular,0
+2404.19542,"One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal
+  Multi-scale and Action Label Features","  Open-vocabulary Temporal Action Detection (Open-vocab TAD) is an advanced
+video analysis approach that expands Closed-vocabulary Temporal Action
+Detection (Closed-vocab TAD) capabilities. Closed-vocab TAD is typically
+confined to localizing and classifying actions based on a predefined set of
+categories. In contrast, Open-vocab TAD goes further and is not limited to
+these predefined categories. This is particularly useful in real-world
+scenarios where the variety of actions in videos can be vast and not always
+predictable. The prevalent methods in Open-vocab TAD typically employ a 2-stage
+approach, which involves generating action proposals and then identifying those
+actions. However, errors made during the first stage can adversely affect the
+subsequent action identification accuracy. Additionally, existing studies face
+challenges in handling actions of different durations owing to the use of fixed
+temporal processing methods. Therefore, we propose a 1-stage approach
+consisting of two primary modules: Multi-scale Video Analysis (MVA) and
+Video-Text Alignment (VTA). The MVA module captures actions at varying temporal
+resolutions, overcoming the challenge of detecting actions with diverse
+durations. The VTA module leverages the synergy between visual and textual
+modalities to precisely align video segments with corresponding action labels,
+a critical step for accurate action identification in Open-vocab scenarios.
+Evaluations on widely recognized datasets THUMOS14 and ActivityNet-1.3, showed
+that the proposed method achieved superior results compared to the other
+methods in both Open-vocab and Closed-vocab settings. This serves as a strong
+demonstration of the effectiveness of the proposed method in the TAD task.
+",regular,0
+2110.0517,"Domain Adaptive Semantic Segmentation via Regional Contrastive
+  Consistency Regularization","  Unsupervised domain adaptation (UDA) for semantic segmentation has been
+well-studied in recent years. However, most existing works largely neglect the
+local regional consistency across different domains and are less robust to
+changes in outdoor environments. In this paper, we propose a novel and fully
+end-to-end trainable approach, called regional contrastive consistency
+regularization (RCCR) for domain adaptive semantic segmentation. Our core idea
+is to pull the similar regional features extracted from the same location of
+different images, i.e., the original image and augmented image, to be closer,
+and meanwhile push the features from the different locations of the two images
+to be separated. We innovatively propose a region-wise contrastive loss with
+two sampling strategies to realize effective regional consistency. Besides, we
+present momentum projection heads, where the teacher projection head is the
+exponential moving average of the student. Finally, a memory bank mechanism is
+designed to learn more robust and stable region-wise features under varying
+environments. Extensive experiments on two common UDA benchmarks, i.e., GTAV to
+Cityscapes and SYNTHIA to Cityscapes, demonstrate that our approach outperforms
+the state-of-the-art methods.
+",regular,0

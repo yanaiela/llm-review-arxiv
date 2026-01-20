@@ -1,0 +1,112 @@
+================================================================================
+AI-GENERATED CONTENT IN REVIEW PAPERS: STATISTICAL ANALYSIS
+================================================================================
+
+DESCRIPTIVE STATISTICS
+--------------------------------------------------------------------------------
+
+Total Papers Analyzed: 14666
+
+Post-LLM Review Papers:
+  Count: 336
+
+Post-LLM Regular Papers:
+  Count: 9607
+
+
+ALPHA COMPARISON (Post-LLM Period)
+--------------------------------------------------------------------------------
+
+Raw Alpha Estimates:
+  Review Papers: α = 0.4070 (95% CI: [0.3840, 0.4300])
+  Regular Papers: α = 0.1880 (95% CI: [0.1850, 0.1910])
+
+  Absolute Difference: 0.2190
+  Relative Increase: 116.5%
+  Confidence Intervals Overlap: False
+
+Rogan-Gladen Adjusted Alpha Estimates:
+  Review Papers: α_adj = 0.2898 (95% CI: [0.2623, 0.3174])
+  Regular Papers: α_adj = 0.1594 (95% CI: [0.1563, 0.1625])
+
+  Absolute Difference (Adjusted): 0.1304
+  Relative Increase (Adjusted): 81.8%
+  Confidence Intervals Overlap (Adjusted): False
+
+
+BASELINE CHECK (Pre-LLM Papers)
+--------------------------------------------------------------------------------
+  Review Papers FPR: 0.1650 ± 0.0260 (n=171)
+  Regular Papers FPR: 0.0340 ± 0.0030 (n=4552)
+
+  Average FPR: 0.0340
+  Acceptable: True
+
+
+GROUP-LEVEL ALPHA ESTIMATES
+--------------------------------------------------------------------------------
+Note: Alpha is a distributional property measuring the fraction of AI-generated
+content across an entire cohesive dataset (group), not individual papers.
+
+Pre-LLM Period (False Positive Rates):
+  Review: α = 0.1650 ± 0.0260
+  Regular: α = 0.0340 ± 0.0030
+
+Post-LLM Period (Raw Estimates):
+  Review: α = 0.4070 ± 0.0230
+  Regular: α = 0.1880 ± 0.0030
+
+Post-LLM Period (Rogan-Gladen Adjusted):
+  Review: α_adj = 0.2898 (-28.8% change)
+  Regular: α_adj = 0.1594 (-15.2% change)
+
+  Adjustment removes false positive baseline from pre-LLM period.
+
+
+YEARLY TRENDS (Post-LLM)
+--------------------------------------------------------------------------------
+  Years covered: 2023, 2024, 2025
+
+  Paper Counts by Year:
+    2023: review: 114 regular: 2534
+    2024: review: 119 regular: 3415
+    2025: review: 103 regular: 3658
+
+  Review Share by Year:
+    2023: 4.3%
+    2024: 3.4%
+    2025: 2.7%
+
+  Review Share Trend (Logistic Regression):
+    coef=-0.2346, OR/yr=0.791, p=0.0007, significant=True
+
+  Alpha Comparison by Year:
+
+    2023:
+      Review Papers: α = 0.1725 (95% CI: [0.1293, 0.2156])
+      Regular Papers: α = 0.0745 (95% CI: [0.0694, 0.0797])
+      Absolute Difference: 0.0979
+      Relative Increase: 131.4%
+      Confidence Intervals Overlap: False
+
+    2024:
+      Review Papers: α = 0.3317 (95% CI: [0.2850, 0.3784])
+      Regular Papers: α = 0.1760 (95% CI: [0.1708, 0.1812])
+      Absolute Difference: 0.1558
+      Relative Increase: 88.5%
+      Confidence Intervals Overlap: False
+
+    2025:
+      Review Papers: α = 0.3737 (95% CI: [0.3246, 0.4228])
+      Regular Papers: α = 0.2029 (95% CI: [0.1967, 0.2091])
+      Absolute Difference: 0.1708
+      Relative Increase: 84.2%
+      Confidence Intervals Overlap: False
+
+
+CONCLUSION
+--------------------------------------------------------------------------------
+Review/survey papers show a higher proportion of AI-generated content
+compared to regular research papers in the post-LLM era.
+The relative increase is approximately 81.8%.
+The confidence intervals do not overlap, suggesting a meaningful difference.

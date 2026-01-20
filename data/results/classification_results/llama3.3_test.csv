@@ -1,0 +1,210 @@
+arxiv_id,title,ground_truth,predicted,llm_classification,reasoning
+2401.08081,"Predicting Next Useful Location With Context-Awareness: The
+  State-Of-The-Art",1,1,review,"The paper provides a comprehensive overview, analyzes multiple studies, and discusses advantages and disadvantages of different approaches, indicating a systematic review of existing research."
+2109.06808,"What are the attackers doing now? Automating cyber threat intelligence
+  extraction from text on pace with the changing threat landscape: A survey",1,1,review,"The paper is a survey of existing studies on cyber threat intelligence extraction, systematically collecting and categorizing relevant literature, which aligns with the characteristics of a review paper."
+2404.05429,"Re-Ranking News Comments by Constructiveness and Curiosity Significantly
+  Increases Perceived Respect, Trustworthiness, and Interest",0,0,other,"The paper presents an original study with experimental results, focusing on the effects of re-ranking comments by constructiveness and curiosity, which indicates it is not a review or survey paper."
+2211.0478,"On the Robustness of Explanations of Deep Neural Network Models: A
+  Survey",1,1,review,"The title contains the word 'survey' and the abstract describes a comprehensive survey of existing methods, indicating a review of current research in the field."
+2103.01888,DM algorithms in health industry,1,1,review,"The title contains the word 'survey' and the abstract mentions reviewing several approaches of data mining in the health industry, indicating a comprehensive overview of existing research."
+2302.08244,"Beyond 5G Domainless Network Operation enabled by Multiband: Toward
+  Optical Continuum Architectures",1,0,other,"The paper presents a novel architecture and discusses technological challenges, indicating original research or technical discussion rather than a systematic review of existing literature."
+2407.11203,The Life Cycle of Large Language Models: A Review of Biases in Education,1,1,review,"The paper is classified as a review because it systematically examines the life cycle of Large Language Models in education, identifying potential biases and discussing prior work, with the aim of providing a comprehensive overview and practical guidance."
+2103.00097,"A Brief Survey of Current Software Engineering Practices in Continuous
+  Integration and Automated Accessibility Testing",1,1,review,"The title contains the word 'survey' and the abstract indicates a comprehensive overview of current practices in software engineering, mapping the current scene, and exploring existing research on accessibility via continuous integration."
+2102.13364,"Building Blocks of Sharding Blockchain Systems: Concepts, Approaches,
+  and Open Problems",1,1,review,"The paper conducts a systematic analysis and review of existing sharding blockchain systems, providing a comprehensive overview of their architecture and components, and identifying open problems and future research directions."
+2307.15838,Holistic Survey of Privacy and Fairness in Machine Learning,1,1,review,"The title contains the word 'survey' and the abstract describes a thorough review of existing literature on privacy and fairness in machine learning, indicating a comprehensive overview of the field."
+2206.1265,"Machine Learning-based Biological Ageing Estimation Technologies: A
+  Survey",1,1,review,"The title contains the word 'survey' and the abstract indicates a review of existing methods for biological ageing estimation using machine learning, summarizing multiple approaches."
+2108.04087,"Reinforcement Learning for Intelligent Healthcare Systems: A
+  Comprehensive Survey",1,1,review,"The title contains the word 'survey' and the abstract indicates a comprehensive overview of reinforcement learning in intelligent healthcare systems, suggesting a systematic review of existing literature."
+2407.0379,Assessing Consensus of Developers' Views on Code Readability,0,0,other,"The paper presents original research, including a survey of Java developers and an analysis of their consensus on code readability assessments, which is not characteristic of a review or survey paper."
+2303.05453,"Personalisation within bounds: A risk taxonomy and policy framework for
+  the alignment of large language models with personalised feedback",1,0,other,"The paper presents a new taxonomy, policy framework, and discusses original research on personalising large language models, indicating it is an original research paper rather than a review."
+2105.05804,"Bridging the user equilibrium and the system optimum in static traffic
+  assignment: how the cooperation among drivers can solve the congestion
+  problem in city networks",1,1,review,"The abstract mentions that 'The survey reviews the state-of-the-art of these trade-off approaches', indicating a review of existing research."
+2311.06311,"Game Theory Solutions in Sensor-Based Human Activity Recognition: A
+  Review",1,1,review,"The title contains the word 'review' and the abstract indicates that the paper explores and discusses existing research, providing insights into the potential of game theory for Human Activity Recognition."
+2311.02608,"Deep Learning-based 3D Point Cloud Classification: A Systematic Survey
+  and Outlook",1,1,review,"The title contains the word 'survey' and the abstract indicates a systematic review of existing research on deep learning-based 3D point cloud classification, summarizing recent progress and future trends."
+2108.13732,Deep Learning on Edge TPUs,1,1,review,"The paper reviews the Edge TPU platform, its applications, and deployment steps, indicating a comprehensive overview of existing research and technology."
+2101.1026100000004,Discrete Choice Analysis with Machine Learning Capabilities,1,0,other,"The paper presents a novel application of machine learning to discrete choice analysis and discusses specific methodologies, indicating original research rather than a comprehensive review of existing literature."
+2307.0066,Minimum Levels of Interpretability for Artificial Moral Agents,1,1,review,"The paper provides an overview of a sub-field of AI interpretability and introduces a concept, indicating a survey or review of existing research in the area."
+2207.06415,"The Free Energy Principle for Perception and Action: A Deep Learning
+  Perspective",1,1,review,"The paper surveys works in machine learning and active inference, presents a perspective on the free energy principle, and provides a practical guide, indicating a review/survey type of paper."
+2109.0184,"A review of Quantum Neural Networks: Methods, Models, Dilemma",1,1,review,"The title contains the word 'review' and the abstract indicates a comprehensive overview of Quantum Neural Networks, covering methods, models, and dilemmas in the field."
+2107.02975,"Neural Natural Language Processing for Unstructured Data in Electronic
+  Health Records: a Review",1,1,review,"The title contains the word 'review' and the abstract describes summarizing current methods, indicating a systematic review of existing research in neural NLP for EHR applications."
+2104.04842,"Designing Effective Interview Chatbots: Automatic Chatbot Profiling and
+  Design Suggestion Generation for Chatbot Debugging",0,0,other,"The paper presents a new computational framework and tool for designing interview chatbots, along with an experimental study to validate its effectiveness, indicating original research rather than a review or survey."
+2301.12687,Understanding Visual Arts Experiences of Blind People,0,0,other,"The paper presents original research based on interviews and a survey, focusing on empirical results and implications for designing access methods, rather than reviewing existing literature."
+2404.0457,"A Map of Exploring Human Interaction patterns with LLM: Insights into
+  Collaboration and Creativity",1,1,review,"The paper systematically reviews existing literature on human interaction with large language models, analyzing and categorizing 110 relevant publications to provide a comprehensive overview of the research landscape."
+2202.01428,Multi-Criteria Assessment of Shape Quality in CAD Systems of the Future,0,0,other,"The paper presents a multi-criteria approach to assessing shape quality in CAD systems, proposing new requirements and analyzing technical issues, which indicates original research rather than a review or survey of existing literature."
+2202.0251,A Survey on Poisoning Attacks Against Supervised Machine Learning,1,1,review,"The title contains the word 'survey' and the abstract indicates a systematic review of existing literature on poisoning attacks against supervised machine learning, providing a taxonomy, summaries, and comparisons of existing studies."
+2103.04112,"Applying Machine Learning in Self-Adaptive Systems: A Systematic
+  Literature Review",1,1,review,"The paper is a systematic literature review, as indicated by its title and abstract, which aims to provide an overview of the use of machine learning in self-adaptive systems."
+2403.0466,"Exploring the Design Space of Optical See-through AR Head-Mounted
+  Displays to Support First Responders in the Field",0,0,other,"The paper presents original research based on interviews with first responders, exploring the design space of optical see-through AR head-mounted displays, and deriving comprehensive design guidelines, which indicates it is not a review or survey paper."
+2208.08876,Survey on Teleoperation Concepts for Automated Vehicles,1,1,review,"The paper's title contains the word 'survey' and the abstract indicates a comprehensive overview of existing teleoperation concepts for automated vehicles, summarizing literature and providing insights on industry activities."
+2304.10891,"Transformer-based models and hardware acceleration analysis in
+  autonomous driving: A survey",1,1,review,"The title contains the word 'survey' and the abstract indicates a comprehensive overview and analysis of existing Transformer-based models for autonomous driving, which aligns with the characteristics of a review paper."
+2207.04914,"Team CERBERUS Wins the DARPA Subterranean Challenge: Technical Overview
+  and Lessons Learned",0,0,other,"The paper presents a technical overview of a specific robotic system and its performance in a challenge, focusing on novel technologies and empirical results rather than reviewing existing literature."
+2301.10398,"A Survey of Process-Oriented Data Science and Analytics for supporting
+  Business Process Management",1,1,review,"The title contains the word 'survey' and the abstract indicates a discussion of various methods, suggesting a comprehensive overview of existing research in process-oriented data science and analytics."
+2404.16244,The Ethics of Advanced AI Assistants,1,1,review,"The paper provides an overview of AI assistants, explores various aspects of their impact, and offers recommendations, indicating a comprehensive review of the field rather than presenting new research or empirical results."
+2102.09368,How do students test software units?,0,0,other,"The paper presents original research based on surveys, exercises, and interviews to gain insight into students' understanding of software unit testing, indicating it is not a review or survey paper."
+2408.17222,"How Could Generative AI Support Compliance with the EU AI Act? A Review
+  for Safe Automated Driving Perception",1,1,review,"The title contains the word 'review' and the abstract indicates a systematic categorization and summary of existing research on generative AI applications in AD, aligning with characteristics of a review paper."
+2301.05339,A Comprehensive Review of Data-Driven Co-Speech Gesture Generation,1,1,review,"The title contains the word 'review' and the abstract indicates a comprehensive summary of existing research on co-speech gesture generation, including discussions of various approaches and identification of key challenges."
+2110.09313,"Impact of review valence and perceived uncertainty on purchase of
+  time-constrained and discounted search goods",0,0,other,"The paper presents original research with empirical analysis, a specific methodology, and novel results, indicating it is not a review or survey paper."
+2303.14779,"The Application of Driver Models in the Safety Assessment of Autonomous
+  Vehicles: A Survey",1,1,review,"The title contains the word 'survey' and the abstract indicates a comprehensive overview and comparison of existing driver models, which aligns with the characteristics of a review paper."
+2101.05869,"Technical Report: Rapid Reviews on Engineering of Internet of Things
+  Software Systems",1,1,review,"The paper conducts rapid reviews to characterize Internet of Things facets, indicating a systematic review of existing literature, and its title contains the word 'reviews', which is a strong indicator of a review/survey paper."
+2307.05035,Number Systems for Deep Neural Network Architectures: A Survey,1,1,review,"The title contains the word 'survey' and the abstract indicates a comprehensive overview of alternative number systems for deep neural networks, summarizing existing research."
+2111.13756,"Demystifying Ten Big Ideas and Rules Every Fire Scientist & Engineer
+  Should Know About Blackbox, Whitebox & Causal Artificial Intelligence",1,1,review,"The paper aims to demystify big ideas in AI for fire scientists and engineers, explaining fundamental concepts and clearing misconceptions, which is indicative of a review or survey paper."
+2408.00716,"A Natural Language Processing Framework for Hotel Recommendation Based
+  on Users' Text Reviews",0,0,other,"The paper proposes a new framework for hotel recommendation using Natural Language Processing and presents original research with a specific methodology and findings, rather than reviewing or surveying existing literature."
+2404.01335,Generative AI for Architectural Design: A Literature Review,1,1,review,"The paper is titled as a literature review and aims to provide a comprehensive overview of generative AI in architectural design, indicating it systematically reviews existing research."
+2409.05033,A Survey on Diffusion Models for Recommender Systems,1,1,review,"The paper is a comprehensive survey on diffusion models for recommender systems, systematically categorizing existing research works and providing a taxonomy of the field."
+2210.0556,"Comparison of encrypted control approaches and tutorial on dynamic
+  systems using LWE-based homomorphic encryption",0,1,review,"The paper reviews and categorizes recent studies on encrypted control, compares different approaches, and discusses their characteristics, indicating a comprehensive overview of the field."
+2208.14685,Accessible Interactive Maps for Visually Impaired Users,1,1,review,"The paper presents an exhaustive review of interactive map prototypes, classifying and comparing existing maps, and summarizing studies on their effectiveness for visually impaired users."
+2408.03817,Interactive Visual Analysis of Spatial Sensitivities,1,0,other,"The paper presents an interactive visual analytics solution for analyzing spatial sensitivities, which is a novel method and application, indicating it is an original research paper."
+2401.1631,Security Code Review by LLMs: A Deep Dive into Responses,0,0,other,"The paper presents original research by comparing the detection performance of LLMs in security code review and analyzing their responses, indicating it is not a review or survey paper."
+2203.03847,Trust in AI and Implications for the AEC Research: A Literature Analysis,1,1,review,"The paper presents a comprehensive analysis of existing literature on trust in AI and its implications for AEC research, indicating a systematic review of prior work."
+2109.0425600000003,Cataloging Dependency Injection Anti-Patterns in Software Systems,0,0,other,"The paper presents original research, including a proposed catalog of anti-patterns, a tool for static analysis, and survey results, which goes beyond a review or survey of existing literature."
+2106.04897,Unsupervised Automatic Speech Recognition: A Review,1,1,review,The title contains the word 'review' and the abstract indicates a systematic review of existing research literature on unsupervised automatic speech recognition.
+2303.14725,"Natural Language Reasoning, A Survey",1,1,review,"The paper is classified as a review because its title contains the word 'survey' and the abstract describes a comprehensive literature review of natural language reasoning in NLP, indicating a systematic overview of existing research."
+2202.03188,Knowledge-Integrated Informed AI for National Security,0,1,review,"The paper systematically reviews existing AI approaches, discusses examples of knowledge integration in deep learning and reinforcement learning, and identifies future research directions, indicating a comprehensive overview of the field."
+2212.06495,Inherent Limitations of AI Fairness,1,1,review,"The paper surveys criticisms of AI fairness, identifies key limitations, and aims to provide a nuanced opinion on developments in fair AI, indicating a review of existing research."
+2309.16459,Augmenting LLMs with Knowledge: A survey on hallucination prevention,1,1,review,The paper is classified as a review because its title contains the word 'survey' and it systematically reviews existing research on augmenting large language models with knowledge to prevent hallucination.
+2310.09485,"Applying Bayesian Ridge Regression AI Modeling in Virus Severity
+  Prediction",0,0,other,"The paper presents an application of Bayesian Ridge Regression AI modeling in virus severity prediction, focusing on original research and results rather than a comprehensive review of existing literature."
+2404.01363,"AIOps Solutions for Incident Management: Technical Guidelines and A
+  Comprehensive Literature Review",1,1,review,"The paper's title contains 'Comprehensive Literature Review' and its abstract describes categorizing contributions, proposing a taxonomy, and providing guidelines, indicating a systematic review of existing research in AIOps for incident management."
+2402.09781,A Comprehensive Review on Computer Vision Analysis of Aerial Data,1,1,review,"The title contains the phrase 'Comprehensive Review' and the abstract indicates a systematic review of existing research in computer vision tasks for aerial data analysis, including comparisons and discussions of various approaches and libraries."
+2404.12901,"Large Language Models for Networking: Workflow, Advances and Challenges",1,1,review,"The paper reviews recent advances in applying large language models to networking, presents an abstract workflow, and discusses challenges and future prospects, indicating a comprehensive overview of existing research."
+2306.12276,Wildfire Detection Via Transfer Learning: A Survey,0,1,review,"The title contains the word 'survey' and the abstract describes evaluating and comparing existing neural network models, indicating a systematic review of existing research."
+2404.0848,Decoding AI: The inside story of data analysis in ChatGPT,1,1,review,"The title contains 'review' implicitly through 'Decoding AI' implying an examination, and the abstract explicitly states it 'critically examines' the Data Analysis capabilities of ChatGPT, indicating a review of existing technology."
+2107.0138100000004,Recent Advancements In Distributed System Communications,1,1,review,"The paper is a literature survey that systematically reviews existing research proposals to overcome issues in distributed system communications, categorizing them into hardware-based and software-based approaches."
+2103.15698,A Systematic Survey on Multi-relational Community Detection,1,1,review,"The paper is a systematic survey of existing research on multi-relational community detection, providing a comprehensive overview and categorization of methods, datasets, and evaluation metrics."
+2303.02715,Deep Learning in the Field of Biometric Template Protection: An Overview,1,1,review,"The title contains the word 'overview' and the abstract indicates a comprehensive discussion of deep learning in biometric template protection, suggesting a survey of existing research."
+2301.0689,"AI-Based Affective Music Generation Systems: A Review of Methods, and
+  Challenges",1,1,review,"The title contains the word 'review' and the abstract states that the article aims to provide a comprehensive review of AI-based affective music generation systems, indicating a systematic overview of existing research."
+2407.17503,"Challenges and Considerations in Annotating Legal Data: A Comprehensive
+  Overview",1,1,review,"The paper provides a comprehensive overview of challenges in annotating legal data, aiming to offer guidance and foundational understanding, which aligns with characteristics of review/survey papers."
+2107.0090600000003,"Using Machine Learning to Generate Test Oracles: A Systematic Literature
+  Review",1,1,review,"The paper is classified as a review because it presents a systematic literature review of existing research on using machine learning to generate test oracles, examining multiple studies and summarizing their findings."
+2305.14525,"The State of the Art in Creating Visualization Corpora for Automated
+  Chart Analysis",1,1,review,"The paper surveys existing literature, providing a comprehensive overview of visualization corpora in automated chart analysis research, and summarizes common patterns and practices."
+2105.05714,Representation in Dynamical Systems,0,0,other,"The paper presents a novel perspective and argument on how dynamical systems can operate using representations, indicating original research or conceptual contribution rather than a systematic review of existing literature."
+2107.07404,Two-Sided Matching Meets Fair Division,0,0,other,"The paper introduces a new model and presents original research results, including proofs and algorithms, which is characteristic of an original research paper rather than a review or survey."
+2105.08179,Learning Disentangled Representations for Time Series,0,0,other,"The paper presents a novel framework for learning disentangled representations for time series data and includes experimental results, indicating it is an original research paper."
+2109.14208,"A Communication Security Game on Switched Systems for Autonomous Vehicle
+  Platoons",0,0,other,"The paper proposes a new framework and derives conditions for achieving stability in autonomous vehicle platoons, indicating original research rather than a review or survey of existing work."
+2103.08634,"Competitive Equilibria with Unequal Budgets: Supporting Arbitrary Pareto
+  Optimal Allocations",0,0,other,"The paper presents original research by introducing a new market setting, proposing algorithms, and proving results to support Pareto efficient allocations, which is characteristic of an original research paper."
+2101.01842,Confluence up to Garbage in Graph Transformation,0,0,other,"The paper presents new methods and results, specifically introducing a notion and generalizing an existing lemma, and applies these to case studies, indicating original research rather than a review or survey."
+2106.07353,Posthoc Verification and the Fallibility of the Ground Truth,0,0,other,"The paper presents original research, conducting a systematic posthoc verification experiment and discussing its findings, rather than reviewing or surveying existing literature."
+2306.13055,Deep Metric Learning with Soft Orthogonal Proxies,0,0,other,"The paper proposes a novel approach to Deep Metric Learning and presents experimental results, indicating it is an original research paper."
+2312.10961,Aspect-Based Sentiment Analysis with Explicit Sentiment Augmentations,0,0,other,"The paper proposes a new method for aspect-based sentiment analysis and presents experimental results, indicating it is an original research paper."
+2203.0451,ReVar: Strengthening Policy Evaluation via Reduced Variance Sampling,0,0,other,"The paper presents a new algorithm (ReVar) and empirical results for policy evaluation in Markov decision processes, indicating original research rather than a review or survey."
+2307.0828300000003,Complexity Matters: Rethinking the Latent Space for Generative Modeling,0,0,other,"The paper presents a novel approach to generative modeling by rethinking the latent space, proposing a new distance metric, and introducing a two-stage training strategy, which indicates original research rather than a review or survey of existing work."
+2304.0962600000003,StyleDEM: a Versatile Model for Authoring Terrains,0,0,other,"The paper introduces a new method, StyleDEM, for terrain synthesis and authoring, presenting original research and a novel approach, rather than reviewing existing literature."
+2202.07499,"Texture Aware Autoencoder Pre-training And Pairwise Learning Refinement
+  For Improved Iris Recognition",0,0,other,"The paper presents a novel iris recognition system with specific architectural innovations and experimental results, indicating it is an original research paper."
+2307.02132,"Going Retro: Astonishingly Simple Yet Effective Rule-based Prosody
+  Modelling for Speech Synthesis Simulating Emotion Dimensions",0,0,other,"The paper presents original research introducing new rule-based models for prosody modelling in speech synthesis, along with experimental results and evaluations."
+2406.11867,"Not as Simple as It Looked: Are We Concluding for Biased Arrest
+  Practices?",0,0,other,"The paper presents original research, analyzing specific data from the Cincinnati Police Department and drawing new conclusions about racial disparities in arrest outcomes, which categorizes it as an original research paper rather than a review or survey."
+2203.15988,"Does Configuration Encoding Matter in Learning Software Performance? An
+  Empirical Study on Encoding Schemes",0,0,other,"The paper presents an empirical study with new results, comparing different encoding schemes for software performance learning, which is characteristic of original research rather than a review or survey."
+2107.13298,Generalized Nash Equilibrium Problems with Mixed-Integer Variables,0,0,other,"The paper presents a new approach to characterize equilibria in generalized Nash equilibrium problems and includes a numerical study, indicating it is an original research paper."
+2105.1014800000003,On Instrumental Variable Regression for Deep Offline Policy Evaluation,0,0,other,"The paper presents original research by analyzing and comparing various instrumental variable methods for deep offline policy evaluation, and it includes empirical results and new techniques."
+2103.12498,Stereo Object Matching Network,0,0,other,"The paper presents a novel stereo object matching method and reports experimental results, indicating it is an original research paper."
+2303.10452,"Confidence Attention and Generalization Enhanced Distillation for
+  Continuous Video Domain Adaptation",0,0,other,"The paper proposes a new method (CART) for Continuous Video Domain Adaptation and presents experimental results, indicating it is an original research paper."
+2204.09222,K-LITE: Learning Transferable Visual Models with External Knowledge,0,0,other,"The paper proposes a new method, K-LITE, and presents experimental results on its performance, indicating it is an original research paper."
+2401.06379,"Vehicle: Bridging the Embedding Gap in the Verification of
+  Neuro-Symbolic Programs",0,0,other,"The paper presents a new tool, Vehicle, for verifying neuro-symbolic programs and demonstrates its utility through an example, indicating original research rather than a review or survey."
+2108.09372,InBiodiv-O: An Ontology for Indian Biodiversity Knowledge Management,1,0,other,"The paper presents a new ontology for Indian biodiversity knowledge management, which is an original contribution rather than a review of existing research."
+2104.04205,"Alignment of Stakeholder Expectations about User Involvement in Agile
+  Software Development",0,0,other,"The paper presents an original case study, collects qualitative data through interviews, and proposes a novel method for assessing expectation alignment, indicating it is not a review or survey paper."
+2308.106,Fixed-Parameter Algorithms for Computing RAC Drawings of Graphs,0,0,other,"The paper presents original research on fixed-parameter algorithms for computing RAC drawings of graphs, introducing new methods and results rather than reviewing existing literature."
+2407.1241,Proximity-based Self-Federated Learning,0,0,other,"The paper presents a novel approach to federated learning, introducing a new method called proximity-based self-federated learning, and demonstrates its efficacy through simulations, which is characteristic of original research papers."
+2407.11882,"Enhancing Covert Communication in Relay Systems Using Multi-Antenna
+  Technique",0,0,other,"The paper presents original research by proposing a new method to enhance covert communication using multi-antenna techniques and provides numerical results to support its claims, indicating it is not a review or survey paper."
+2112.05416,Optimizing Edge Detection for Image Segmentation with Multicut Penalties,0,0,other,"The paper presents a new method for optimizing edge detection and image segmentation, and includes experimental results on specific benchmarks, indicating it is an original research paper."
+2212.0228,GARF:Geometry-Aware Generalized Neural Radiance Field,0,0,other,"The paper presents a new method, GARF, with a proposed strategy and modules for improved neural radiance field performance, indicating original research rather than a review or survey."
+2111.01726,"Instructive artificial intelligence (AI) for human training, assistance,
+  and explainability",0,0,other,"The paper presents a novel approach to explainable AI, demonstrates it through a case study, and reports on experiments, indicating original research rather than a review or survey of existing literature."
+2407.03949,Establishing Provenance Before Coding: Traditional and Next-Gen Signing,1,0,other,"The paper presents a specific approach to verifying component origin and discusses traditional and next-gen signing, indicating original research or technical content rather than a comprehensive review of existing literature."
+2306.09124,DIFFender: Diffusion-Based Adversarial Defense against Patch Attacks,0,0,other,"The paper proposes a novel defense method and presents experimental results, indicating it is an original research paper rather than a review or survey."
+2102.05301,Parallel Minimum Cuts in $O(m \log^2(n))$ Work and Low Depth,0,0,other,"The paper presents a new parallel algorithm for minimum cut, improving on previous work bounds and depth, indicating original research rather than a review or survey."
+2311.16104,Data Analytics with Differential Privacy,0,0,other,"The paper presents new algorithms and methods for data analytics with differential privacy, including theoretical analysis and experimental evaluation, indicating original research."
+2204.03418,"Continual Inference: A Library for Efficient Online Inference with Deep
+  Neural Networks in PyTorch",0,0,other,"The paper presents a new library and guide for implementing Continual Inference Networks, indicating it is an original contribution rather than a review of existing research."
+2312.10423,"Stochastic Bayesian Optimization with Unknown Continuous Context
+  Distribution via Kernel Density Estimation",0,0,other,"The paper presents new algorithms and theoretical results for stochastic Bayesian optimization, indicating original research rather than a review or survey of existing work."
+2404.01413,"Is Model Collapse Inevitable? Breaking the Curse of Recursion by
+  Accumulating Real and Synthetic Data",0,0,other,"The paper presents original research with new experiments and results on model collapse in generative models, and does not systematically review existing literature."
+2102.10024,A Tb/s Indoor MIMO Optical Wireless Backhaul System Using VCSEL Arrays,0,0,other,"The paper presents a novel design and analysis of a MIMO optical wireless backhaul system, including simulations and performance evaluation, which indicates original research rather than a review or survey."
+2112.04352,"Efficient Data Race Detection of Async-Finish Programs Using Vector
+  Clocks",0,0,other,"The paper presents a new technique, FastRacer, for efficient data race detection and evaluates its performance, indicating it is an original research paper."
+2204.08609,"""Flux+Mutability"": A Conditional Generative Approach to One-Class
+  Classification and Anomaly Detection",0,0,other,"The paper presents a novel machine learning architecture and demonstrates its application to specific problems, indicating original research rather than a review or survey of existing work."
+2309.15572,"HPL-ViT: A Unified Perception Framework for Heterogeneous Parallel
+  LiDARs in V2V",0,0,other,"The paper presents a novel framework, proposes a new architecture, and reports experimental results, indicating original research rather than a review or survey of existing work."
+2203.16123,"An I/O-Efficient Disk-based Graph System for Scalable Second-Order
+  Random Walk of Large Graphs",0,0,other,"The paper presents a new system, GraSorw, for scalable second-order random walk of large graphs, along with experimental results, indicating it is an original research paper."
+2112.14478,Semantic Feature Extraction for Generalized Zero-shot Learning,0,0,other,"The paper presents a new technique for generalized zero-shot learning and proposes novel loss functions, indicating original research rather than a review or survey of existing work."
+2110.13535,"An in-depth Analysis of Occasional and Recurring Collaborations in
+  Online Music Co-creation",0,0,other,"The paper presents an original analysis of collaborations in online music co-creation, using frequent pattern mining techniques and reporting on specific findings from the Songtree community."
+2104.12124,On Measure Quantifiers in First-Order Arithmetic (Long Version),0,0,other,"The paper presents original research by introducing a new kind of quantification in first-order arithmetic and exploring its capabilities, indicating it is not a review or survey paper."
+2105.08114,Weakly Private Information Retrieval Under R\'enyi Divergence,0,1,review,heuristic keyword match after JSON parse failure
+2205.10386,A Dynamic Weighted Tabular Method for Convolutional Neural Networks,0,0,other,"The paper presents a novel technique, Dynamic Weighted Tabular Method, and applies it to benchmark datasets, indicating original research rather than a review or survey of existing work."
+2103.14021,Orthogonal Projection Loss,0,0,other,"The paper presents a novel loss function, Orthogonal Projection Loss, and evaluates its effectiveness on various tasks, indicating it is an original research paper."
+2207.0157,Goal-Conditioned Generators of Deep Policies,0,0,other,"The paper presents original research on goal-conditioned generators of deep policies, including new methods and experimental results, which falls under the category of original research papers."
+2304.13502,"How Semantic Information G Measure Relates to Distortion, Freshness,
+  Purposiveness, and Efficiency",1,0,other,"The paper presents a new measure, the semantic information G measure, and applies it to specific examples, demonstrating its use in machine learning and optimization, which indicates original research rather than a review or survey."
+2208.02578,"N-best Response-based Analysis of Contradiction-awareness in Neural
+  Response Generation Models",0,0,other,"The paper presents an original analysis of contradiction-awareness in neural response generation models using n-best response lists, indicating it is an original research paper rather than a review or survey."
+2101.06545,VideoClick: Video Object Segmentation with a Single Click,0,0,other,"The paper proposes a new method for video object segmentation and presents experimental results, indicating it is an original research paper."
+2201.02065,"ASL-Skeleton3D and ASL-Phono: Two Novel Datasets for the American Sign
+  Language",0,0,other,"The paper introduces two novel datasets for American Sign Language, presenting new resources rather than reviewing existing research."
+2109.03891,"SORNet: Spatial Object-Centric Representations for Sequential
+  Manipulation",0,0,other,"The paper proposes a new framework, SORNet, and evaluates its performance on various tasks, indicating it presents original research."
+2101.09528,"Hard satisfiable formulas for DPLL algorithms using heuristics with
+  small memory",0,0,other,"The paper presents new results and analysis on DPLL algorithms, specifically constructing hard satisfiable formulas, which indicates original research rather than a review or survey."
+2110.03276,"Inferring Substitutable and Complementary Products with Knowledge-Aware
+  Path Reasoning based on Dynamic Policy Network",0,0,other,"The paper proposes a novel model and evaluates it on real-world datasets, indicating original research rather than a review or survey of existing work."
+2409.1151,Unidirectional Human-Robot-Human Physical Interaction for Gait Training,0,0,other,"The paper presents a novel rehabilitation framework and proposes an impedance profile for virtual interaction, indicating original research contributions rather than a review or survey of existing work."
+2206.0279600000003,Mixed Graph Contrastive Network for Semi-Supervised Node Classification,0,0,other,"The paper proposes a novel graph contrastive learning method and presents experimental results, indicating it is an original research paper."
+2207.07212,"Attention, Filling in The Gaps for Generalization in Routing Problems",0,0,other,"The paper presents new methodologies and improvements to existing models for vehicle routing problems, indicating original research rather than a review or survey of existing literature."
+2109.08569,"Mitigating Data Scarceness through Data Synthesis, Augmentation and
+  Curriculum for Abstractive Summarization",0,0,other,"The paper presents original research by introducing new data manipulation techniques and conducting experiments to evaluate their effectiveness, which is characteristic of an original research paper rather than a review or survey."
+2305.08116,"The Structure and Dynamics of Knowledge Graphs, with Superficiality",0,0,other,"The paper presents a new model for the structure and dynamics of knowledge graphs, indicating original research rather than a review or survey of existing work."
+2305.03859,"Open problems in causal structure learning: A case study of COVID-19 in
+  the UK",0,0,other,"The paper presents a case study, investigates challenges, and explores the impact of different data formats on various algorithms, indicating original research rather than a systematic review of existing literature."
+2402.10639,"Generalizability of Mixture of Domain-Specific Adapters from the Lens of
+  Signed Weight Directions and its Application to Effective Model Pruning",0,0,other,"The paper presents a comprehensive analysis and investigation into the generalizability of domain-specific adapter mixtures, indicating original research rather than a review or survey of existing literature."
+2204.08584,A Region-Based Deep Learning Approach to Automated Retail Checkout,0,0,other,"The paper proposes a novel deep learning approach and presents original research results, including experiments and evaluations on real-world test videos."
+2404.0556300000003,"Predefined Software Environment Runtimes As A Measure For
+  Reproducibility",0,0,other,"The paper presents a new method and tool for preserving software environments, and proposes its use to aid reproducibility efforts, indicating original research rather than a review or survey."
+2206.03879,Reconfiguration of Non-crossing Spanning Trees,0,0,other,"The paper presents original research on reconfiguring non-crossing spanning trees, including new algorithms and bounds, which is characteristic of an original research paper rather than a review or survey."
+2201.0030100000004,"Investigating Cargo Loss in Logistics Systems using Low-Cost Impact
+  Sensors",0,0,other,"The paper proposes a new solution architecture and presents insights from a real-life use case, indicating original research rather than a review or survey of existing literature."
+2303.02449,"Exploit CAM by itself: Complementary Learning System for Weakly
+  Supervised Semantic Segmentation",0,0,other,"The paper presents a novel method for weakly supervised semantic segmentation, proposing a new learning mechanism and achieving state-of-the-art results on benchmark datasets."
+2404.19542,"One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal
+  Multi-scale and Action Label Features",0,0,other,"The paper presents a new method for Open-vocabulary Temporal Action Detection and evaluates its performance on benchmark datasets, indicating it is an original research paper."
+2110.0517,"Domain Adaptive Semantic Segmentation via Regional Contrastive
+  Consistency Regularization",0,0,other,"The paper proposes a novel approach for domain adaptive semantic segmentation and presents experimental results, indicating it is an original research paper."

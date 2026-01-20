@@ -1,0 +1,20 @@
+{
+  "model": "ollama/gpt-oss",
+  "temperature": 0.0,
+  "total_papers": 140,
+  "accuracy": 0.9,
+  "precision": 0.9387755102040817,
+  "recall": 0.8070175438596491,
+  "f1_score": 0.8679245283018868,
+  "confusion_matrix": [
+    [
+      80,
+      3
+    ],
+    [
+      11,
+      46
+    ]
+  ],
+  "classification_report": "              precision    recall  f1-score   support\n\n       Other       0.88      0.96      0.92        83\n      Review       0.94      0.81      0.87        57\n\n    accuracy                           0.90       140\n   macro avg       0.91      0.89      0.89       140\nweighted avg       0.90      0.90      0.90       140\n"
+}

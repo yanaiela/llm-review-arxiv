@@ -1,0 +1,30 @@
+[
+  {
+    "arxiv_id": "2309.172",
+    "reason": "HTTPError: 404 Client Error: Not Found for url: https://arxiv.org/pdf/2309.172"
+  },
+  {
+    "arxiv_id": "2309.16442",
+    "reason": "HTTPError: 404 Client Error: Not Found for url: https://arxiv.org/pdf/2309.16442"
+  },
+  {
+    "arxiv_id": "2311.18587",
+    "reason": "HTTPError: 404 Client Error: Not Found for url: https://arxiv.org/pdf/2311.18587"
+  },
+  {
+    "arxiv_id": "2403.1489",
+    "reason": "HTTPError: 404 Client Error: Not Found for url: https://arxiv.org/pdf/2403.1489"
+  },
+  {
+    "arxiv_id": "2501.037",
+    "reason": "HTTPError: 404 Client Error: Not Found for url: https://arxiv.org/pdf/2501.037"
+  },
+  {
+    "arxiv_id": "2509.007",
+    "reason": "HTTPError: 404 Client Error: Not Found for url: https://arxiv.org/pdf/2509.007"
+  },
+  {
+    "arxiv_id": "2509.104",
+    "reason": "HTTPError: 404 Client Error: Not Found for url: https://arxiv.org/pdf/2509.104"
+  }
+]

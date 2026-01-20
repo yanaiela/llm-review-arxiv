@@ -1,0 +1,81 @@
+================================================================================
+AI-GENERATED CONTENT IN REVIEW PAPERS: STATISTICAL ANALYSIS (PANGRAM)
+================================================================================
+
+DESCRIPTIVE STATISTICS
+--------------------------------------------------------------------------------
+
+Total Papers: 3498
+Valid Classifications: 3498
+Classification Success Rate: 100.0%
+
+Overall AI-Generated Papers: 453 (13.0%)
+Mean Confidence: 0.136 ± 0.324
+
+Post-LLM Review Papers:
+  Count: 551
+  AI-Generated: 89 (16.2%)
+  Mean Confidence: 0.166
+
+Post-LLM Regular Papers:
+  Count: 2947
+  AI-Generated: 364 (12.4%)
+  Mean Confidence: 0.130
+
+
+PROPORTION COMPARISON (Post-LLM Period)
+--------------------------------------------------------------------------------
+
+Review Papers:
+  AI-Generated: 89/551 (16.2%)
+
+Regular Papers:
+  AI-Generated: 364/2947 (12.4%)
+
+Difference: 3.8%
+Relative Increase: 30.8%
+
+Chi-square Test:
+  χ² = 5.6166, p = 0.0178
+  Cramér's V = 0.0401
+  Significant: True
+
+
+CONFIDENCE SCORE COMPARISON (Post-LLM Period)
+--------------------------------------------------------------------------------
+
+Review Papers:
+  Mean: 0.166 ± 0.354
+  Median: 0.000
+
+Regular Papers:
+  Mean: 0.130 ± 0.318
+  Median: 0.000
+
+Statistical Tests:
+  T-test: t = 2.3426, p = 0.0192 (sig: True)
+  Mann-Whitney U: U = 813682, p = 0.9347 (sig: False)
+  Cohen's d: 0.1087
+
+
+YEARLY TRENDS (Post-LLM)
+--------------------------------------------------------------------------------
+  Years covered: 2023, 2024, 2025
+
+  Paper Counts by Year:
+    2023: review: 206 regular: 905
+    2024: review: 197 regular: 990
+    2025: review: 148 regular: 1052
+
+  Review Share by Year:
+    2023: 18.5%
+    2024: 16.6%
+    2025: 12.3%
+
+  Review Share Trend (Logistic Regression):
+    coef=-0.2359, OR/yr=0.790, p=0.0000, significant=True
+
+
+CONCLUSION
+--------------------------------------------------------------------------------
+No clear difference in AI-generated content between review and regular papers.

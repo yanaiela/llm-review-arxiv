@@ -1,0 +1,169 @@
+{
+  "descriptive": {
+    "overall": {
+      "total_papers": 34825
+    },
+    "group_level_alphas": {
+      "pre_llm_review": {
+        "alpha": 0.069,
+        "alpha_ci": 0.01,
+        "count": 529
+      },
+      "pre_llm_regular": {
+        "alpha": 0.007,
+        "alpha_ci": 0.001,
+        "count": 16350
+      },
+      "post_llm_review": {
+        "alpha": 0.315,
+        "alpha_ci": 0.016,
+        "count": 492
+      },
+      "post_llm_regular": {
+        "alpha": 0.129,
+        "alpha_ci": 0.002,
+        "count": 17454
+      }
+    },
+    "group_level_alphas_adjusted": {
+      "pre_llm_review": {
+        "alpha": 0.0,
+        "alpha_ci": 0.0
+      },
+      "pre_llm_regular": {
+        "alpha": 0.0,
+        "alpha_ci": 0.0
+      },
+      "post_llm_review": {
+        "alpha": 0.26423200859291085,
+        "alpha_ci": 0.017185821697099892
+      },
+      "post_llm_regular": {
+        "alpha": 0.1228600201409869,
+        "alpha_ci": 0.002014098690835851
+      }
+    },
+    "review_papers": {
+      "count": 1021
+    },
+    "regular_papers": {
+      "count": 33804
+    },
+    "pre_llm_period": {
+      "count": 16879
+    },
+    "post_llm_period": {
+      "count": 17946
+    },
+    "pre_llm_review": {
+      "count": 529
+    },
+    "pre_llm_regular": {
+      "count": 16350
+    },
+    "post_llm_review": {
+      "count": 492
+    },
+    "post_llm_regular": {
+      "count": 17454
+    }
+  },
+  "alpha_comparison": {
+    "test": "alpha_comparison",
+    "review_alpha": 0.315,
+    "regular_alpha": 0.129,
+    "difference": 0.186,
+    "relative_increase": 144.1860465116279,
+    "review_ci_lower": 0.299,
+    "review_ci_upper": 0.331,
+    "regular_ci_lower": 0.127,
+    "regular_ci_upper": 0.131,
+    "confidence_intervals_overlap": false,
+    "review_alpha_adjusted": 0.26423200859291085,
+    "regular_alpha_adjusted": 0.1228600201409869,
+    "difference_adjusted": 0.14137198845192395,
+    "relative_increase_adjusted": 115.06752830554139,
+    "review_ci_lower_adjusted": 0.24704618689581095,
+    "review_ci_upper_adjusted": 0.2814178302900107,
+    "regular_ci_lower_adjusted": 0.12084592145015105,
+    "regular_ci_upper_adjusted": 0.12487411883182276,
+    "confidence_intervals_overlap_adjusted": false
+  },
+  "baseline": {
+    "test": "baseline_check",
+    "review_fpr": 0.069,
+    "review_fpr_ci": 0.01,
+    "review_count": 529,
+    "regular_fpr": 0.007,
+    "regular_fpr_ci": 0.001,
+    "regular_count": 16350,
+    "average_fpr": 0.007,
+    "total_pre_llm_papers": 16879,
+    "acceptable": true
+  },
+  "yearly_trends": {
+    "counts_by_year_type": {
+      "regular": {
+        "2023": 5773,
+        "2024": 5831,
+        "2025": 5850
+      },
+      "review": {
+        "2023": 178,
+        "2024": 166,
+        "2025": 148
+      }
+    },
+    "review_share_by_year": {
+      "2023": 0.0299109393379264,
+      "2024": 0.02768050692012673,
+      "2025": 0.024674891630543514
+    },
+    "review_share_trend": {
+      "coef_year": -0.0983364511277566,
+      "p_value": 0.07984677962963645,
+      "odds_ratio_per_year": 0.9063439120180574,
+      "significant": false
+    },
+    "alpha_comparison_by_year": {
+      "2023": {
+        "review_alpha": 0.11063372717508053,
+        "regular_alpha": 0.0513595166163142,
+        "difference": 0.05927421055876633,
+        "relative_increase": 115.4103746761862,
+        "review_ci_lower": 0.08592910848549944,
+        "review_ci_upper": 0.13533834586466162,
+        "regular_ci_lower": 0.04833836858006042,
+        "regular_ci_upper": 0.05438066465256798,
+        "confidence_intervals_overlap": false
+      },
+      "2024": {
+        "review_alpha": 0.34156820622986034,
+        "regular_alpha": 0.1510574018126888,
+        "difference": 0.19051080441717153,
+        "relative_increase": 126.11815252416756,
+        "review_ci_lower": 0.30934479054779807,
+        "review_ci_upper": 0.3737916219119226,
+        "regular_ci_lower": 0.1470292044310171,
+        "regular_ci_upper": 0.15508559919436052,
+        "confidence_intervals_overlap": false
+      },
+      "2025": {
+        "review_alpha": 0.359828141783029,
+        "regular_alpha": 0.17220543806646524,
+        "difference": 0.18762270371656378,
+        "relative_increase": 108.9528332108467,
+        "review_ci_lower": 0.32545649838882923,
+        "review_ci_upper": 0.3941997851772288,
+        "regular_ci_lower": 0.16817724068479353,
+        "regular_ci_upper": 0.17623363544813694,
+        "confidence_intervals_overlap": false
+      }
+    },
+    "years_present": [
+      2023,
+      2024,
+      2025
+    ]
+  }
+}
