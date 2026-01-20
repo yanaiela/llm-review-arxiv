@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data files
+data/raw/*.pdf
+data/processed/cs/
+data/processed/math/
+data/processed/physics/
+data/processed/stat/
+data/openalex/
+data/openalex.zip
+
+data/results/ai_detection_results_external.csv.zip
+
+data/kaggle/
+
+# Keep directory structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/results/.gitkeep
+!data/figures/.gitkeep
+!data/external/README.md
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+# overleaf paper
+paper/
+
+.claude/

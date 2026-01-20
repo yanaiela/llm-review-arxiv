@@ -1,0 +1,208 @@
+# Configuration for AI Review Paper Study
+
+# Data Collection Parameters
+data_collection:
+  # Sample sizes
+  sample_size:
+    review_papers_post_llm: 1000
+    regular_papers_post_llm: 1000
+    review_papers_pre_llm: 1000
+    regular_papers_pre_llm: 1000
+  
+  # Time periods
+  time_periods:
+    pre_llm_start: "2018-01-01"
+    pre_llm_end: "2022-12-31"
+    post_llm_start: "2023-01-01"
+    post_llm_end: "2025-12-31"
+  
+  # arXiv categories to include
+  arxiv_categories:
+    - "cs.AI"
+    - "cs.LG"
+    - "cs.CL"
+    - "cs.CV"
+    - "stat.ML"
+  
+  # Keywords for review papers
+  review_keywords:
+    - "review"
+    - "survey"
+    - "overview"
+    - "primer"
+    - "systematic review"
+    - "literature review"
+  
+  # Keywords for regular papers
+  regular_keywords:
+    - "results"
+    - "experimental"
+    - "empirical"
+    - "evaluation"
+    - "dataset"
+  
+  # API Keys (set via environment variables)
+  api_keys:
+    semantic_scholar: ${SEMANTIC_SCHOLAR_API_KEY}
+    openai: ${OPENAI_API_KEY}  # Optional, for some detection methods
+
+# Paper Classification Parameters
+classification:
+  # Thresholds for review paper detection
+  min_references_review: 50
+  max_references_regular: 40
+  
+  # Section keywords
+  review_sections:
+    - "background"
+    - "related work"
+    - "literature"
+  
+  regular_sections:
+    - "methods"
+    - "methodology"
+    - "experiments"
+    - "results"
+    - "evaluation"
+
+# AI Detection Parameters
+detection:
+  # Perplexity thresholds (to be calibrated)
+  perplexity_threshold: 50.0
+
+  # AI-likelihood score threshold for binary classification
+  ai_likelihood_threshold: 0.7
+
+  # Pangram SDK configuration
+  pangram:
+    api_key: ${PANGRAM_API_KEY}  # Set via environment variable
+    batch_size: 32
+    rate_limit_delay: 1.0  # Seconds between batch requests
+  
+  # Sections to analyze
+  sections_to_analyze:
+    - "abstract"
+    - "introduction"
+    - "methodology"
+    - "conclusion"
+  
+  # Linguistic features
+  linguistic_features:
+    - "sentence_length_variance"
+    - "type_token_ratio"
+    - "burstiness"
+    - "rare_word_frequency"
+    - "transition_phrase_frequency"
+  
+  # Known AI phrases (higher frequency suggests AI)
+  ai_indicator_phrases:
+    - "delve into"
+    - "comprehensive understanding"
+    - "multifaceted"
+    - "it is important to note"
+    - "in today's world"
+    - "in conclusion, it is evident"
+    - "revolutionary"
+    - "paradigm shift"
+    # From Table 1 in https://arxiv.org/pdf/2502.09606?
+    - "commendable"
+    - "innovative"
+    - "meticulous"
+    - "intricate"
+    - "notable"
+    - "versatile"
+    - "pivotal"
+    - "realm"
+    - "showcasing"
+    - "significant"
+    - "crucial"
+    - "effectively"
+    - "additionally"
+    - "comprehensive"
+    - "enhance"
+    - "capabilities"
+    - "valuable"
+  
+  # Models for perplexity calculation
+  perplexity_models:
+    - "gpt2"
+    - "gpt2-medium"
+
+# Statistical Analysis Parameters
+statistics:
+  # Significance level
+  alpha: 0.05
+  
+  # Confidence level for intervals
+  confidence_level: 0.95
+  
+  # Minimum effect size to consider meaningful
+  min_effect_size: 0.2  # Cohen's d
+  
+  # Tests to perform
+  tests:
+    - "chi_square"
+    - "t_test"
+    - "mann_whitney"
+    - "logistic_regression"
+  
+  # Control variables for regression
+  control_variables:
+    - "paper_length"
+    - "num_authors"
+    - "arxiv_category"
+    - "citation_count"
+
+# Output Parameters
+output:
+  # Directory structure
+  directories:
+    raw_data: "data/raw"
+    processed_data: "data/processed"
+    results: "data/results"
+    figures: "data/figures"
+    reports: "data/reports"
+  
+  # Output formats
+  save_formats:
+    - "csv"
+    - "json"
+    - "html"
+  
+  # Visualization settings
+  visualization:
+    figure_format: "png"
+    dpi: 300
+    style: "seaborn-v0_8-darkgrid"
+    color_palette: "Set2"
+    # Use CS subcategories instead of high-level categories in category plots
+    # If true, plots will show cs.LG, cs.CV, cs.AI, etc. instead of cs, math, stat, physics
+    use_cs_subcategories: false
+
+# Processing Parameters
+processing:
+  # Parallel processing
+  n_jobs: 50
+  
+  # Batch size for processing
+  batch_size: 50
+  
+  # Maximum paper length to process (words)
+  max_paper_length: 50000
+  
+  # Minimum paper length to consider valid
+  min_paper_length: 1000
+  
+  # Random seed for reproducibility
+  random_seed: 42
+
+# Validation Parameters
+validation:
+  # Size of manual validation sample
+  manual_validation_size: 100
+  
+  # Cross-validation folds
+  cv_folds: 5
+  
+  # Acceptable false positive rate on pre-LLM papers
+  max_false_positive_rate: 0.10

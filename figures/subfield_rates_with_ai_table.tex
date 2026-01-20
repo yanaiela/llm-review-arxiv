@@ -1,0 +1,25 @@
+% Requires: \usepackage{xcolor} and \usepackage{colortbl}
+% Add to preamble: \definecolor{tableblue}{RGB}{66, 133, 244}
+% Add to preamble: \definecolor{tablered}{RGB}{219, 68, 55}
+
+\begin{table}[htbp]
+\centering
+\caption{Review Paper and AI Generation Rates by Subfield}
+\label{tab:subfield_rates_with_ai}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Topic} & \textbf{Review Rate (\%)} & \textbf{AI Rate (\%)} \\
+\midrule
+Safety Research & \cellcolor{blue!50} 61.4 & \cellcolor{red!33} 13.9 \\
+Health Informatics & \cellcolor{blue!38} 44.0 & \cellcolor{red!50} 20.1 \\
+Sociology and Political Science & \cellcolor{blue!30} 32.4 & \cellcolor{red!24} 10.7 \\
+Management Information Systems & \cellcolor{blue!29} 32.1 & \cellcolor{red!43} 17.7 \\
+Education & \cellcolor{blue!29} 31.0 & \cellcolor{red!31} 13.3 \\
+Computer Vision and Pattern Recognition & \cellcolor{blue!11} 5.3 & \cellcolor{red!10} 5.2 \\
+Ocean Engineering & \cellcolor{blue!10} 4.5 & \cellcolor{red!18} 8.2 \\
+Control and Systems Engineering & \cellcolor{blue!10} 4.0 & \cellcolor{red!19} 8.6 \\
+Aerospace Engineering & \cellcolor{blue!10} 4.0 & \cellcolor{red!12} 6.0 \\
+Biomedical Engineering & \cellcolor{blue!10} 3.2 & \cellcolor{red!15} 7.1 \\
+\bottomrule
+\end{tabular}
+\end{table}
